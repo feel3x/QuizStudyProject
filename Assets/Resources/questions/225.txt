@@ -1,0 +1,1 @@
+{"id":225,"type":"boolean","difficulty":"hard","category":"Entertainment: Books","question":"Harry Potter was born on July 31st, 1980.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

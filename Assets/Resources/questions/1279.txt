@@ -1,0 +1,1 @@
+{"id":1279,"type":"multiple","difficulty":"medium","category":"Mythology","question":"What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?","correct_answer":"Bull","incorrect_answers":["Pig","Ox","Horse"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

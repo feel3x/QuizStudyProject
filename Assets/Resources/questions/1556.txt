@@ -1,0 +1,1 @@
+{"id":1556,"type":"multiple","difficulty":"hard","category":"Geography","question":"What is the land connecting North America and South America?","correct_answer":"Isthmus of Panama","incorrect_answers":["Isthmus of Suez","Urals","Australasia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

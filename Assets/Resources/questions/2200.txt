@@ -1,0 +1,1 @@
+{"id":2200,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Krusty is the guild master of which guild in &quot;Log Horizon&quot;?","correct_answer":"D. D. D","incorrect_answers":["Silver Sword","West Wind Brigade","Oceanic Systems (Marine Agency)"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

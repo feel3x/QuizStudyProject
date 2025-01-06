@@ -1,0 +1,1 @@
+{"id":284,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"The 2010 film &quot;The Social Network&quot; is a biographical drama film about MySpace founder Tom Anderson.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

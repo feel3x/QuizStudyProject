@@ -1,0 +1,1 @@
+{"id":1196,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Which of the following is the oldest of these computers by release date?","correct_answer":"TRS-80","incorrect_answers":["Commodore 64","ZX Spectrum","Apple 3"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

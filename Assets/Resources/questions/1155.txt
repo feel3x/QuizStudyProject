@@ -1,0 +1,1 @@
+{"id":1155,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"How fast is USB 3.1 Gen 2 theoretically?","correct_answer":"10 Gb/s","incorrect_answers":["5 Gb/s","8 Gb/s","1 Gb/s"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

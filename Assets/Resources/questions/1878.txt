@@ -1,0 +1,1 @@
+{"id":1878,"type":"boolean","difficulty":"easy","category":"Animals","question":"A bear does NOT defecate during hibernation. ","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

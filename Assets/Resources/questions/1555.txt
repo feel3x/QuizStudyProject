@@ -1,0 +1,1 @@
+{"id":1555,"type":"boolean","difficulty":"hard","category":"Geography","question":"Switzerland has four national languages, English being one of them.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

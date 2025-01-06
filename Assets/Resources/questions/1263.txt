@@ -1,0 +1,1 @@
+{"id":1263,"type":"boolean","difficulty":"easy","category":"Mythology","question":"According to Greek Mythology, Zeus can control lightning.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

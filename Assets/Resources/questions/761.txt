@@ -1,0 +1,1 @@
+{"id":761,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which was the first video game to be produced by development company Rare?","correct_answer":"Slalom","incorrect_answers":["R.C. Pro-Am","Donkey Kong Country","Battletoads"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

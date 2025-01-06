@@ -1,0 +1,1 @@
+{"id":1207,"type":"boolean","difficulty":"easy","category":"Science: Mathematics","question":"A scalene triangle has two sides of equal length.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

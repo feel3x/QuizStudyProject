@@ -1,0 +1,1 @@
+{"id":813,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"Which one of these is NOT an official map in Counter-Strike: Global Offensive?","correct_answer":"de_season","incorrect_answers":["de_sugarcane","de_canals","de_militia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

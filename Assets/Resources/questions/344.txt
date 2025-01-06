@@ -1,0 +1,1 @@
+{"id":344,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Which actor plays the character &quot;Tommy Jarvis&quot; in &quot;Friday the 13th: The Final Chapter&quot; (1984)?","correct_answer":"Corey Feldman","incorrect_answers":["Macaulay Culkin","Mel Gibson","Mark Hamill"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

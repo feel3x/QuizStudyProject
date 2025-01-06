@@ -1,0 +1,1 @@
+{"id":1801,"type":"multiple","difficulty":"medium","category":"Art","question":"Which one of these paintings is not by Caspar David Friedrich?","correct_answer":"The Black Sea","incorrect_answers":["The Sea of Ice","Wanderer above the Sea of Fog","The Monk by the Sea"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

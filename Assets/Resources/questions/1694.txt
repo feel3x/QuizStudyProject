@@ -1,0 +1,1 @@
+{"id":1694,"type":"multiple","difficulty":"hard","category":"History","question":"Spain was formed in 1469 with the marriage of Isabella I of Castile and Ferdinand II of what other Iberian kingdom?","correct_answer":"Aragon","incorrect_answers":["Galicia","Le&oacute;n","Navarre"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

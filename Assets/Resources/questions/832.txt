@@ -1,0 +1,1 @@
+{"id":832,"type":"boolean","difficulty":"hard","category":"Entertainment: Video Games","question":"All of these maps were in &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; on its initial release: House, Clubhouse, Border, Consulate.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

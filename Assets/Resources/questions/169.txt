@@ -1,0 +1,1 @@
+{"id":169,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"George Orwell wrote this book, which is often considered a statement on government oversight.","correct_answer":"1984","incorrect_answers":["The Old Man and the Sea","Catcher and the Rye","To Kill a Mockingbird"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

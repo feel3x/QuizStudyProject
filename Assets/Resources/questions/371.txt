@@ -1,0 +1,1 @@
+{"id":371,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"Before &quot;Jurassic Park III&quot; was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?","correct_answer":"Baryonyx","incorrect_answers":["Tyrannosaurus Rex","Velociraptor","Suchomimus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

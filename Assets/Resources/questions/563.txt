@@ -1,0 +1,1 @@
+{"id":563,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"In which Shakespearean play will you find the suicide of Ophelia?","correct_answer":"Hamlet","incorrect_answers":["Macbeth","Othello","King Lear"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

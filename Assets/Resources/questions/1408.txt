@@ -1,0 +1,1 @@
+{"id":1408,"type":"multiple","difficulty":"hard","category":"Sports","question":"Where was the Games of the XXII Olympiad held?","correct_answer":"Moscow","incorrect_answers":["Barcelona","Tokyo","Los Angeles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

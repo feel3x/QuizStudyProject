@@ -1,0 +1,1 @@
+{"id":2221,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the Naruto manga, what is the last name of Tsunade?","correct_answer":"Senju","incorrect_answers":["Haruno","Uzumaki","Yamanaka"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

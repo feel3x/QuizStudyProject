@@ -1,0 +1,1 @@
+{"id":1341,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which African American is in part responsible for integrating  Major League baseball?","correct_answer":"Jackie Robinson","incorrect_answers":["Curt Flood","Roy Campanella","Satchell Paige"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

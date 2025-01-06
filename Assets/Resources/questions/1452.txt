@@ -1,0 +1,1 @@
+{"id":1452,"type":"multiple","difficulty":"easy","category":"Geography","question":"Which of the following former Yugoslavian states is landlocked?","correct_answer":"Serbia","incorrect_answers":["Bosnia and Herzegovina","Montenegro","Croatia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

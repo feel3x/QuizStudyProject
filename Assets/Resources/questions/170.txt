@@ -1,0 +1,1 @@
+{"id":170,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"Who was the author of the 1954 novel, &quot;Lord of the Flies&quot;?","correct_answer":"William Golding","incorrect_answers":["Stephen King","F. Scott Fitzgerald","Hunter Fox"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

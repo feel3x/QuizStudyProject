@@ -1,0 +1,1 @@
+{"id":750,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"What is the name of the main protagonist in &quot;Xenoblade Chronicles&quot;?","correct_answer":"Shulk","incorrect_answers":["Reyn","Fiora","Dunban"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

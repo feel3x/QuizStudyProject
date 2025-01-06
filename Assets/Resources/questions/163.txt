@@ -1,0 +1,1 @@
+{"id":163,"type":"boolean","difficulty":"easy","category":"Entertainment: Books","question":"The book 1984 was published in 1949.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

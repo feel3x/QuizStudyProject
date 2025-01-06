@@ -1,0 +1,1 @@
+{"id":1490,"type":"multiple","difficulty":"medium","category":"Geography","question":"What is the capital of British Columbia, Canada?","correct_answer":"Victoria","incorrect_answers":["Vancouver","Hope","Kelowna"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

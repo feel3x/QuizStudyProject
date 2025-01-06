@@ -1,0 +1,1 @@
+{"id":487,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Who is the primary lyricist for Canadian progressive rock band Rush?","correct_answer":"Neil Peart","incorrect_answers":["Geddy Lee","Alex Lifeson","John Rutsey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

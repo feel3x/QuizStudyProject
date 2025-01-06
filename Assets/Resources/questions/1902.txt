@@ -1,0 +1,1 @@
+{"id":1902,"type":"boolean","difficulty":"medium","category":"Animals","question":"&quot;Kamea,&quot; the Gilbertese Islander word for dog, is derived from the English phrase &quot;Come here!&quot;","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1623,"type":"multiple","difficulty":"easy","category":"History","question":"The Ottoman Empire was dissolved after their loss in which war?","correct_answer":"World War I","incorrect_answers":["Crimean War","Serbian Revolution","Second Balkan War"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":25,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What is the name of the Jewish New Year?","correct_answer":"Rosh Hashanah","incorrect_answers":["Elul","New Year","Succoss"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

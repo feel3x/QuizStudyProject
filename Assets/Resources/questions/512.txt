@@ -1,0 +1,1 @@
+{"id":512,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Who had a 1981 hit with the song &quot;Japanese Boy&quot;?","correct_answer":"Aneka","incorrect_answers":["Toyah","Sandra","Madonna"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

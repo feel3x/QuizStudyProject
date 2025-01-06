@@ -1,0 +1,1 @@
+{"id":1659,"type":"multiple","difficulty":"medium","category":"History","question":"Which of the following is NOT classified as a Semetic language?","correct_answer":"Sumerian","incorrect_answers":["Maltese","Akkadian","Mandaic"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

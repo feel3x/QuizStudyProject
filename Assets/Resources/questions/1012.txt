@@ -1,0 +1,1 @@
+{"id":1012,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which of the following is NOT a word used to describe an earthquake?","correct_answer":"Drop-slide","incorrect_answers":["Foreshock","Strike-slip","Temblor"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

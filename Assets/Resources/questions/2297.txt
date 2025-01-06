@@ -1,0 +1,1 @@
+{"id":2297,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"When did the last episode of &quot;Futurama&quot; air before returning in 2023?","correct_answer":"September 4, 2013","incorrect_answers":["December 25, 2010","March 28, 1999","November 4, 2021"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1944,"type":"multiple","difficulty":"hard","category":"Animals","question":"To which biological phylum do all mammals, birds and reptiles belong?","correct_answer":"Chordata","incorrect_answers":["Echinodermata","Annelida","Placazoa"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

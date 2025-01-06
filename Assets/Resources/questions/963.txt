@@ -1,0 +1,1 @@
+{"id":963,"type":"boolean","difficulty":"medium","category":"Science &amp; Nature","question":"A person can get sunburned on a cloudy day.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

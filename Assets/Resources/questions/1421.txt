@@ -1,0 +1,1 @@
+{"id":1421,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?","correct_answer":"Pittsburgh","incorrect_answers":["New York","Seattle","Tampa Bay"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":49,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What do the letters of the fast food chain KFC stand for?","correct_answer":"Kentucky Fried Chicken","incorrect_answers":["Kentucky Fresh Cheese","Kibbled Freaky Cow","Kiwi Food Cut"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

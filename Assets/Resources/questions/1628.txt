@@ -1,0 +1,1 @@
+{"id":1628,"type":"multiple","difficulty":"medium","category":"History","question":"According to scholarly estimates, what percentage of the world population at the time died due to Tamerlane&#039;s conquests?","correct_answer":"5%","incorrect_answers":["1%","3%","&lt;1%"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

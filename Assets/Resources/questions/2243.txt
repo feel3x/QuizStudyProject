@@ -1,0 +1,1 @@
+{"id":2243,"type":"boolean","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the &quot;Kagerou Daze&quot; series, Shintaro Kisaragi is prominently shown with the color red.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

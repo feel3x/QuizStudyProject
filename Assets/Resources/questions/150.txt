@@ -1,0 +1,1 @@
+{"id":150,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"Under what pseudonym did Stephen King publish five novels between 1977 and 1984?","correct_answer":"Richard Bachman","incorrect_answers":["J. D. Robb","Mark Twain","Lewis Carroll"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

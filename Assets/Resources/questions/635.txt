@@ -1,0 +1,1 @@
+{"id":635,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"Out of the 3 Tots in Tots TV, who speaks French in the UK Version and Spanish in the US Version?","correct_answer":"Tilly","incorrect_answers":["Tom","Tiny","None of the Above"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

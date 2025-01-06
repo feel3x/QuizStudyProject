@@ -1,0 +1,1 @@
+{"id":712,"type":"boolean","difficulty":"easy","category":"Entertainment: Video Games","question":"In the Super Mario series, the character Pauline is a Princess like Princess Peach.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

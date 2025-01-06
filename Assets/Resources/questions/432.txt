@@ -1,0 +1,1 @@
+{"id":432,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Which of these is the name of a song by Tears for Fears?","correct_answer":"Shout","incorrect_answers":["Scream","Yell","Shriek"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

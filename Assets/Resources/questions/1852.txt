@@ -1,0 +1,1 @@
+{"id":1852,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"What year was O.J. Simpson aquitted of his murder charges?","correct_answer":"1995","incorrect_answers":["1992","1996","1991"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2324,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Adam West was the mayor of which cartoon town?","correct_answer":"Quahog","incorrect_answers":["Springfield","South Park","Langley Falls"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

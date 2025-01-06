@@ -1,0 +1,1 @@
+{"id":1810,"type":"multiple","difficulty":"medium","category":"Art","question":"Which of these are the name of a famous marker brand?","correct_answer":"Copic","incorrect_answers":["Dopix","Cofix","Marx"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

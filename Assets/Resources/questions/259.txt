@@ -1,0 +1,1 @@
+{"id":259,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

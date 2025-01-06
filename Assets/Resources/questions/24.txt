@@ -1,0 +1,1 @@
+{"id":24,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"The Canadian $1 coin is colloquially known as a what?","correct_answer":"Loonie","incorrect_answers":["Boolie","Foolie","Moodie"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

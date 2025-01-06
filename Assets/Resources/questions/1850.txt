@@ -1,0 +1,1 @@
+{"id":1850,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Paul McCartney has always used his middle name. What is his real first name? ","correct_answer":"James","incorrect_answers":["John","Jack","Justin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

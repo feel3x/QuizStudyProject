@@ -1,0 +1,1 @@
+{"id":1774,"type":"multiple","difficulty":"hard","category":"Politics","question":"Who was the longest-serving senator in US history, serving from 1959 to 2010?","correct_answer":"Robert Byrd","incorrect_answers":["Daniel Inouye","Strom Thurmond","Joe Biden"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

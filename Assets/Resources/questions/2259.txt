@@ -1,0 +1,1 @@
+{"id":2259,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"What is the name of the school in the anime and manga &quot;Gosick&quot;?","correct_answer":"St. Marguerite","incorrect_answers":["St. Augustine","St. Mary","St. Bernadette"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

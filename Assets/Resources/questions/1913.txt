@@ -1,0 +1,1 @@
+{"id":1913,"type":"multiple","difficulty":"medium","category":"Animals","question":"What is the collective noun for rats?","correct_answer":"Mischief","incorrect_answers":["Pack","Race","Drift"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

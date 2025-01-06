@@ -1,0 +1,1 @@
+{"id":2145,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"What is the name of JoJo&#039;s Bizarre Adventure Part 5?","correct_answer":"Vento Aureo","incorrect_answers":["Vento Oreo","Vanto Aureo","Vento Eureo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

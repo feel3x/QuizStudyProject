@@ -1,0 +1,1 @@
+{"id":1671,"type":"multiple","difficulty":"medium","category":"History","question":"Joseph Stalin had a criminal past doing what?","correct_answer":"Robbing Trains","incorrect_answers":["Murder for Hire","Tax Evasion","Identity Fraud"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

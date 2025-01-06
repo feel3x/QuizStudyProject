@@ -1,0 +1,1 @@
+{"id":1999,"type":"boolean","difficulty":"medium","category":"Vehicles","question":"The General Motors EV1 was the first street-legal production electric vehicle.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

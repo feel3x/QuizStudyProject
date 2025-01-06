@@ -1,0 +1,1 @@
+{"id":1714,"type":"multiple","difficulty":"hard","category":"History","question":"When was Adolf Hitler appointed as Chancellor of Germany?","correct_answer":"January 30, 1933","incorrect_answers":["September 1, 1939","February 27, 1933","October 6, 1939"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

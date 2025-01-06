@@ -1,0 +1,1 @@
+{"id":1154,"type":"boolean","difficulty":"medium","category":"Science: Computers","question":"AMD created the first consumer 64-bit processor.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

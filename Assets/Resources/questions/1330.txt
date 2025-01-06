@@ -1,0 +1,1 @@
+{"id":1330,"type":"boolean","difficulty":"easy","category":"Sports","question":"In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

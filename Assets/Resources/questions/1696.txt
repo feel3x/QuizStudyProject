@@ -1,0 +1,1 @@
+{"id":1696,"type":"multiple","difficulty":"hard","category":"History","question":"What was Napoleon Bonaparte&#039;s name before he changed it?","correct_answer":"Napoleone di Buonaparte","incorrect_answers":["Naapolion van Bonijpaart","Napole&atilde;o do Boaparte","Napoleona de Buenoparte"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1512,"type":"multiple","difficulty":"medium","category":"Geography","question":"The World Health Organization headquarters is located in which European country?","correct_answer":"Switzerland","incorrect_answers":["United Kingdom","France","Belgium"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

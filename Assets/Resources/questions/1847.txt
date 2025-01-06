@@ -1,0 +1,1 @@
+{"id":1847,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"How much weight did Chris Pratt lose for his role as Star-Lord in &quot;Guardians of the Galaxy&quot;?","correct_answer":"60 lbs","incorrect_answers":["30 lbs","50 lbs","70 lbs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":855,"type":"boolean","difficulty":"easy","category":"Entertainment: Board Games","question":"There is a Donald Trump Board Game, which was made in 1989.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

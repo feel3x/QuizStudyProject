@@ -1,0 +1,1 @@
+{"id":562,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"Which of these musicals won the Tony Award for Best Musical?","correct_answer":"Rent","incorrect_answers":["The Color Purple","American Idiot","Newsies"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

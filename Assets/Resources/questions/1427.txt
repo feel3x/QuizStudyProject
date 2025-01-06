@@ -1,0 +1,1 @@
+{"id":1427,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which male player won the gold medal of table tennis singles in 2016 Olympics Games?","correct_answer":"Ma Long (China)","incorrect_answers":["Zhang Jike (China)","Jun Mizutani (Japan)","Vladimir Samsonov (Belarus)"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

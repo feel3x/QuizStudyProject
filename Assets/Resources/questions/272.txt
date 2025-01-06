@@ -1,0 +1,1 @@
+{"id":272,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Who played the female lead in the 1933 film &quot;King Kong&quot;?","correct_answer":"Fay Wray","incorrect_answers":["Jean Harlow","Vivien Leigh","Mae West"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

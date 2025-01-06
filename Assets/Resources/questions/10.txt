@@ -1,0 +1,1 @@
+{"id":10,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What is the shape of the toy invented by Hungarian professor Ernő Rubik?","correct_answer":"Cube","incorrect_answers":["Sphere","Cylinder","Pyramid"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1766,"type":"multiple","difficulty":"medium","category":"Politics","question":"The 2014 movie &quot;The Raid 2: Berandal&quot; was mainly filmed in which Asian country?","correct_answer":"Indonesia","incorrect_answers":["Thailand","Brunei","Malaysia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

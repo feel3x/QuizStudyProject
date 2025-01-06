@@ -1,0 +1,1 @@
+{"id":6,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Earth is located in which galaxy?","correct_answer":"The Milky Way Galaxy","incorrect_answers":["The Mars Galaxy","The Galaxy Note","The Black Hole"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

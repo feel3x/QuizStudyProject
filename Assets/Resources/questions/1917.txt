@@ -1,0 +1,1 @@
+{"id":1917,"type":"multiple","difficulty":"medium","category":"Animals","question":"What is the collective noun for bears?","correct_answer":"Sloth","incorrect_answers":["Drove","Tribe","Husk"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

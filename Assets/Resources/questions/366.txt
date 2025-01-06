@@ -1,0 +1,1 @@
+{"id":366,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"In the film &quot;Harry Potter and the Order of The Phoenix&quot;, why was Harry Potter&#039;s scream, after Sirius Black died, muted?","correct_answer":"Too Agonizing","incorrect_answers":["Too Loud","Too Harsh","Too Violent"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

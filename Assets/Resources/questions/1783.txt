@@ -1,0 +1,1 @@
+{"id":1783,"type":"multiple","difficulty":"hard","category":"Politics","question":"In June 2017, Saudi Arabia and Egypt broke off ties with which country over its supposed support for terrorism?","correct_answer":"Qatar","incorrect_answers":["Bahrain","United States of America","Russia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

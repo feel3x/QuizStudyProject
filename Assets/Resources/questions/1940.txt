@@ -1,0 +1,1 @@
+{"id":1940,"type":"multiple","difficulty":"hard","category":"Animals","question":"Which of these is a colony of polyps and not a jellyfish?","correct_answer":"Portuguese Man-of-War","incorrect_answers":["Sea Wasp","Irukandji","Sea Nettle"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

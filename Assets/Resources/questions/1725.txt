@@ -1,0 +1,1 @@
+{"id":1725,"type":"multiple","difficulty":"hard","category":"History","question":"When was the &quot;Siege of Leningrad&quot; lifted during World War II?","correct_answer":"January 1944","incorrect_answers":["September 1943","November 1943","March 1944"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

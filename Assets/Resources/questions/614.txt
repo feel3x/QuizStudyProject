@@ -1,0 +1,1 @@
+{"id":614,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In the show Stranger Things, what is Eleven&#039;s favorite breakfast food?","correct_answer":"Eggo Waffles","incorrect_answers":["Toast","Captain Crunch","Bacon and Eggs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

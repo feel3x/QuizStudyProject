@@ -1,0 +1,1 @@
+{"id":1086,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"How long is an IPv6 address?","correct_answer":"128 bits","incorrect_answers":["32 bits","64 bits","128 bytes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

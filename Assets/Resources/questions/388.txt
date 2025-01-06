@@ -1,0 +1,1 @@
+{"id":388,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What was the name of the planet in &quot;Aliens&quot;?","correct_answer":"LV-426","incorrect_answers":["Weyland Yutani Corporation Base","FR-838","DI-621"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

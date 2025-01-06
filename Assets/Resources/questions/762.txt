@@ -1,0 +1,1 @@
+{"id":762,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which city hosted the CS:GO Dreamhack Open 2015?","correct_answer":"Cluj-Napoca","incorrect_answers":["Cologne","Atlanta","London"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

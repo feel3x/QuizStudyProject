@@ -1,0 +1,1 @@
+{"id":1447,"type":"multiple","difficulty":"easy","category":"Geography","question":"Which city is the capital of the United States of America?","correct_answer":"Washington D.C","incorrect_answers":["Seattle","Albany","Los Angeles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2267,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Wendy O. Koopa appeared in the Super Mario DIC Cartoons, but what was she known as?","correct_answer":"Kootie Pie","incorrect_answers":["Sweetie Pie","Wendy Pie","Honey Pie"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

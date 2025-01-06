@@ -1,0 +1,1 @@
+{"id":583,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In &quot;Rick And Morty&quot;, who shot &quot;Mr. Poopybutthole&quot; in the episode &quot;Total Rickall&quot;?","correct_answer":"Beth","incorrect_answers":["Rick","Jerry","Morty"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

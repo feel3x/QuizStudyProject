@@ -1,0 +1,1 @@
+{"id":88,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What is a dead mall?","correct_answer":"A mall with high vacancy rates or low consumer foot traffic","incorrect_answers":["A mall with no stores","A mall that has been condemed","A mall after business hours"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

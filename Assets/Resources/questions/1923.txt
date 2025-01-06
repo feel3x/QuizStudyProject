@@ -1,0 +1,1 @@
+{"id":1923,"type":"multiple","difficulty":"medium","category":"Animals","question":"Cashmere is the wool from which kind of animal?","correct_answer":"Goat","incorrect_answers":["Sheep","Camel","Llama"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

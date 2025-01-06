@@ -1,0 +1,1 @@
+{"id":893,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"In Magic: The Gathering, what was a tribute card to Jamie Wakefield&#039;s late wife Marilyn, who loved horses?","correct_answer":"Timbermare","incorrect_answers":["Loyal Pegasus","Vryn Wingmare","Sungrace Pegasus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1835,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?","correct_answer":"Bing Crosby","incorrect_answers":["Elvis Presley","Charlie Chaplin","Groucho Marx"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

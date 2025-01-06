@@ -1,0 +1,1 @@
+{"id":215,"type":"boolean","difficulty":"medium","category":"Entertainment: Books","question":"Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

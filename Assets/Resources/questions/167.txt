@@ -1,0 +1,1 @@
+{"id":167,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?","correct_answer":"INGSOC","incorrect_answers":["Neo-Bolshevism","Obliteration of the Self","Earth Alliance"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

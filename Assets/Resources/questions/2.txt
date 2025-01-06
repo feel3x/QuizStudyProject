@@ -1,0 +1,1 @@
+{"id":2,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Red Vines is a brand of what type of candy?","correct_answer":"Licorice","incorrect_answers":["Lollipop","Chocolate","Bubblegum"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

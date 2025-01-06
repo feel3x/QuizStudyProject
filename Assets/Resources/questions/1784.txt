@@ -1,0 +1,1 @@
+{"id":1784,"type":"multiple","difficulty":"hard","category":"Politics","question":"Which of these was an official candidate in the 2017 British General Election?","correct_answer":"Lord Buckethead","incorrect_answers":["James Francis","Robert Wimbledon","Sir Crumpetsby"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1851,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"What was the cause of death for Freddie Mercury?","correct_answer":"Pneumonia","incorrect_answers":["Stomach Cancer","HIV","Brain Hemorrhage"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

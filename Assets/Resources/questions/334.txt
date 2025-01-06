@@ -1,0 +1,1 @@
+{"id":334,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"In which 1955 film does Frank Sinatra play Nathan Detroit?","correct_answer":"Guys and Dolls","incorrect_answers":["Anchors Aweigh","From Here to Eternity","High Society"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1843,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"How old was Muhammad Ali when he died?","correct_answer":"74","incorrect_answers":["61","He&#039;s still alive","56"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

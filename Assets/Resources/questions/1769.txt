@@ -1,0 +1,1 @@
+{"id":1769,"type":"multiple","difficulty":"medium","category":"Politics","question":"Who became Prime Minister of the United Kingdom in July 2016?","correct_answer":"Theresa May","incorrect_answers":["Boris Johnson","David Cameron","Tony Blair"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

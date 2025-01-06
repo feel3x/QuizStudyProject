@@ -1,0 +1,1 @@
+{"id":36,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What nuts are used in the production of marzipan?","correct_answer":"Almonds","incorrect_answers":["Peanuts","Walnuts","Pistachios"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

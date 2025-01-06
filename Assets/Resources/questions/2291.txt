@@ -1,0 +1,1 @@
+{"id":2291,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Who created the Cartoon Network series &quot;Adventure Time&quot;?","correct_answer":"Pendleton Ward","incorrect_answers":["J. G. Quintel","Ben Bocquelet","Rebecca Sugar"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

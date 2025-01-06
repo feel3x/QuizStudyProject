@@ -1,0 +1,1 @@
+{"id":1195,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Who is the founder of Palantir?","correct_answer":"Peter Thiel","incorrect_answers":["Mark Zuckerberg","Marc Benioff","Jack Dorsey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

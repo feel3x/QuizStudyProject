@@ -1,0 +1,1 @@
+{"id":1004,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"What is the unit of electrical capacitance?","correct_answer":"Farad","incorrect_answers":["Gauss","Henry","Watt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

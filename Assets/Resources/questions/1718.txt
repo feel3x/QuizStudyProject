@@ -1,0 +1,1 @@
+{"id":1718,"type":"multiple","difficulty":"hard","category":"History","question":"What was the code name for the Allied invasion of Southern France on August 15th, 1944?","correct_answer":"Operation Dragoon","incorrect_answers":["Operation Overlord","Operation Market Garden","Operation Torch"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

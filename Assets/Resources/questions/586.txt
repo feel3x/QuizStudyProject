@@ -1,0 +1,1 @@
+{"id":586,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Which of the following won the first season of American Idol in 2002?","correct_answer":"Kelly Clarkson","incorrect_answers":["Justin Guarini","Ruben Studdard","Chris Daughtry"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

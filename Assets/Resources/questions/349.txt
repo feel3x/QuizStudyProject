@@ -1,0 +1,1 @@
+{"id":349,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What was the first movie to ever use a Wilhelm Scream?","correct_answer":"Distant Drums","incorrect_answers":["Treasure of the Sierra Madre","The Charge at Feather River","Indiana Jones"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

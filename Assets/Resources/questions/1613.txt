@@ -1,0 +1,1 @@
+{"id":1613,"type":"boolean","difficulty":"easy","category":"History","question":"United States President John F. Kennedy was assassinated during his presidential motorcade in Atlanta, Georgia on November 22nd, 1963.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

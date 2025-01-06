@@ -1,0 +1,1 @@
+{"id":575,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Who is the main character in the show &quot;Burn Notice&quot;?","correct_answer":"Michael Westen","incorrect_answers":["Sam Axe","Fiona Glenanne","Madeline Westen"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

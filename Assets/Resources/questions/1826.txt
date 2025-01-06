@@ -1,0 +1,1 @@
+{"id":1826,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"Neil Hamburger is played by which comedian?","correct_answer":"Gregg Turkington","incorrect_answers":["Nathan Fielder","Tim Heidecker","Todd Glass"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1133,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"In programming, what do you call functions with the same name but different implementations?","correct_answer":"Overloading","incorrect_answers":["Overriding","Abstracting","Inheriting"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

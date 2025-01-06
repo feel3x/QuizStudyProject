@@ -1,0 +1,1 @@
+{"id":795,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In &quot;Kingdom Hearts&quot;, who abducts Jasmine in the Lamp Chamber?","correct_answer":"Riku","incorrect_answers":["Riku Replica","Xaldin","Captain Hook"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

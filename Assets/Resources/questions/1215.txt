@@ -1,0 +1,1 @@
+{"id":1215,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?","correct_answer":"90","incorrect_answers":["180","270","0"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

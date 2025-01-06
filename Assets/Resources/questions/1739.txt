@@ -1,0 +1,1 @@
+{"id":1739,"type":"multiple","difficulty":"easy","category":"Politics","question":"Who was the 45th President of the United States?","correct_answer":"Donald Trump","incorrect_answers":["Barack Obama","Bill Clinton","George Bush"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

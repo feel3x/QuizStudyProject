@@ -1,0 +1,1 @@
+{"id":2335,"type":"multiple","difficulty":"hard","category":"Entertainment: Cartoon &amp; Animations","question":"What was the name of Jonny&#039;s pet dog in The Adventures of Jonny Quest?","correct_answer":"Bandit","incorrect_answers":["Lucky","Rocky","Max"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

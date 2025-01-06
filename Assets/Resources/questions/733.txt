@@ -1,0 +1,1 @@
+{"id":733,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Valve Corporation is an American video game developer located in which city?","correct_answer":"Bellevue, Washington","incorrect_answers":["Austin, Texas","Seattle, Washington","San Francisco, California"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

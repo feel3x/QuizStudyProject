@@ -1,0 +1,1 @@
+{"id":1937,"type":"multiple","difficulty":"hard","category":"Animals","question":"What bird is born with claws on its wing digits?","correct_answer":"Hoatzin","incorrect_answers":["Cormorant","Cassowary","Secretary bird"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

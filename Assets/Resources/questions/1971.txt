@@ -1,0 +1,1 @@
+{"id":1971,"type":"boolean","difficulty":"medium","category":"Vehicles","question":"The Chevrolet Corvette has always been made exclusively with V8 engines only.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

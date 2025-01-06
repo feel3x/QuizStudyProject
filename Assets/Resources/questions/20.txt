@@ -1,0 +1,1 @@
+{"id":20,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"When someone is inexperienced they are said to be what color?","correct_answer":"Green","incorrect_answers":["Red","Blue","Yellow"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":504,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which Death Grips album is the only one to feature a band member?","correct_answer":"No Love Deep Web","incorrect_answers":["Bottomless Pit","The Money Store","The Powers That B"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

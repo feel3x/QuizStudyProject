@@ -1,0 +1,1 @@
+{"id":1239,"type":"multiple","difficulty":"hard","category":"Science: Mathematics","question":"Which of the following mathematicians made major contributions to game theory?","correct_answer":"John Von Neumann","incorrect_answers":["Carl Friedrich Gauss","Leonhard Euler","Stefan Banach"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

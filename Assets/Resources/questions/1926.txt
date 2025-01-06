@@ -1,0 +1,1 @@
+{"id":1926,"type":"multiple","difficulty":"medium","category":"Animals","question":"What is the fastest animal?","correct_answer":"Peregrine Falcon","incorrect_answers":["Golden Eagle","Cheetah","Horsefly"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

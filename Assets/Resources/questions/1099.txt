@@ -1,0 +1,1 @@
+{"id":1099,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"When Gmail first launched, how much storage did it provide for your email?","correct_answer":"1GB","incorrect_answers":["512MB","5GB","Unlimited"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

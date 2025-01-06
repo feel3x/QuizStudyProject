@@ -1,0 +1,1 @@
+{"id":756,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which one of these was not a member of the Fiendish Five in the game Sly Cooper and the Thievius Raccoonus?","correct_answer":"Dimitri Lousteau","incorrect_answers":["Mz. Ruby","Muggshot","Clockwerk"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

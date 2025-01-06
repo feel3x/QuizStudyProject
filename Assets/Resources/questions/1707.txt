@@ -1,0 +1,1 @@
+{"id":1707,"type":"multiple","difficulty":"hard","category":"History","question":"After the 1516 Battle of Marj Dabiq, the Ottoman Empire took control of Jerusalem from which sultanate?","correct_answer":"Mamluk","incorrect_answers":["Ayyubid","Ummayyad","Seljuq"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

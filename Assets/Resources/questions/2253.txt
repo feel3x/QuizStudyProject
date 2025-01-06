@@ -1,0 +1,1 @@
+{"id":2253,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which animation studio animated &quot;Hidamari Sketch&quot;?","correct_answer":"Shaft","incorrect_answers":["Trigger","Kyoto Animation","Production I.G"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1934,"type":"multiple","difficulty":"hard","category":"Animals","question":"Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?","correct_answer":"Gooty","incorrect_answers":["Hopper","Silver Stripe","Woebegone"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

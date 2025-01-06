@@ -1,0 +1,1 @@
+{"id":1194,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Which kind of algorithm is Ron Rivest not famous for creating?","correct_answer":"Secret sharing scheme","incorrect_answers":["Hashing algorithm","Asymmetric encryption","Stream cipher"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

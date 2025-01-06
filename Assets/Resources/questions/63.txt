@@ -1,0 +1,1 @@
+{"id":63,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"Which Italian automobile manufacturer gained majority control of U.S. automobile manufacturer Chrysler in 2011?","correct_answer":"Fiat","incorrect_answers":["Maserati","Alfa Romeo","Ferrari"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

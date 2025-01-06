@@ -1,0 +1,1 @@
+{"id":1295,"type":"multiple","difficulty":"medium","category":"Mythology","question":"What is the name of the Greek god of peaceful deaths?","correct_answer":"Thanatos","incorrect_answers":["Tartarus","Hades","Moros"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

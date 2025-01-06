@@ -1,0 +1,1 @@
+{"id":866,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"In board games, an additional or ammended rule that applies to a certain group or place is informally known as a &quot;what&quot; rule?","correct_answer":"House","incorrect_answers":["Custom","Extra","Change"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

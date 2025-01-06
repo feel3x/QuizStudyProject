@@ -1,0 +1,1 @@
+{"id":1790,"type":"multiple","difficulty":"easy","category":"Art","question":"Which painting was not made by Vincent Van Gogh?","correct_answer":"The Ninth Wave","incorrect_answers":["Caf&eacute; Terrace at Night","Bedroom In Arles","Starry Night"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

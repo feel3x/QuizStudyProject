@@ -1,0 +1,1 @@
+{"id":838,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In the PAYDAY series, where did Dallas start his criminal career?","correct_answer":"Chicago, Illinois","incorrect_answers":["Dallas, Texas","New York City, New York","Boston, Massachusetts"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

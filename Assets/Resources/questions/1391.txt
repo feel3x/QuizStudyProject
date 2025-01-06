@@ -1,0 +1,1 @@
+{"id":1391,"type":"multiple","difficulty":"medium","category":"Sports","question":"The F1 season of 1994 is remembered for what tragic event?","correct_answer":"Death of Ayrton Senna (San Marino)","incorrect_answers":["The Showdown (Australia)","Verstappen on Fire (Germany)","Schumacher&#039;s Ban (Britain)"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

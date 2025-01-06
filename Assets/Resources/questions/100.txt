@@ -1,0 +1,1 @@
+{"id":100,"type":"boolean","difficulty":"hard","category":"General Knowledge","question":"This is the correct spelling of &quot;Supercalifragilisticexpialidocious&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

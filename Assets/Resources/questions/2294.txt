@@ -1,0 +1,1 @@
+{"id":2294,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Which Sanrio character was introduced in 1996?","correct_answer":"Pompompurin","incorrect_answers":["My Melody","Badtz-Maru","Kerropi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

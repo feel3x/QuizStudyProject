@@ -1,0 +1,1 @@
+{"id":513,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which of these songs is not by Tatsuro Yamashita?","correct_answer":"Lucky Lady Feel So Good ","incorrect_answers":["Merry-Go Round","Let&#039;s Dance Baby","Love Talkin&#039;"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

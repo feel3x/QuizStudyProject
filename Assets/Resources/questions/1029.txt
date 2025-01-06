@@ -1,0 +1,1 @@
+{"id":1029,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which of the following plastic is commonly used for window frames, gutters and drain pipes?","correct_answer":"Polyvinylchloride (PVC) ","incorrect_answers":["Polyethylene (PE)","Polypropylene (PP)","Polystyrene (PS)"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

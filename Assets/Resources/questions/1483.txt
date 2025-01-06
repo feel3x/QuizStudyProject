@@ -1,0 +1,1 @@
+{"id":1483,"type":"multiple","difficulty":"medium","category":"Geography","question":"On a London Underground map, what colour is the Circle Line?","correct_answer":"Yellow","incorrect_answers":["Red","Blue","Green"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

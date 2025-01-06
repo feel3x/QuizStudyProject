@@ -1,0 +1,1 @@
+{"id":459,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Which one of these artists appears in the album Deltron 3030?","correct_answer":"Dan the Automater","incorrect_answers":["Lamarr Kendrick","Danger Mouse","CeeLo Green"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1782,"type":"multiple","difficulty":"hard","category":"Politics","question":"What year did the effort to deploy the Common Core State Standards (CCSS) in the US begin?","correct_answer":"2009","incorrect_answers":["2012","2006","1997"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

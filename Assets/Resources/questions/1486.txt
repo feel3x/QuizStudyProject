@@ -1,0 +1,1 @@
+{"id":1486,"type":"multiple","difficulty":"medium","category":"Geography","question":"Where is Hadrian&#039;s Wall located?","correct_answer":"Carlisle, England","incorrect_answers":["Rome, Italy","Alexandria, Egypt","Dublin, Ireland"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

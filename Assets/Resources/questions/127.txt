@@ -1,0 +1,1 @@
+{"id":127,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Which of the following  British Monarchs never appeared on a circulated pound sterling coin?","correct_answer":"Edward VIII","incorrect_answers":["Victoria","George VI","Charles II"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

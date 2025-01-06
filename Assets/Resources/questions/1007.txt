@@ -1,0 +1,1 @@
+{"id":1007,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"How many degrees Fahrenheit is 100 degrees Celsius? ","correct_answer":"212","incorrect_answers":["326","100","451"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

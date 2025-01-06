@@ -1,0 +1,1 @@
+{"id":770,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In &quot;The Binding of Isaac&quot;, what is the name of the final boss that you fight in The Void?","correct_answer":"Delirium","incorrect_answers":["Mega Satan","Hush","The Lamb"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

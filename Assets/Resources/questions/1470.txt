@@ -1,0 +1,1 @@
+{"id":1470,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the capital of Indonesia?","correct_answer":"Jakarta","incorrect_answers":["Bandung","Medan","Palembang"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

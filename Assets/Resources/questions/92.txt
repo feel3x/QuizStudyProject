@@ -1,0 +1,1 @@
+{"id":92,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"Linus Pauling, one of the only winners of multiple Nobel Prizes, earned his Nobel Prizes in Chemistry and what?","correct_answer":"Peace","incorrect_answers":["Physics","Economics","Physiology/Medicine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":108,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"What year was Queen Elizabeth II born?","correct_answer":"1926","incorrect_answers":["1923","1929","1930"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

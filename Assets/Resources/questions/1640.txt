@@ -1,0 +1,1 @@
+{"id":1640,"type":"boolean","difficulty":"medium","category":"History","question":"If you grab the bladed end of a longsword in a specific way, you will not cut yourself.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1449,"type":"multiple","difficulty":"easy","category":"Geography","question":"Which country was NOT part of the Soviet Union?","correct_answer":"Romania","incorrect_answers":["Turkmenistan","Belarus","Tajikistan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

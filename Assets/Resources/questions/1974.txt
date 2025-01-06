@@ -1,0 +1,1 @@
+{"id":1974,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Complete the following analogy: Audi is to Volkswagen as Infiniti is to ?","correct_answer":"Nissan","incorrect_answers":["Honda","Hyundai","Subaru"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

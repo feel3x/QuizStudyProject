@@ -1,0 +1,1 @@
+{"id":1485,"type":"multiple","difficulty":"medium","category":"Geography","question":"What was the African nation of Zimbabwe formerly known as?","correct_answer":"Rhodesia","incorrect_answers":["Zambia","Mozambique"," Bulawayo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

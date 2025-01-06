@@ -1,0 +1,1 @@
+{"id":378,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"Which 1994 film did Roger Ebert famously despise, saying &quot;I hated hated hated hated hated this movie&quot;.","correct_answer":"North","incorrect_answers":["3 Ninjas Kick Back","The Santa Clause","Richie Rich"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

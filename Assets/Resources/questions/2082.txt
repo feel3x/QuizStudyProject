@@ -1,0 +1,1 @@
+{"id":2082,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?","correct_answer":"Blonde","incorrect_answers":["Auburn","Brown","Black"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

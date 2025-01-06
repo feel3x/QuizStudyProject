@@ -1,0 +1,1 @@
+{"id":1800,"type":"multiple","difficulty":"medium","category":"Art","question":"Who painted the epic mural Guernica?","correct_answer":"Pablo Picasso","incorrect_answers":["Francisco Goya","Leonardo da Vinci","Henri Matisse"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

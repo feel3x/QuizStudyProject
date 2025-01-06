@@ -1,0 +1,1 @@
+{"id":556,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"When was the play &quot;Macbeth&quot; written?","correct_answer":"1606","incorrect_answers":["1605","1723","1628"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

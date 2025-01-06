@@ -1,0 +1,1 @@
+{"id":433,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Sting, the lead vocalist of The Police, primarily plays what instrument?","correct_answer":"Bass Guitar","incorrect_answers":["Drums","Guitar","Keyboards"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

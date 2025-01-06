@@ -1,0 +1,1 @@
+{"id":968,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"What are the smallest blood vessels in the human body?","correct_answer":"Capillaries","incorrect_answers":["Arterioles","Veinules","Lymphatics"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

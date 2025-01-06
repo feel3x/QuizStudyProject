@@ -1,0 +1,1 @@
+{"id":2246,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;One Piece&quot;, what does &quot;the Pirate King&quot; mean to the captain of the Straw Hat Pirates?","correct_answer":"Freedom","incorrect_answers":["Promise","Adventure","Friendship"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

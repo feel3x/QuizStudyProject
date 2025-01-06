@@ -1,0 +1,1 @@
+{"id":370,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"In the &quot;Jurassic Park&quot; universe, when did &quot;Jurassic Park: San Diego&quot; begin construction?","correct_answer":"1985","incorrect_answers":["1988","1986","1993"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

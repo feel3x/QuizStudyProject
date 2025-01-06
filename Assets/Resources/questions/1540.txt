@@ -1,0 +1,1 @@
+{"id":1540,"type":"multiple","difficulty":"hard","category":"Geography","question":"What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?","correct_answer":"Grand Banks","incorrect_answers":["Great Barrier Reef","Mariana Trench","Hudson Bay"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

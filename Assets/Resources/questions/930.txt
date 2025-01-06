@@ -1,0 +1,1 @@
+{"id":930,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the first element on the periodic table?","correct_answer":"Hydrogen","incorrect_answers":["Helium","Oxygen","Lithium"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

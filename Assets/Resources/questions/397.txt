@@ -1,0 +1,1 @@
+{"id":397,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"What collaborative album was released by Kanye West and Jay-Z in 2011?","correct_answer":"Watch the Throne","incorrect_answers":["Distant Relatives","What a Time to be Alive","Unfinished Business"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1344,"type":"multiple","difficulty":"easy","category":"Sports","question":"How many soccer players should be on the field at the same time?","correct_answer":"22","incorrect_answers":["20","24","26"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":823,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In &quot;The Witness&quot;, how many lasers must be activated to get into the mountain area?","correct_answer":"7","incorrect_answers":["8","5","12"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":479,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Which country does the power metal band &quot;Sabaton&quot; originate from?","correct_answer":"Sweden","incorrect_answers":["Germany","United States","Finland"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

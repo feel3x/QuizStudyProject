@@ -1,0 +1,1 @@
+{"id":861,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?","correct_answer":"20","incorrect_answers":["30","15","25"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

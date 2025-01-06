@@ -1,0 +1,1 @@
+{"id":589,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?","correct_answer":"Richard &quot;Dick&quot; Whitman","incorrect_answers":["Donald Draper","John Ashbury","Michael &quot;Mikey&quot; Wilhelm"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

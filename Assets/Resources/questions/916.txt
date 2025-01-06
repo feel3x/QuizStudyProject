@@ -1,0 +1,1 @@
+{"id":916,"type":"boolean","difficulty":"easy","category":"Science &amp; Nature","question":"Igneous rocks are formed by excessive heat and pressure.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

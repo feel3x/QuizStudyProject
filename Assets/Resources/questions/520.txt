@@ -1,0 +1,1 @@
+{"id":520,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which of these artists did NOT feature in the fitfh studio album &quot;Humanz&quot; by British virtual band Gorillaz?","correct_answer":"Snoop Dogg","incorrect_answers":["Vince Staples","Pusha T","Danny Brown"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

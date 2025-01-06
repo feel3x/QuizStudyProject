@@ -1,0 +1,1 @@
+{"id":1166,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"What was the name of the first Bulgarian personal computer?","correct_answer":"IMKO-1","incorrect_answers":["Pravetz 82","Pravetz 8D","IZOT 1030"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

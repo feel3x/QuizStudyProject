@@ -1,0 +1,1 @@
+{"id":1559,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which of these is NOT a real tectonic plate?","correct_answer":"Atlantic Plate","incorrect_answers":["North American Plate","Eurasian Plate","Nazca Plate"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

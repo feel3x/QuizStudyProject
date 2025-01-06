@@ -1,0 +1,1 @@
+{"id":1973,"type":"boolean","difficulty":"medium","category":"Vehicles","question":"The Japanese Shinkansen beat the French TGV&#039;s speed record for fastest electric rail train.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

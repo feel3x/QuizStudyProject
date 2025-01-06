@@ -1,0 +1,1 @@
+{"id":446,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Who is the vocalist and frontman of rock band &quot;Guns N&#039; Roses&quot;?","correct_answer":"Axl Rose","incorrect_answers":["Kurt Cobain","Slash","Bono"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

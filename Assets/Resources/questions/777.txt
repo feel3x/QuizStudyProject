@@ -1,0 +1,1 @@
+{"id":777,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In Portal 2, the iconic character GLaDOS is turned into:","correct_answer":"A potato","incorrect_answers":["A tomato","A lemon","An apple"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

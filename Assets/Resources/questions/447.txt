@@ -1,0 +1,1 @@
+{"id":447,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"In 2015, David Hasselhof released a single called...","correct_answer":"True Survivor","incorrect_answers":["True Fighter","Real Kung-Fury","Real Warrior"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

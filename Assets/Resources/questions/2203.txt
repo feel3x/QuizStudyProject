@@ -1,0 +1,1 @@
+{"id":2203,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which JoJo&#039;s Bizarre Adventure character possesses the Stand named Silver Chariot?","correct_answer":"Jean Pierre Polnareff","incorrect_answers":["Noriaki Kakyoin","Hol Horse","Hermes Costello"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

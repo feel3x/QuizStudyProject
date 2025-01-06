@@ -1,0 +1,1 @@
+{"id":1990,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which car manufacturer created the &quot;Aventador&quot;?","correct_answer":"Lamborghini","incorrect_answers":["Ferrari","Pagani","Bugatti"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

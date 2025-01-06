@@ -1,0 +1,1 @@
+{"id":1411,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which car company is the only Japanese company which won the 24 Hours of Le Mans?","correct_answer":"Mazda","incorrect_answers":["Toyota","Subaru","Nissan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

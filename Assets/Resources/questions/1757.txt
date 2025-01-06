@@ -1,0 +1,1 @@
+{"id":1757,"type":"multiple","difficulty":"medium","category":"Politics","question":"What are the first names of the first father and son pair that were both Prime Ministers of Canada?","correct_answer":"Justin and Pierre","incorrect_answers":["John and Louis","Brian and Justin","Brian and Pierre"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

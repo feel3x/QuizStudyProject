@@ -1,0 +1,1 @@
+{"id":1162,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?","correct_answer":"Heartbleed","incorrect_answers":["Shellshock","Corrupted Blood","Shellscript"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

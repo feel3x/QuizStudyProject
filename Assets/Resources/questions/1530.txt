@@ -1,0 +1,1 @@
+{"id":1530,"type":"multiple","difficulty":"hard","category":"Geography","question":"In 2012 the German-speaking microstate &quot;Liechtenstein&quot; in Central Europe had a population of how many inhabitants?","correct_answer":"36,600","incorrect_answers":["2,400","90,000","323,400"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

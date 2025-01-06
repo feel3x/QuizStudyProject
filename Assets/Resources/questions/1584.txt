@@ -1,0 +1,1 @@
+{"id":1584,"type":"multiple","difficulty":"easy","category":"History","question":"Which of the following was Brazil was a former colony under?","correct_answer":"Portugal","incorrect_answers":["Spain","The Netherlands","France"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":873,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"In &quot;Magic: The Gathering&quot;, what instant card has the highest converted mana cost?","correct_answer":"Blinkmoth Infusion","incorrect_answers":["Vitalizing Wind"," Chant of Vitu-Ghazi","Assert Authority"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

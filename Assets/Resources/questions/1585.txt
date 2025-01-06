@@ -1,0 +1,1 @@
+{"id":1585,"type":"multiple","difficulty":"easy","category":"History","question":"In 1453, which important city fell?","correct_answer":"Constantinople","incorrect_answers":["Rome","Hamburg","Athens"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

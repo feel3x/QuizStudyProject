@@ -1,0 +1,1 @@
+{"id":1367,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which Formula 1 driver switched teams in the middle of the 2017 season?","correct_answer":"Carlos Sainz Jr.","incorrect_answers":["Daniil Kvyat","Jolyon Palmer","Rio Haryanto"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

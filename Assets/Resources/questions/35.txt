@@ -1,0 +1,1 @@
+{"id":35,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What is the French word for &quot;fish&quot;?","correct_answer":"poisson","incorrect_answers":["fiche","escargot","mer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

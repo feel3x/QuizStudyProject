@@ -1,0 +1,1 @@
+{"id":89,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"The pickled gherkin was first added to hamburgers because a US health law required all fast-food to include a source of Vitamin C.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

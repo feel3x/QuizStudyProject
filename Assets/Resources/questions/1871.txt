@@ -1,0 +1,1 @@
+{"id":1871,"type":"multiple","difficulty":"hard","category":"Celebrities","question":"Gabe Newell was born in which year?","correct_answer":"1962 ","incorrect_answers":["1970","1960","1972"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

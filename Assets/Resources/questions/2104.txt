@@ -1,0 +1,1 @@
+{"id":2104,"type":"boolean","difficulty":"medium","category":"Science: Gadgets","question":"The Western Electric Model 500 telephone uses tone dialing to dial phone numbers.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

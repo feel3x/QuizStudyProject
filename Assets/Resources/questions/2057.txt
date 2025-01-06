@@ -1,0 +1,1 @@
+{"id":2057,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Which &quot;Green Arrow&quot; sidekick commonly wears a baseball cap?","correct_answer":"Roy Harper","incorrect_answers":["Black Canary","Emiko Queen","Dick Grayson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2163,"type":"boolean","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the &quot;Melancholy of Haruhi Suzumiya&quot; series, the narrator goes by the nickname Kyon.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

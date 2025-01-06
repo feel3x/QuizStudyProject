@@ -1,0 +1,1 @@
+{"id":1964,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"Which Italian city is home of the car manufacturer &#039;Fiat&#039;?","correct_answer":"Turin","incorrect_answers":["Maranello","Modena","Rome"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

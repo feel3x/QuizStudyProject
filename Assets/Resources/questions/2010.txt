@@ -1,0 +1,1 @@
+{"id":2010,"type":"multiple","difficulty":"hard","category":"Vehicles","question":"What car manufacturer gave away their patent for the seat-belt in the interest of saving lives?","correct_answer":"Volvo","incorrect_answers":["Ferrari","Ford","Renault"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

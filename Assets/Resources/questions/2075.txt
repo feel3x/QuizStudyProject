@@ -1,0 +1,1 @@
+{"id":2075,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"In what year did the first &quot;The Walking Dead&quot; comic come out?","correct_answer":"2003","incorrect_answers":["2001","2006","1999"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1020,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which is not a type of neuron?","correct_answer":"Perceptual Neuron","incorrect_answers":["Sensory Neuron","Motor Neuron","Interneuron"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

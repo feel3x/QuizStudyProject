@@ -1,0 +1,1 @@
+{"id":2340,"type":"multiple","difficulty":"hard","category":"Entertainment: Cartoon &amp; Animations","question":"Who voice acted the character Hiccup in the movie &quot;How to Train Your Dragon&quot;?","correct_answer":"Jay Baruchel","incorrect_answers":["Jack Brauchel","John Powell","Gerard Butler"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

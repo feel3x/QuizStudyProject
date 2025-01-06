@@ -1,0 +1,1 @@
+{"id":1642,"type":"multiple","difficulty":"medium","category":"History","question":"America&#039;s Strategic Defense System during the Cold War was nicknamed after this famous movie.","correct_answer":"Star Wars","incorrect_answers":["Jaws","Blade Runner","Alien"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

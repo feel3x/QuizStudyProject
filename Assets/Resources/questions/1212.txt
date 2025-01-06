@@ -1,0 +1,1 @@
+{"id":1212,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"What Greek letter is used to signify summation?","correct_answer":"Sigma","incorrect_answers":["Delta","Alpha","Omega"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

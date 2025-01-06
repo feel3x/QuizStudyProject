@@ -1,0 +1,1 @@
+{"id":7,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Which country has the union jack in its flag?","correct_answer":"New Zealand","incorrect_answers":["South Africa","Canada","Hong Kong"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1560,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?","correct_answer":"Inuktitut","incorrect_answers":["Inuinnaqtun","Greenlandic","Inupiat"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

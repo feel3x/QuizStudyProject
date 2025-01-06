@@ -1,0 +1,1 @@
+{"id":1658,"type":"multiple","difficulty":"medium","category":"History","question":"Which of these 1900s tanks were designed and built BEFORE the others?","correct_answer":"Renault FT","incorrect_answers":["M4 Sherman"," Panzer IV","Cromwell "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

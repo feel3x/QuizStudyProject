@@ -1,0 +1,1 @@
+{"id":1533,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which of these is NOT a city in India?","correct_answer":"Islamabad","incorrect_answers":["Hyderabad","Ahmedabad","Ghaziabad"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":699,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"What was the date of original airing of the pilot episode of My Little Pony: Friendship is Magic?","correct_answer":"October 10th, 2010","incorrect_answers":["November 6th, 2010","April 14th, 1984","May 18th, 2015"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

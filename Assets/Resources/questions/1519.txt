@@ -1,0 +1,1 @@
+{"id":1519,"type":"boolean","difficulty":"medium","category":"Geography","question":"The title of the 1969 film &quot;Krakatoa, East_of Java&quot; is incorrect, as Krakatoa is in fact west of Java.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

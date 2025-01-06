@@ -1,0 +1,1 @@
+{"id":1264,"type":"multiple","difficulty":"easy","category":"Mythology","question":"Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?","correct_answer":"Orpheus","incorrect_answers":["Hercules","Perseus","Daedalus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

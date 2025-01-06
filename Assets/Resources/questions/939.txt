@@ -1,0 +1,1 @@
+{"id":939,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the standard atomic weight of a Plutonium nucleus?","correct_answer":"244","incorrect_answers":["94","481","128"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

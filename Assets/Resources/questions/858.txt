@@ -1,0 +1,1 @@
+{"id":858,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"In which year was the pen and paper RPG &quot;Deadlands&quot; released?","correct_answer":"1996","incorrect_answers":["2003","1999","1993"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

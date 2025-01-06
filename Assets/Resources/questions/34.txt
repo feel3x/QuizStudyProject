@@ -1,0 +1,1 @@
+{"id":34,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Five dollars is worth how many nickles?","correct_answer":"100","incorrect_answers":["50","25","69"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1935,"type":"multiple","difficulty":"hard","category":"Animals","question":"What is the Gray Wolf&#039;s scientific name?","correct_answer":"Canis Lupus","incorrect_answers":["Canis Aureus","Canis Latrans","Canis Lupus Lycaon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

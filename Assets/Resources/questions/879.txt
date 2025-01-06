@@ -1,0 +1,1 @@
+{"id":879,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"How many points is the Z tile worth in Scrabble?","correct_answer":"10","incorrect_answers":["8","5","6"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2195,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"What is the name of the final villain in the manga series &quot;Bleach&quot;?","correct_answer":"Yhwach","incorrect_answers":["Juha Bach","Yuhabah","Juhabach"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

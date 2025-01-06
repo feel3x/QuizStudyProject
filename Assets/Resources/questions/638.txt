@@ -1,0 +1,1 @@
+{"id":638,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In the Netflix show, Stranger Things, what song would Will sing to himself as he was missing?","correct_answer":"Should I Stay or Should I Go?","incorrect_answers":["Love Will Tear Us Apart","This Charming Man","Africa"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

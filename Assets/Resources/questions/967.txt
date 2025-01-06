@@ -1,0 +1,1 @@
+{"id":967,"type":"boolean","difficulty":"medium","category":"Science &amp; Nature","question":"The planet Mars has two moons orbiting it.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

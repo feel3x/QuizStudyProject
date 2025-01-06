@@ -1,0 +1,1 @@
+{"id":2162,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"What is the name of the stuffed lion in Bleach?","correct_answer":"Kon","incorrect_answers":["Jo","Urdiu","Chad"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

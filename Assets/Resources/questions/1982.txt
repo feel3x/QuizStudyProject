@@ -1,0 +1,1 @@
+{"id":1982,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which one of the following is not made by Ford?","correct_answer":"Camry","incorrect_answers":["Fusion","Model A","F-150"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

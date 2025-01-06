@@ -1,0 +1,1 @@
+{"id":119,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Which product did Nokia, the telecommunications company, originally sell?","correct_answer":"Paper","incorrect_answers":["Phones","Computers","Processors"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1199,"type":"multiple","difficulty":"easy","category":"Science: Mathematics","question":"How many sides does a heptagon have?","correct_answer":"7","incorrect_answers":["8","6","5"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

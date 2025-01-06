@@ -1,0 +1,1 @@
+{"id":543,"type":"multiple","difficulty":"easy","category":"Entertainment: Musicals &amp; Theatres","question":"Who wrote the play &#039;Angels in America&#039;?","correct_answer":"Tony Kusher","incorrect_answers":["Tom Stoppard","Matthew Lopez","Anthony Neilson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

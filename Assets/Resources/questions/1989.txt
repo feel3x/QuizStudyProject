@@ -1,0 +1,1 @@
+{"id":1989,"type":"boolean","difficulty":"medium","category":"Vehicles","question":"When BMW was established in 1916, it was producing automobiles.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

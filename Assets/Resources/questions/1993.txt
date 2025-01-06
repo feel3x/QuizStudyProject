@@ -1,0 +1,1 @@
+{"id":1993,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which of the following countries has officially banned the civilian use of dash cams in cars?","correct_answer":"Austria","incorrect_answers":["United States","Czechia","South Korea"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

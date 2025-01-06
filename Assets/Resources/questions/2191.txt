@@ -1,0 +1,1 @@
+{"id":2191,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;Toriko&quot;, which of the following foods is knowingly compatible with Toriko?","correct_answer":"Poison Potato","incorrect_answers":["Mors Oil","Alpacookie","Parmesansho Fruit"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

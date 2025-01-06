@@ -1,0 +1,1 @@
+{"id":1685,"type":"multiple","difficulty":"hard","category":"History","question":"Which countries participated in the Lobster War?","correct_answer":"France and Brazil","incorrect_answers":["Canada and Norway","Australia and New Zealand","United States and England"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

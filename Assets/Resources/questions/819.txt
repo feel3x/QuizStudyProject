@@ -1,0 +1,1 @@
+{"id":819,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In the SHMUP series, &quot;Gradius&quot;, what is the name of the antagonist faction you fight against?","correct_answer":"Bacterion","incorrect_answers":["Bydo","Belsar","ORN Empire"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

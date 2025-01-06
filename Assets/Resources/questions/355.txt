@@ -1,0 +1,1 @@
+{"id":355,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What did the first moving picture depict?","correct_answer":"A galloping horse","incorrect_answers":["A woman in a dress","A man walking","A crackling fire"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

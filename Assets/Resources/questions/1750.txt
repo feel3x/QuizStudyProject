@@ -1,0 +1,1 @@
+{"id":1750,"type":"multiple","difficulty":"medium","category":"Politics","question":"What year did Gerald Ford Become President?","correct_answer":"1974","incorrect_answers":["1977","1973","1969"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

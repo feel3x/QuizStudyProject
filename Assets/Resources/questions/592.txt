@@ -1,0 +1,1 @@
+{"id":592,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Which character was played by Dustin Diamond in the sitcom &#039;Saved by the Bell&#039;?","correct_answer":"Screech","incorrect_answers":["Zack","Mr. Belding","A.C. Slater"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

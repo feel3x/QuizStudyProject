@@ -1,0 +1,1 @@
+{"id":1660,"type":"multiple","difficulty":"medium","category":"History","question":"Which Louis was known as &#039;The Sun King of France&#039;?","correct_answer":"Louis XIV","incorrect_answers":["Louis XIII","Louis XV","Louis XVI"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

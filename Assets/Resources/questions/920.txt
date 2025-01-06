@@ -1,0 +1,1 @@
+{"id":920,"type":"boolean","difficulty":"easy","category":"Science &amp; Nature","question":"Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

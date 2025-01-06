@@ -1,0 +1,1 @@
+{"id":1894,"type":"multiple","difficulty":"easy","category":"Animals","question":"What is Grumpy Cat&#039;s real name?","correct_answer":"Tardar Sauce","incorrect_answers":["Sauce","Minnie","Broccoli"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":87,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"The bikini is named after the &quot;Bikini Atoll&quot;, an island where the United States conducted tests on atomic bombs.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

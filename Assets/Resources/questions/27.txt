@@ -1,0 +1,1 @@
+{"id":27,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"In aerodynamics, which force pushes an object upwards?","correct_answer":"Lift","incorrect_answers":["Drag","Weight","Thrust"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

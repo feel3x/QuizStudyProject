@@ -1,0 +1,1 @@
+{"id":1552,"type":"multiple","difficulty":"hard","category":"Geography","question":"What year is on the flag of the US state Wisconsin?","correct_answer":"1848","incorrect_answers":["1634","1783","1901"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

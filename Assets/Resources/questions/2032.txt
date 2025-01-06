@@ -1,0 +1,1 @@
+{"id":2032,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"What is the full first name of the babysitter in Calvin and Hobbes?","correct_answer":"Rosalyn","incorrect_answers":["Rose","Ruby","Rachel"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

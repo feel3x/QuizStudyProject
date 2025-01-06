@@ -1,0 +1,1 @@
+{"id":1258,"type":"multiple","difficulty":"easy","category":"Mythology","question":"The Nike apparel and footwear brand takes it&#039;s name from the Greek goddess of what?","correct_answer":"Victory","incorrect_answers":["Courage","Strength","Honor"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

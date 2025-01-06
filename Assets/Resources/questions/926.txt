@@ -1,0 +1,1 @@
+{"id":926,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"Which Apollo mission was the first one to land on the Moon?","correct_answer":"Apollo 11","incorrect_answers":["Apollo 10","Apollo 9","Apollo 13"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

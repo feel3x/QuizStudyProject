@@ -1,0 +1,1 @@
+{"id":2007,"type":"boolean","difficulty":"hard","category":"Vehicles","question":"In 1993 Swedish car manufacturer Saab experimented with replacing the steering wheel with a joystick in a Saab 9000.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

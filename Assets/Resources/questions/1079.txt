@@ -1,0 +1,1 @@
+{"id":1079,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"Ada Lovelace is often considered the first computer programmer.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

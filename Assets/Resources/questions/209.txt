@@ -1,0 +1,1 @@
+{"id":209,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"Who wrote the 1967 horror novel &quot;Rosemary&#039;s Baby&quot;?","correct_answer":"Ira Levin","incorrect_answers":["Stephen King","Robert Bloch","Mary Shelley"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

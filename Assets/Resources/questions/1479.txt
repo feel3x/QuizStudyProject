@@ -1,0 +1,1 @@
+{"id":1479,"type":"multiple","difficulty":"medium","category":"Geography","question":"Which country has three capital cities?","correct_answer":"South Africa","incorrect_answers":["Somalia","China","United Kingdom"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

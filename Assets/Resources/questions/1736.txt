@@ -1,0 +1,1 @@
+{"id":1736,"type":"multiple","difficulty":"easy","category":"Politics","question":"How many people are in the U.S. House of Representatives?","correct_answer":"435","incorrect_answers":["260","415","50"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

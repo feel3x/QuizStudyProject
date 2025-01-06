@@ -1,0 +1,1 @@
+{"id":1035,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"How many types of quarks are there in the standard model of physics?","correct_answer":"6","incorrect_answers":["2","3","4"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

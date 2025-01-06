@@ -1,0 +1,1 @@
+{"id":18,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?","correct_answer":"Tango","incorrect_answers":["Target","Taxi","Turkey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

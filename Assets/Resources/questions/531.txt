@@ -1,0 +1,1 @@
+{"id":531,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Who was not in the band &quot;The Smiths&quot;?","correct_answer":"Martin Chambers","incorrect_answers":["Morrissey","Andy Rourke","Mike Joyce"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

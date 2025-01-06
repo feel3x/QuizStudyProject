@@ -1,0 +1,1 @@
+{"id":1482,"type":"multiple","difficulty":"medium","category":"Geography","question":"How many countries are inside the United Kingdom?","correct_answer":"Four","incorrect_answers":["Two","Three","One"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

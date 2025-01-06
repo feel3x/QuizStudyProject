@@ -1,0 +1,1 @@
+{"id":510,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Panic! At the Disco&#039;s sixth album &quot;Pray For The Wicked&quot; was released on which date?","correct_answer":"June 22, 2018","incorrect_answers":["May 9, 2018","March 13, 2018","February 21, 2018"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

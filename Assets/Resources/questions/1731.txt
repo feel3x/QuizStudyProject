@@ -1,0 +1,1 @@
+{"id":1731,"type":"multiple","difficulty":"easy","category":"Politics","question":"Former United States President Bill Clinton famously played which instrument?","correct_answer":"Saxophone","incorrect_answers":["Baritone horn","Piano","Violin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

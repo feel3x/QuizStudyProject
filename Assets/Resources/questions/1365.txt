@@ -1,0 +1,1 @@
+{"id":1365,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which sport is NOT traditionally played during the Mongolian Naadam festival?","correct_answer":"American Football","incorrect_answers":["Wrestling","Archery","Horse-Racing"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

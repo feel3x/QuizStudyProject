@@ -1,0 +1,1 @@
+{"id":1561,"type":"multiple","difficulty":"hard","category":"Geography","question":"The prefix Sino- (As in Sino-American) is used to refer to what nationality?","correct_answer":"Chinese","incorrect_answers":["Japanese","Russian","Indian"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

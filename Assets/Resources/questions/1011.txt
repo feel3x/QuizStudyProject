@@ -1,0 +1,1 @@
+{"id":1011,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"What is the chemical formula for ammonia?","correct_answer":"NH3","incorrect_answers":["CO2","NO3","CH4"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

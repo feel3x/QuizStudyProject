@@ -1,0 +1,1 @@
+{"id":456,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Which of these bands was a featuring artist in Compton rapper Kendrick Lamar&#039;s 2017 album, &quot;DAMN.&quot;?","correct_answer":"U2","incorrect_answers":["Radiohead","Coldplay","Bon Jovi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

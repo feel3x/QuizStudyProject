@@ -1,0 +1,1 @@
+{"id":1150,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":".at is the top-level domain for what country?","correct_answer":"Austria","incorrect_answers":["Argentina","Australia","Angola"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

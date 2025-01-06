@@ -1,0 +1,1 @@
+{"id":1562,"type":"multiple","difficulty":"hard","category":"Geography","question":"In which country is Tallinn located?","correct_answer":"Estonia","incorrect_answers":["Finland","Sweden","Poland"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

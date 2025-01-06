@@ -1,0 +1,1 @@
+{"id":1841,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Which radio personality calls himself &quot;The King of All Media&quot;?","correct_answer":"Howard Stern","incorrect_answers":["Rush Limbaugh","Pete Tong","Ryan Seacrest"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

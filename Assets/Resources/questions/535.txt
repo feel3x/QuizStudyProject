@@ -1,0 +1,1 @@
+{"id":535,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?","correct_answer":"The Black Mages","incorrect_answers":["The Final Fantasies","The Espers","The Rock Summoners"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":9,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"When was the Playstation 3 released?","correct_answer":"November 11, 2006","incorrect_answers":["January 8, 2007","December 25, 2007","July 16, 2006"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

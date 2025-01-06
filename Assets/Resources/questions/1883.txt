@@ -1,0 +1,1 @@
+{"id":1883,"type":"boolean","difficulty":"easy","category":"Animals","question":"Kangaroos keep food in their pouches next to their children.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

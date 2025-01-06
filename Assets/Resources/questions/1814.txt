@@ -1,0 +1,1 @@
+{"id":1814,"type":"multiple","difficulty":"hard","category":"Art","question":"Albrecht D&uuml;rer&#039;s birthplace and place of death were in...","correct_answer":"N&uuml;rnberg","incorrect_answers":["Augsburg","Bamberg","Berlin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

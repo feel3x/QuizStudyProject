@@ -1,0 +1,1 @@
+{"id":694,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"What was the name of the inflatable duck sacrified to the crowd at the end of Episode 34 of the 18th season of Big Brother?","correct_answer":"Pablo","incorrect_answers":["Esteban","Carlos","Duckster"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

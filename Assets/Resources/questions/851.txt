@@ -1,0 +1,1 @@
+{"id":851,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"How many copies of the notorious E.T. game for the Atari 2600 did Atari end up selling?","correct_answer":"1.5 Million","incorrect_answers":["1 Million","250 Thousand","Less than 250 Thousand"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

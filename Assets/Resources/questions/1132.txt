@@ -1,0 +1,1 @@
+{"id":1132,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"What is the main CPU is the Sega Mega Drive / Sega Genesis?","correct_answer":"Motorola 68000","incorrect_answers":["Zilog Z80","Yamaha YM2612","Intel 8088"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

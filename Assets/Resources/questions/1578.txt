@@ -1,0 +1,1 @@
+{"id":1578,"type":"boolean","difficulty":"easy","category":"History","question":"The United States of America declared their independence from the British Empire on July 4th, 1776.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

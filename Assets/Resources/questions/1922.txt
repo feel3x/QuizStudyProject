@@ -1,0 +1,1 @@
+{"id":1922,"type":"boolean","difficulty":"medium","category":"Animals","question":"You can tell the age of a ladybird by counting the spots on his back.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

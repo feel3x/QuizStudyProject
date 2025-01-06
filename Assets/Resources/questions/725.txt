@@ -1,0 +1,1 @@
+{"id":725,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"In the original Spyro game who is the first villain?","correct_answer":"Gnasty Gnorc","incorrect_answers":["Ripto","Sorceress","Cynder"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":252,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Who played Deputy Marshal Samuel Gerard in the 1993 film &quot;The Fugitive&quot;?","correct_answer":"Tommy Lee Jones","incorrect_answers":["Harrison Ford","Harvey Keitel","Martin Landau"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2331,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"What is the name of Ruby Rose&#039;s weapon from RWBY?","correct_answer":"Crescent Rose","incorrect_answers":["Thorned Rosebud","Magnhild","Crooked Scythe"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

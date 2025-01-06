@@ -1,0 +1,1 @@
+{"id":1751,"type":"multiple","difficulty":"medium","category":"Politics","question":"Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?","correct_answer":"Chile","incorrect_answers":["Ethiopia","Indonesia","Nicaragua"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

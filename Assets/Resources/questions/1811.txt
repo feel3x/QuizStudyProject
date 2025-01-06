@@ -1,0 +1,1 @@
+{"id":1811,"type":"multiple","difficulty":"hard","category":"Art","question":"What French sculptor designed the Statue of Liberty? ","correct_answer":"Fr&eacute;d&eacute;ric Auguste Bartholdi","incorrect_answers":["Jean-L&eacute;on G&eacute;r&ocirc;me","Auguste Rodin","Henri Matisse"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

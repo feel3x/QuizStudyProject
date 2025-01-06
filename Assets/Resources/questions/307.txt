@@ -1,0 +1,1 @@
+{"id":307,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"In the 2014 film &quot;Birdman&quot;, what is the primary instrument in the score?","correct_answer":"Drums","incorrect_answers":["Saxophone","Violin","Actual Live Birds Singing"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

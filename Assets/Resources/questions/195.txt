@@ -1,0 +1,1 @@
+{"id":195,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"Which of the following authors was not born in England? ","correct_answer":"Arthur Conan Doyle","incorrect_answers":["Graham Greene","H G Wells","Arthur C Clarke"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

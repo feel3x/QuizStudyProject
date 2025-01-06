@@ -1,0 +1,1 @@
+{"id":461,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Which of these is NOT a name of an album released by American rapper Pitbull?","correct_answer":"Welcome to Miami","incorrect_answers":["Dale","Global Warming","Armando"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

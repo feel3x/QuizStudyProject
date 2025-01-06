@@ -1,0 +1,1 @@
+{"id":1273,"type":"multiple","difficulty":"medium","category":"Mythology","question":"What is the name of the first human being in Norse mythology?","correct_answer":"Ask","incorrect_answers":["Asmund","Ake","Asger"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

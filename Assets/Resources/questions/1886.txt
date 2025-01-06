@@ -1,0 +1,1 @@
+{"id":1886,"type":"multiple","difficulty":"easy","category":"Animals","question":"What is the scientific name for modern day humans?","correct_answer":"Homo Sapiens","incorrect_answers":["Homo Ergaster","Homo Erectus","Homo Neanderthalensis"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

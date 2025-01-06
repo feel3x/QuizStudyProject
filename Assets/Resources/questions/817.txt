@@ -1,0 +1,1 @@
+{"id":817,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"What animal is on Link&#039;s pajamas in The Legend of Zelda: The Wind Waker?","correct_answer":"Crawfish","incorrect_answers":["Lobster","Salmon","Swordfish"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

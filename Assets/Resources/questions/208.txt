@@ -1,0 +1,1 @@
+{"id":208,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"Which of these book series is by James Patterson?","correct_answer":"Maximum Ride","incorrect_answers":["Harry Potter","The Legend of Xanth","The Bartemaeus Trilogy"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

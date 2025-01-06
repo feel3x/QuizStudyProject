@@ -1,0 +1,1 @@
+{"id":383,"type":"boolean","difficulty":"hard","category":"Entertainment: Film","question":"&quot;Cube&quot;, &quot;Cube 2: Hypercube&quot; and &quot;Cube Zero&quot; were directed by the same person.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

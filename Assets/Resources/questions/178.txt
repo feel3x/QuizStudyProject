@@ -1,0 +1,1 @@
+{"id":178,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"Who wrote &quot;A Tale of Two Cities&quot;?","correct_answer":"Charles Dickens","incorrect_answers":["Charles Darwin","Mark Twain","Roald Dahl"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

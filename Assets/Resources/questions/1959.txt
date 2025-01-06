@@ -1,0 +1,1 @@
+{"id":1959,"type":"boolean","difficulty":"easy","category":"Vehicles","question":"The full English name of the car manufacturer BMW is Bavarian Motor Works","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

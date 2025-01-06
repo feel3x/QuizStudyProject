@@ -1,0 +1,1 @@
+{"id":1055,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"What genetic disease is caused by having an extra Y chromosome (XYY)?","correct_answer":"Jacob&#039;s Syndrome","incorrect_answers":["Klinefelter&#039;s Syndrome","Turner&#039;s Syndrome","Down Syndrome"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

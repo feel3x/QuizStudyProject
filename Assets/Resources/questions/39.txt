@@ -1,0 +1,1 @@
+{"id":39,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Who is depicted on the US hundred dollar bill?","correct_answer":"Benjamin Franklin","incorrect_answers":["George Washington","Abraham Lincoln","Thomas Jefferson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

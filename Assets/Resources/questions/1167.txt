@@ -1,0 +1,1 @@
+{"id":1167,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"What was the name of the security vulnerability found in Bash in 2014?","correct_answer":"Shellshock","incorrect_answers":["Heartbleed","Bashbug","Stagefright"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

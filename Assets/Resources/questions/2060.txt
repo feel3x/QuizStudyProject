@@ -1,0 +1,1 @@
+{"id":2060,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Which of the following superheros did Wonder Woman NOT have a love interest in?","correct_answer":"Green Arrow","incorrect_answers":["Superman","Batman","Steve Trevor"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

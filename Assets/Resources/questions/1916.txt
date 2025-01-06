@@ -1,0 +1,1 @@
+{"id":1916,"type":"boolean","difficulty":"medium","category":"Animals","question":"The Platypus is a mammal.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

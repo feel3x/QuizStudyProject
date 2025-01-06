@@ -1,0 +1,1 @@
+{"id":358,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"Which was the first of Alfred Hitchcock&#039;s movies to be filmed in colour?","correct_answer":"Rope","incorrect_answers":["Psycho","Vertigo","Rebecca"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

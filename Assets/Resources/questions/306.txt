@@ -1,0 +1,1 @@
+{"id":306,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Who was the director of &quot;Scott Pilgrim vs. the World (2010)&quot;?","correct_answer":"Edgar Wright","incorrect_answers":["Phil Lord","Chris Miller","Seth Rogan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

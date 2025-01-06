@@ -1,0 +1,1 @@
+{"id":322,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Which star actor was in &quot;Top Gun&quot;, &quot;Jerry Maguire&quot; and &quot;Born on the Fourth of July&quot;?","correct_answer":"Tom Cruise","incorrect_answers":["Kelly McGillis","John Travolta","George Clooney"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

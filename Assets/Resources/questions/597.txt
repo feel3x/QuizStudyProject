@@ -1,0 +1,1 @@
+{"id":597,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In Game of Thrones, what continent lies across the Narrow Sea from Westeros?","correct_answer":"Essos","incorrect_answers":["Easteros","Westereast","Esuntos"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

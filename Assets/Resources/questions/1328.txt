@@ -1,0 +1,1 @@
+{"id":1328,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which country hosted the 2018 FIFA World Cup?","correct_answer":"Russia","incorrect_answers":["Germany","United States","Saudi Arabia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

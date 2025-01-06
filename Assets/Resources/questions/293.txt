@@ -1,0 +1,1 @@
+{"id":293,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Which of the following actors has only been in a Quentin Tarantino directed film once?","correct_answer":"John Travolta","incorrect_answers":["Christoph Waltz","Harvey Keitel","Samuel L. Jackson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

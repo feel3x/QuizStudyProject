@@ -1,0 +1,1 @@
+{"id":925,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What animal takes part in Schr&ouml;dinger&#039;s most famous thought experiment?","correct_answer":"Cat","incorrect_answers":["Dog","Bat","Butterfly"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

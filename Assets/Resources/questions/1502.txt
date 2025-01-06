@@ -1,0 +1,1 @@
+{"id":1502,"type":"multiple","difficulty":"medium","category":"Geography","question":"Which is the world&#039;s longest river?","correct_answer":"Nile","incorrect_answers":["Missouri","Amazon","Yangtze"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

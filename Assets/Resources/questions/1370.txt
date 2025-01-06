@@ -1,0 +1,1 @@
+{"id":1370,"type":"multiple","difficulty":"medium","category":"Sports","question":"Who won the 2015 College Football Playoff (CFP) National Championship? ","correct_answer":"Ohio State Buckeyes","incorrect_answers":["Alabama Crimson Tide","Clemson Tigers","Wisconsin Badgers"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

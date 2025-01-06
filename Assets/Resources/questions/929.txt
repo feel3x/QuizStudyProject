@@ -1,0 +1,1 @@
+{"id":929,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"The element involved in making human blood red is which of the following?","correct_answer":"Iron","incorrect_answers":["Copper","Iridium","Cobalt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":773,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What is the lowest amount of max health you can have in Team Fortress 2?","correct_answer":"70","incorrect_answers":["100","50","95"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

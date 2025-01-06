@@ -1,0 +1,1 @@
+{"id":1049,"type":"boolean","difficulty":"hard","category":"Science &amp; Nature","question":"The value of one Calorie is different than the value of one calorie.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

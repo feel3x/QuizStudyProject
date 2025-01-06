@@ -1,0 +1,1 @@
+{"id":1991,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"When was Cadillac founded?","correct_answer":"1902","incorrect_answers":["1964","1898","1985"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

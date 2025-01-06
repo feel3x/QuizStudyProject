@@ -1,0 +1,1 @@
+{"id":1220,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"How many books are in Euclid&#039;s Elements of Geometry?","correct_answer":"13","incorrect_answers":["8","10","17"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

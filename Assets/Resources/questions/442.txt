@@ -1,0 +1,1 @@
+{"id":442,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"How many studio albums have the heavy metal band, &#039;Metallica&#039; released in the period between 1983 and 2016?","correct_answer":"10","incorrect_answers":["7","9","12"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

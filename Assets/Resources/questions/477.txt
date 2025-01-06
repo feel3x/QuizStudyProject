@@ -1,0 +1,1 @@
+{"id":477,"type":"boolean","difficulty":"medium","category":"Entertainment: Music","question":"Nick Mason is the only member to appear on every Pink Floyd album.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

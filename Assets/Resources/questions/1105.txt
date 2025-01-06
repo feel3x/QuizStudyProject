@@ -1,0 +1,1 @@
+{"id":1105,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"This mobile OS held the largest market share in 2012.","correct_answer":"iOS","incorrect_answers":["Android","BlackBerry","Symbian"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

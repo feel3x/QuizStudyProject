@@ -1,0 +1,1 @@
+{"id":1936,"type":"multiple","difficulty":"hard","category":"Animals","question":"Which of these animals is NOT a lizard?","correct_answer":"Tuatara","incorrect_answers":["Komodo Dragon","Gila Monster","Green Iguana"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

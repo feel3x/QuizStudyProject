@@ -1,0 +1,1 @@
+{"id":2101,"type":"multiple","difficulty":"medium","category":"Science: Gadgets","question":"Who patented a steam engine that produced continuous rotary motion?","correct_answer":"James Watt","incorrect_answers":["Nikola Tesla","Albert Einstein","Alessandro Volta"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

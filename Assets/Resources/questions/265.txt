@@ -1,0 +1,1 @@
+{"id":265,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"What historical time period was the center of the Assassin&rsquo;s Creed movie (2016)?","correct_answer":"Spanish Inquisition","incorrect_answers":["Victorian England","French Revolution","Colonial America"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

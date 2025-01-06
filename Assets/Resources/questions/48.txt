@@ -1,0 +1,1 @@
+{"id":48,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Which one of these is not a typical European sword design?","correct_answer":"Scimitar","incorrect_answers":["Falchion","Ulfberht","Flamberge"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

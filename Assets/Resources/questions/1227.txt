@@ -1,0 +1,1 @@
+{"id":1227,"type":"boolean","difficulty":"medium","category":"Science: Mathematics","question":"Zero factorial is equal to zero. ","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

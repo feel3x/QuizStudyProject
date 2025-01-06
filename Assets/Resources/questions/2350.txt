@@ -1,0 +1,1 @@
+{"id":2350,"type":"multiple","difficulty":"hard","category":"Entertainment: Cartoon &amp; Animations","question":"Which of the following films was Don Bluth both the writer, director, and producer for?","correct_answer":"All Dogs Go To Heaven","incorrect_answers":["Titan A.E.","Anastasia","The Land Before Time"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

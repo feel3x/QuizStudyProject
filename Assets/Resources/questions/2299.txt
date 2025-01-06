@@ -1,0 +1,1 @@
+{"id":2299,"type":"boolean","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Night on Bald Mountain was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

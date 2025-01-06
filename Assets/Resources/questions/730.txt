@@ -1,0 +1,1 @@
+{"id":730,"type":"boolean","difficulty":"easy","category":"Entertainment: Video Games","question":"In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

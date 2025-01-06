@@ -1,0 +1,1 @@
+{"id":870,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"Carcassonne is based on which French town?","correct_answer":"Carcassonne","incorrect_answers":["Paris","Marseille","Clermont-Ferrand"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

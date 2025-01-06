@@ -1,0 +1,1 @@
+{"id":886,"type":"boolean","difficulty":"medium","category":"Entertainment: Board Games","question":"&quot;Rich Uncle Pennybags&quot; from the board game &quot;Monopoly&quot; wears a monocle.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

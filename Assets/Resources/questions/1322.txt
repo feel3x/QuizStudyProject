@@ -1,0 +1,1 @@
+{"id":1322,"type":"boolean","difficulty":"easy","category":"Sports","question":"There are a total of 20 races in Formula One 2016 season.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":622,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In AMC&#039;s TV Series &quot;The Walking Dead&quot; what are &quot;Zombies&quot; referred to as?","correct_answer":"Walkers","incorrect_answers":["Creepers","Maggots","Hell Pigs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

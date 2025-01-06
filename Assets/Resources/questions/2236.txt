@@ -1,0 +1,1 @@
+{"id":2236,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which animation studio animated &quot;Psycho Pass&quot;?","correct_answer":"Production I.G","incorrect_answers":["Kyoto Animation","Shaft","Trigger"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

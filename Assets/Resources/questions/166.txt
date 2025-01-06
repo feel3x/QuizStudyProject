@@ -1,0 +1,1 @@
+{"id":166,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?","correct_answer":"Fluffy","incorrect_answers":["Spike","Poofy","Spot"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

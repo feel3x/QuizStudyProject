@@ -1,0 +1,1 @@
+{"id":1768,"type":"multiple","difficulty":"medium","category":"Politics","question":"Who was the only president to not be in office in Washington D.C?","correct_answer":"George Washington","incorrect_answers":["Abraham Lincoln","Richard Nixon","Thomas Jefferson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

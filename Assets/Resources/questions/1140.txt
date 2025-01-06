@@ -1,0 +1,1 @@
+{"id":1140,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"What five letter word is the motto of the IBM Computer company?","correct_answer":"Think","incorrect_answers":["Click","Logic","Pixel"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

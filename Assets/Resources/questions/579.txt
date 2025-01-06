@@ -1,0 +1,1 @@
+{"id":579,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Who played the Waitress in the Spam sketch of &quot;Monty Python&#039;s Flying Circus&quot;?","correct_answer":"Terry Jones","incorrect_answers":["Eric Idle","Graham Chapman","John Cleese"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":262,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Who directed &quot;E.T. the Extra-Terrestrial&quot; (1982)?","correct_answer":"Steven Spielberg","incorrect_answers":["Stanley Kubrick","James Cameron","Tim Burton"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

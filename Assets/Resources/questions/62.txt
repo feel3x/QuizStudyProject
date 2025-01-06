@@ -1,0 +1,1 @@
+{"id":62,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"After how many years would you celebrate your crystal anniversary?","correct_answer":"15","incorrect_answers":["20","10","25"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2023,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"In Black Hammer, what city did the heroes save from the Anti-God?","correct_answer":"Spiral City","incorrect_answers":["Mega-City One","Rockwood","Star City"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

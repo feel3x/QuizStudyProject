@@ -1,0 +1,1 @@
+{"id":1419,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which player &quot;kung-fu kicked&quot; a Crystal Palace fan in January 1995?","correct_answer":"Eric Cantona","incorrect_answers":["David Seamen","Ashley Cole","Mark Hughes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

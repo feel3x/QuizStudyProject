@@ -1,0 +1,1 @@
+{"id":1702,"type":"multiple","difficulty":"hard","category":"History","question":"What is the name of the Boeing B-29 that dropped the &#039;Little Boy&#039; atomic bomb on Hiroshima?","correct_answer":"Enola Gay","incorrect_answers":["Necessary Evil","The Great Artiste","Full House"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

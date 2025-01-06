@@ -1,0 +1,1 @@
+{"id":147,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"What is the romanized Korean word for &quot;heart&quot;?","correct_answer":"Simjang","incorrect_answers":["Aejeong","Jeongsin","Segseu"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

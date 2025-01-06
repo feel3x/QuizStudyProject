@@ -1,0 +1,1 @@
+{"id":1618,"type":"multiple","difficulty":"easy","category":"History","question":"Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?","correct_answer":"The Polish President","incorrect_answers":["Pope John Paul II","Bang-Ding Ow","Albert Putin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

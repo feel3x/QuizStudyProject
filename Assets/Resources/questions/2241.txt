@@ -1,0 +1,1 @@
+{"id":2241,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which studio animated Afro Samurai?","correct_answer":"Gonzo","incorrect_answers":["Kyoto Animation","xebec","Production I.G"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

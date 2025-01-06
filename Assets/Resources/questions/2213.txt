@@ -1,0 +1,1 @@
+{"id":2213,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which of the following manga have the most tankouban volumes?","correct_answer":"Golgo 13","incorrect_answers":["JoJo&#039;s Bizarre Adventure","Detective Conan","One Piece"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

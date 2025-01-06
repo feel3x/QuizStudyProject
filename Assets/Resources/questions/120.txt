@@ -1,0 +1,1 @@
+{"id":120,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?","correct_answer":"10","incorrect_answers":["6","8","12"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

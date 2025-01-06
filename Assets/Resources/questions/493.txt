@@ -1,0 +1,1 @@
+{"id":493,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Pamina and Papageno are characters in what Mozart opera?","correct_answer":"The Magic Flute","incorrect_answers":["The Marriage of Figaro","The Impresario","The Goose of Cairo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":473,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"According to the RIAA: Which artist has sold the most albums by the million?","correct_answer":"The Beatles","incorrect_answers":["Elvis Presley","Michael Jackson","Pink Floyd"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

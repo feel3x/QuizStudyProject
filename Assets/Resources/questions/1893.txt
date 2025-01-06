@@ -1,0 +1,1 @@
+{"id":1893,"type":"boolean","difficulty":"easy","category":"Animals","question":"The Axolotl is an amphibian that can spend its whole life in a larval state.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

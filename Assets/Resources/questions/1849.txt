@@ -1,0 +1,1 @@
+{"id":1849,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"What was the name of Marilyn Monroe&#039;s first husband?","correct_answer":"James Dougherty","incorrect_answers":["Joe Dimaggio","Kirk Douglas","Arthur Miller"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

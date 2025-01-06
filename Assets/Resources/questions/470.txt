@@ -1,0 +1,1 @@
+{"id":470,"type":"boolean","difficulty":"medium","category":"Entertainment: Music","question":"&quot;Twenty One Pilots&quot; made the song &quot;The Motion&quot; featuring Sampha.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

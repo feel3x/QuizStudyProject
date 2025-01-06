@@ -1,0 +1,1 @@
+{"id":713,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"What is the name of the game developer who created &quot;Call Of Duty: Zombies&quot;?","correct_answer":"Treyarch","incorrect_answers":["Sledgehammer Games","Infinity Ward","Naughty Dog"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

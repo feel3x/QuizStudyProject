@@ -1,0 +1,1 @@
+{"id":2269,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Which of these characters from &quot;SpongeBob SquarePants&quot; is not a squid?","correct_answer":"Gary","incorrect_answers":["Orvillie","Squidward","Squidette"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

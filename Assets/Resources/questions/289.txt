@@ -1,0 +1,1 @@
+{"id":289,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"The 2002 film &quot;28 Days Later&quot; is mainly set in which European country?","correct_answer":"United Kingdom","incorrect_answers":["France","Italy","Germany"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

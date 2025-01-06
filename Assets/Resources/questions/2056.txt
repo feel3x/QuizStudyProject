@@ -1,0 +1,1 @@
+{"id":2056,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"What was the name of the first Robin in the Batman comics?","correct_answer":"Dick Grayson","incorrect_answers":["Bruce Wayne","Jason Todd","Tim Drake"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

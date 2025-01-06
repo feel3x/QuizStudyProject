@@ -1,0 +1,1 @@
+{"id":983,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Which portion of the Marijuana plant produces the psychoactive substance known as THC?","correct_answer":"Female Flower","incorrect_answers":["Leaves","Male Flower","Root Ball"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

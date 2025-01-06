@@ -1,0 +1,1 @@
+{"id":523,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"In Kendrick Lamar&#039;s 2012 album, &quot;Good Kid, M.A.A.D City&quot;, the album&#039;s story takes place in which city?","correct_answer":"Compton","incorrect_answers":["Detroit","New York","Baltimore"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

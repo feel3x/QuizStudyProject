@@ -1,0 +1,1 @@
+{"id":606,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Who is the star of the AMC series Breaking Bad?","correct_answer":"Walter White","incorrect_answers":["Saul Goodman","Jesse Pinkman","Skyler White"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

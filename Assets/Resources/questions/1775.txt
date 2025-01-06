@@ -1,0 +1,1 @@
+{"id":1775,"type":"multiple","difficulty":"hard","category":"Politics","question":"Which of the following United States Presidents served the shortest term in office?","correct_answer":"William Henry Harrison","incorrect_answers":["Zachary Taylor","James A. Garfield","Warren G. Harding"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

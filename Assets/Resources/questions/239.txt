@@ -1,0 +1,1 @@
+{"id":239,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"In which classic novel is there a character named Homer Simpson?","correct_answer":"The Day of the Locust","incorrect_answers":["Catch-22","Of Mice and Men","A Separate Peace"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

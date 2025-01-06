@@ -1,0 +1,1 @@
+{"id":2281,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Who was the villain of &#039;&#039;The Lion King&#039;&#039;?","correct_answer":"Scar","incorrect_answers":["Fred","Jafar","Vada"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

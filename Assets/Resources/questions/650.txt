@@ -1,0 +1,1 @@
+{"id":650,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"What is Meg&#039;s full name in &quot;Family Guy&quot;?","correct_answer":"Megatron Griffin","incorrect_answers":["Who-Cares Griffin","Neil Griffin","Megan Griffin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

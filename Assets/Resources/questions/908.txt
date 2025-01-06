@@ -1,0 +1,1 @@
+{"id":908,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"The board game &quot;Monopoly&quot; is a variation of what board game?","correct_answer":"The Landlord&#039;s Game","incorrect_answers":["Territorial Dispute","Property Feud","The Monopolist&#039;s Game"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

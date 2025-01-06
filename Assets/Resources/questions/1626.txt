@@ -1,0 +1,1 @@
+{"id":1626,"type":"multiple","difficulty":"easy","category":"History","question":"Who led the Communist Revolution of Russia?","correct_answer":"Vladimir Lenin","incorrect_answers":["Joseph Stalin","Vladimir Putin","Mikhail Gorbachev"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

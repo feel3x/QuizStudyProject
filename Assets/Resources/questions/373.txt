@@ -1,0 +1,1 @@
+{"id":373,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What was the last Marx Brothers film to feature Zeppo?","correct_answer":"Duck Soup","incorrect_answers":["A Night at the Opera","A Day at the Races","Monkey Business"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

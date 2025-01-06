@@ -1,0 +1,1 @@
+{"id":1379,"type":"boolean","difficulty":"medium","category":"Sports","question":"Formula E is an auto racing series that uses hybrid electric race cars.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

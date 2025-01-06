@@ -1,0 +1,1 @@
+{"id":2052,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Who was the inspiration for Cuthbert Calculus in the Tintin series?","correct_answer":"Auguste Picard","incorrect_answers":["Jacques Piccard","Will Morris","J. Cecil Maby"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

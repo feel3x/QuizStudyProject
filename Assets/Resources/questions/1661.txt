@@ -1,0 +1,1 @@
+{"id":1661,"type":"multiple","difficulty":"medium","category":"History","question":"What is the name of the ship which was only a few miles away from the RMS Titanic when it struck an iceberg on April 14, 1912?","correct_answer":"Californian","incorrect_answers":["Carpathia","Cristol","Commerce"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

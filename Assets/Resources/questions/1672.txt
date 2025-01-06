@@ -1,0 +1,1 @@
+{"id":1672,"type":"multiple","difficulty":"medium","category":"History","question":"Which dictator killed the most people?","correct_answer":"Mao Zedong","incorrect_answers":["Joseph Stalin","Adolf Hitler","Kim Il Sung"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

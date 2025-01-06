@@ -1,0 +1,1 @@
+{"id":1962,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"What is the fastest road legal car in the world?","correct_answer":"Koenigsegg Agera RS","incorrect_answers":["Hennessy Venom GT","Bugatti Veyron Super Sport","Pagani Huayra BC"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

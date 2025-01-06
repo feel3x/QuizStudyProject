@@ -1,0 +1,1 @@
+{"id":1115,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"What is known as &quot;the brain&quot; of the Computer?","correct_answer":"Central Processing Unit","incorrect_answers":["Motherboard","Graphics Processing Unit","Keyboard"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

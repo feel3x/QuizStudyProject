@@ -1,0 +1,1 @@
+{"id":1677,"type":"multiple","difficulty":"medium","category":"History","question":"The Fallingwater House, located in Pennsylvania, was designed by which architect?","correct_answer":"Frank Lloyd Wright","incorrect_answers":["Antoni Gaudi","Frank Gehry","Le Corbusier"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

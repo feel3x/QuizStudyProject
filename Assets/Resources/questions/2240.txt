@@ -1,0 +1,1 @@
+{"id":2240,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;Hunter x Hunter&quot;, which of the following is NOT a type of Nen aura?","correct_answer":"Restoration","incorrect_answers":["Emission","Transmutation","Specialization"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":321,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?","correct_answer":"The Vikings ","incorrect_answers":["The Long Ships","Prince Valiant","Spartacus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2206,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"What year does Part 7 of &quot;JoJo&#039;s Bizarre Adventure&quot; take place in?","correct_answer":"1890","incorrect_answers":["1888","1999","2003"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

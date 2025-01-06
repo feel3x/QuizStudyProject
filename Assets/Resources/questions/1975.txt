@@ -1,0 +1,1 @@
+{"id":1975,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"What nickname was given to Air Canada Flight 143 after it ran out of fuel and glided to safety in 1983?","correct_answer":"Gimli Glider","incorrect_answers":["Gimli Microlight","Gimli Chaser","Gimli Superb"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

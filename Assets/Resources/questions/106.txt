@@ -1,0 +1,1 @@
+{"id":106,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"What was the third country to have a McDonald&#039;s restaurant?","correct_answer":"Costa Rica","incorrect_answers":["Japan","France","Australia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":737,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"In Animal Crossing, who is the manager of the town shop?","correct_answer":"Tom Nook","incorrect_answers":["Mr. Resetti","Gracie","K.K. Slider"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

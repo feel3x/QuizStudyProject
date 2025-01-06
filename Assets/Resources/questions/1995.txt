@@ -1,0 +1,1 @@
+{"id":1995,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which animal features on the logo for Abarth, the motorsport division of Fiat?","correct_answer":"Scorpion","incorrect_answers":["Snake","Bull","Horse"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

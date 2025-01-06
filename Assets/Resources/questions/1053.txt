@@ -1,0 +1,1 @@
+{"id":1053,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"What is the unit of electrical inductance?","correct_answer":"Henry","incorrect_answers":["Weber","Coulomb","Mho"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

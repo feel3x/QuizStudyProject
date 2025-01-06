@@ -1,0 +1,1 @@
+{"id":1558,"type":"multiple","difficulty":"hard","category":"Geography","question":"What is the area of Vatican City?","correct_answer":"0.44km^2","incorrect_answers":["0.10km^2","0.86km^2","12.00km^2"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

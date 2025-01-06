@@ -1,0 +1,1 @@
+{"id":732,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"In the video game &quot;Team Fortress 2&quot;, which class is able to double jump?","correct_answer":"Scout","incorrect_answers":["Spy","Engineer","Pyro"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

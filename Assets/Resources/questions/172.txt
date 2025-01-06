@@ -1,0 +1,1 @@
+{"id":172,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"What&#039;s the second book in George R. R. Martin&#039;s &#039;A Song of Ice and Fire&#039; series?","correct_answer":"A Clash of Kings","incorrect_answers":["A Dance with Dragons","A Storm of Swords","A Feast for Crows"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

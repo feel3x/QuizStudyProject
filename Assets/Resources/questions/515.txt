@@ -1,0 +1,1 @@
+{"id":515,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which Elton John hit starts with the line &quot;When are you gonna come down&quot;?","correct_answer":"Goodbye Yellow Brick Road","incorrect_answers":["Rocket Man","Bennie and the Jets","Crocodile Rock"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

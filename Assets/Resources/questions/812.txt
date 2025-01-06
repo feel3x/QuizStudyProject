@@ -1,0 +1,1 @@
+{"id":812,"type":"boolean","difficulty":"hard","category":"Entertainment: Video Games","question":"In &quot;Minecraft&quot;, gold tools are faster than diamond tools.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

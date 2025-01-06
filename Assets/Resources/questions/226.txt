@@ -1,0 +1,1 @@
+{"id":226,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"In The Lies Of Locke Lamora, what does &quot;Lamora&quot; mean in Throne Therin?","correct_answer":"Shadow","incorrect_answers":["Thievery","Justice","Chaos"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

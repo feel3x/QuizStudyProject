@@ -1,0 +1,1 @@
+{"id":128,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Where is Apple Inc. headquartered?","correct_answer":"Cupertino, California","incorrect_answers":["Redwood City, California","Redmond, Washington","Santa Monica, CA"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

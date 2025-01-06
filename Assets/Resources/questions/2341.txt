@@ -1,0 +1,1 @@
+{"id":2341,"type":"multiple","difficulty":"hard","category":"Entertainment: Cartoon &amp; Animations","question":"In &quot;Rick and Morty&quot;, from which dimension do Rick and Morty originate from?","correct_answer":"C-137","incorrect_answers":["J1977","C-136","C500-a"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":785,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In the game &quot;Subnautica&quot;, which feature was removed due to performance issues in 2016?","correct_answer":"Terraforming","incorrect_answers":["Building","Crafting","Multiplayer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

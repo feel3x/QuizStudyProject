@@ -1,0 +1,1 @@
+{"id":1386,"type":"multiple","difficulty":"medium","category":"Sports","question":"Who won the 2018 Monaco Grand Prix?","correct_answer":"Daniel Ricciardo","incorrect_answers":["Sebastian Vettel","Kimi Raikkonen","Lewis Hamilton"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

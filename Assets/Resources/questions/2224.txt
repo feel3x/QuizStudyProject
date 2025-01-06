@@ -1,0 +1,1 @@
+{"id":2224,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In which manga did the &quot;404 Girl&quot; from 4chan originate from?","correct_answer":"Yotsuba&amp;!","incorrect_answers":["Azumanga Daioh","Lucky Star","Clover"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

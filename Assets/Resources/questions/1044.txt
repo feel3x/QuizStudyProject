@@ -1,0 +1,1 @@
+{"id":1044,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"The word &quot;science&quot; stems from the word &quot;scire&quot; meaning what?","correct_answer":"To know","incorrect_answers":["To measure","To live","To count"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1919,"type":"boolean","difficulty":"medium","category":"Animals","question":"An octopus can fit through any hole larger than its beak.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

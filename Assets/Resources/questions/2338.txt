@@ -1,0 +1,1 @@
+{"id":2338,"type":"multiple","difficulty":"hard","category":"Entertainment: Cartoon &amp; Animations","question":"Benny, Brain, Fancy-Fancy, Spook and Choo-Choo were known associates of what Hanna Barbera cartoon character?","correct_answer":"Top Cat","incorrect_answers":["Yogi Bear","Snagglepuss","Scooby-Doo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

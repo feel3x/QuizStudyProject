@@ -1,0 +1,1 @@
+{"id":2085,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?","correct_answer":"Muhammad Ali","incorrect_answers":["Mike Tyson","Sylvester Stallone","Arnold Schwarzenegger"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

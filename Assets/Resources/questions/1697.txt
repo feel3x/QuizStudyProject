@@ -1,0 +1,1 @@
+{"id":1697,"type":"multiple","difficulty":"hard","category":"History","question":"Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?","correct_answer":"March 25th","incorrect_answers":["June 1st","September 25th","December 1st"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

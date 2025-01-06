@@ -1,0 +1,1 @@
+{"id":1022,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"What is the scientific name of the red fox?","correct_answer":"Vulpes Vulpes","incorrect_answers":["Vulpes Redus","Red Fox","Vulpes Vulpie"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

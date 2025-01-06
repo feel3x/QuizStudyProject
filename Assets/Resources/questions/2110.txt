@@ -1,0 +1,1 @@
+{"id":2110,"type":"multiple","difficulty":"medium","category":"Science: Gadgets","question":"Out of all of the NASA Space Shuttles, which 2 have been destroyed in disasters?","correct_answer":"Challenger and Columbia","incorrect_answers":["Enterprise and Atlantis","Discovery and Endeavour","None of the Above"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

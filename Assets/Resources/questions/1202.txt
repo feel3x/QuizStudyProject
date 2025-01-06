@@ -1,0 +1,1 @@
+{"id":1202,"type":"boolean","difficulty":"easy","category":"Science: Mathematics","question":"A universal set, or a set that contains all sets, exists.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

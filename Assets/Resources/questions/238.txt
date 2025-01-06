@@ -1,0 +1,1 @@
+{"id":238,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"What is Hermione Granger&#039;s middle name?","correct_answer":"Jean","incorrect_answers":["Jane","Emma","Jo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

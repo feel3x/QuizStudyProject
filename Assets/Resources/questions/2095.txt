@@ -1,0 +1,1 @@
+{"id":2095,"type":"boolean","difficulty":"easy","category":"Science: Gadgets","question":"The communication protocol NFC stands for Near-Field Control.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

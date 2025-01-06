@@ -1,0 +1,1 @@
+{"id":1176,"type":"boolean","difficulty":"hard","category":"Science: Computers","question":"DHCP stands for Dynamic Host Configuration Port.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

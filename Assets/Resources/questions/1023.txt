@@ -1,0 +1,1 @@
+{"id":1023,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"How many objects are equivalent to one mole?","correct_answer":"6.022 x 10^23","incorrect_answers":["6.002 x 10^22","6.022 x 10^22","6.002 x 10^23"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

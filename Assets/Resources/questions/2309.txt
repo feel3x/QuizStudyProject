@@ -1,0 +1,1 @@
+{"id":2309,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"How many episodes were in season five of Samurai Jack?","correct_answer":"10","incorrect_answers":["12","11","13"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

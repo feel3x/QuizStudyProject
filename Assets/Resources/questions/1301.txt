@@ -1,0 +1,1 @@
+{"id":1301,"type":"multiple","difficulty":"hard","category":"Mythology","question":"Nidhogg is a mythical creature from what mythology?","correct_answer":"Norse","incorrect_answers":["Egyptian","Greek","Hindu"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

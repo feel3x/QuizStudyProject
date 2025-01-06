@@ -1,0 +1,1 @@
+{"id":1535,"type":"multiple","difficulty":"hard","category":"Geography","question":"The mountainous Khyber Pass connects which of the two following countries?","correct_answer":"Afghanistan and Pakistan","incorrect_answers":["India and Nepal","Pakistan and India","Tajikistan and Kyrgyzstan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

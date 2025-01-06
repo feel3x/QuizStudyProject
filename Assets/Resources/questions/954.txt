@@ -1,0 +1,1 @@
+{"id":954,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"This element, when overcome with extreme heat and pressure, creates diamonds.","correct_answer":"Carbon","incorrect_answers":["Nitrogen","Oxygen","Hydrogen"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

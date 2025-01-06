@@ -1,0 +1,1 @@
+{"id":53,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"Computer manufacturer Compaq was acquired for $25 billion dollars in 2002 by which company?","correct_answer":"Hewlett-Packard","incorrect_answers":["Toshiba","Asus","Dell"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

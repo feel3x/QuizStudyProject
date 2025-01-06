@@ -1,0 +1,1 @@
+{"id":1254,"type":"multiple","difficulty":"easy","category":"Mythology","question":"Who was the King of Gods in Ancient Greek mythology?","correct_answer":"Zeus","incorrect_answers":["Apollo","Hermes","Poseidon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

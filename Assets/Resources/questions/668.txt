@@ -1,0 +1,1 @@
+{"id":668,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"What is the name of the main antagonists in Battlestar Galactica?","correct_answer":"The Cylons","incorrect_answers":["The Collective","The Federation","The Rebels"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

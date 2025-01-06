@@ -1,0 +1,1 @@
+{"id":175,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"Who was the original author of Frankenstein?","correct_answer":"Mary Shelley","incorrect_answers":["Edgar Allan Poe","Bram Stoker","H. P. Lovecraft"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

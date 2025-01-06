@@ -1,0 +1,1 @@
+{"id":2186,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"What song plays in the ending credits of the anime &quot;Ergo Proxy&quot;?","correct_answer":"Paranoid Android","incorrect_answers":["Sadistic Summer","Bittersweet Symphony","Mad World"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

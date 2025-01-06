@@ -1,0 +1,1 @@
+{"id":2257,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which of these anime have over 7,500 episodes?","correct_answer":"Sazae-san","incorrect_answers":["Naruto","One Piece","Chibi Maruko-chan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

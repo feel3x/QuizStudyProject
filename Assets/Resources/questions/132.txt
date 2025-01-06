@@ -1,0 +1,1 @@
+{"id":132,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Virtual reality company Oculus VR lost which of it&#039;s co-founders in a freak car accident in 2013?","correct_answer":"Andrew Scott Reisse","incorrect_answers":["Nate Mitchell","Jack McCauley","Palmer Luckey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1712,"type":"multiple","difficulty":"hard","category":"History","question":"Which King of England was faced with the Peasants&#039; Revolt in 1381?","correct_answer":"Richard II","incorrect_answers":["Edward III","Edward II","Henry IV"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

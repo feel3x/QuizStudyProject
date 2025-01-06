@@ -1,0 +1,1 @@
+{"id":32,"type":"boolean","difficulty":"easy","category":"General Knowledge","question":"Video streaming website YouTube was purchased in it&#039;s entirety by Facebook for US$1.65 billion in stock.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

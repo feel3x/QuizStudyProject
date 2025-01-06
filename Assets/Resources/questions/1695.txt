@@ -1,0 +1,1 @@
+{"id":1695,"type":"multiple","difficulty":"hard","category":"History","question":"What was the name of the German offensive operation in October 1941 to take Moscow before winter?","correct_answer":"Operation Typhoon","incorrect_answers":["Operation Sunflower","Operation Barbarossa","Case Blue"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

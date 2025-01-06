@@ -1,0 +1,1 @@
+{"id":268,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"What is the orange and white bot&#039;s name in &quot;Star Wars: The Force Awakens&quot;?","correct_answer":"BB-8","incorrect_answers":["BB-3","AA-A","R2-D2"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

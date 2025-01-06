@@ -1,0 +1,1 @@
+{"id":744,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"What is the boss round featured in the &quot;Call Of Duty: Zombies&quot; map &quot;Five&quot;?","correct_answer":"The Pentagon Thief","incorrect_answers":["Hellhounds","Jumping Jacks","Napalm Zombie"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":584,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"What is the name of Chris&#039;s brother in &quot;Everybody Hates Chris&quot;?","correct_answer":"Drew","incorrect_answers":["Jerome","Greg","Joe"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

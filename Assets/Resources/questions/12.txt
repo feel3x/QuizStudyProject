@@ -1,0 +1,1 @@
+{"id":12,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"In which fast food chain can you order a Jamocha Shake?","correct_answer":"Arby&#039;s","incorrect_answers":["McDonald&#039;s","Burger King","Wendy&#039;s"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

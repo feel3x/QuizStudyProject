@@ -1,0 +1,1 @@
+{"id":1900,"type":"multiple","difficulty":"medium","category":"Animals","question":"Which of these species is not extinct?","correct_answer":"Komodo dragon","incorrect_answers":["Japanese sea lion","Tasmanian tiger","Saudi gazelle"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

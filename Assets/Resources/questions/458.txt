@@ -1,0 +1,1 @@
+{"id":458,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"The song &quot;Caramelldansen&quot; is commonly mistaken as a Japanese song, what language is the song actually sung in?","correct_answer":"Swedish","incorrect_answers":["Hungarian","Finnish","Chinese"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

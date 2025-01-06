@@ -1,0 +1,1 @@
+{"id":1582,"type":"multiple","difficulty":"easy","category":"History","question":"How old was Adolf Hitler when he died?","correct_answer":"56","incorrect_answers":["43","65","47"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

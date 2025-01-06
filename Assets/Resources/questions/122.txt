@@ -1,0 +1,1 @@
+{"id":122,"type":"boolean","difficulty":"hard","category":"General Knowledge","question":"NCIS stands for &quot;Navy Corps Investigative Service&quot;","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

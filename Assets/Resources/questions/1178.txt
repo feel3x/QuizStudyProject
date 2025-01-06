@@ -1,0 +1,1 @@
+{"id":1178,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Which of these is not a layer in the OSI model for data communications?","correct_answer":"Connection Layer","incorrect_answers":["Application Layer","Transport Layer","Physical Layer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

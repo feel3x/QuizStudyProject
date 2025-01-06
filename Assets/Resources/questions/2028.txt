@@ -1,0 +1,1 @@
+{"id":2028,"type":"boolean","difficulty":"easy","category":"Entertainment: Comics","question":"The &quot;Pepe&quot; meme originated from a comic drawn by Matt Furie called &quot;Boy&#039;s Club&quot;?","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

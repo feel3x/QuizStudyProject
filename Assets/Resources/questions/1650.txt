@@ -1,0 +1,1 @@
+{"id":1650,"type":"boolean","difficulty":"medium","category":"History","question":"Theodore Roosevelt Jr. was the only General involved in the initial assault on D-Day.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

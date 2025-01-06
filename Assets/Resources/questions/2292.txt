@@ -1,0 +1,1 @@
+{"id":2292,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Who is the only voice actor to have a speaking part in all of the Disney Pixar feature films? ","correct_answer":"John Ratzenberger","incorrect_answers":["Tom Hanks","Dave Foley","Geoffrey Rush"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

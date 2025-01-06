@@ -1,0 +1,1 @@
+{"id":2065,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"What is Homestuck character Gamzee&#039;s last name?","correct_answer":"Makara","incorrect_answers":["Makera","Makare","Makrea"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1943,"type":"multiple","difficulty":"hard","category":"Animals","question":"How many known living species of hyenas are there?","correct_answer":"4","incorrect_answers":["8","2","6"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

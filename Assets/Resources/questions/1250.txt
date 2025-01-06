@@ -1,0 +1,1 @@
+{"id":1250,"type":"multiple","difficulty":"hard","category":"Science: Mathematics","question":"Which of the following famous mathematicians died in a duel at the age of 20?","correct_answer":"Galois","incorrect_answers":["Abel","Euler","Gauss"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

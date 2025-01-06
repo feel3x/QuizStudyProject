@@ -1,0 +1,1 @@
+{"id":948,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"Which element has the chemical symbol &#039;Fe&#039;?","correct_answer":"Iron","incorrect_answers":["Gold","Silver","Tin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

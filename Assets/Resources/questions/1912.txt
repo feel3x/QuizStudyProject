@@ -1,0 +1,1 @@
+{"id":1912,"type":"multiple","difficulty":"medium","category":"Animals","question":"What is the common term for bovine spongiform encephalopathy (BSE)?","correct_answer":"Mad Cow disease","incorrect_answers":["Weil&#039;s disease","Milk fever","Foot-and-mouth disease"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2015,"type":"multiple","difficulty":"hard","category":"Vehicles","question":"What year did the Chevrolet LUV mini truck make its debut?","correct_answer":"1972","incorrect_answers":["1982","1975","1973"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

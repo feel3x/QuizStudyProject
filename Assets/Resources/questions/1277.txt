@@ -1,0 +1,1 @@
+{"id":1277,"type":"multiple","difficulty":"medium","category":"Mythology","question":"This Greek mythological figure is the god/goddess of battle strategy (among other things).","correct_answer":"Athena","incorrect_answers":["Ares","Artemis","Apollo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

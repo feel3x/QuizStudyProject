@@ -1,0 +1,1 @@
+{"id":2071,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"What are the Three Virtues of Bionicle?","correct_answer":"Unity, Duty, Destiny","incorrect_answers":["Build, Play, Change","Work, Play, Live","Forge, Build, Fight"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1107,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:","correct_answer":"HD Graphics 500","incorrect_answers":["HD Graphics 700 ","HD Graphics 600","HD Graphics 7000"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

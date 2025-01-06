@@ -1,0 +1,1 @@
+{"id":978,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Which of the following is NOT a passive electrical component?","correct_answer":"Transistor","incorrect_answers":["Resistor","Capacitor","Inductor"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

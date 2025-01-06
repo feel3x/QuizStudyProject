@@ -1,0 +1,1 @@
+{"id":1182,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"What was the first company to use the term &quot;Golden Master&quot;?","correct_answer":"Apple","incorrect_answers":["IBM","Microsoft","Google"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

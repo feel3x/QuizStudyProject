@@ -1,0 +1,1 @@
+{"id":15,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Which of the following blood component forms a plug at the site of injuries?","correct_answer":"Platelets","incorrect_answers":["Red blood cells","White blood cells","Blood plasma"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

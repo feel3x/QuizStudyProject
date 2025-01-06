@@ -1,0 +1,1 @@
+{"id":1579,"type":"boolean","difficulty":"easy","category":"History","question":"Kublai Khan is the grandchild of Genghis Khan?","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

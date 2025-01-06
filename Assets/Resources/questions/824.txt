@@ -1,0 +1,1 @@
+{"id":824,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"What is the default name of the Vampire character in &quot;Shining Soul 2&quot;.","correct_answer":"Bloodstar","incorrect_answers":["Sachs","Dracuul","Alucard"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2122,"type":"boolean","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In Pok&eacute;mon, Ash&#039;s Pikachu refuses to go into a pokeball.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

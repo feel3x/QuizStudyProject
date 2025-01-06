@@ -1,0 +1,1 @@
+{"id":1065,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"In most programming languages, the operator ++ is equivalent to the statement &quot;+= 1&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

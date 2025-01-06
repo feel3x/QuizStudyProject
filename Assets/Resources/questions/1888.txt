@@ -1,0 +1,1 @@
+{"id":1888,"type":"multiple","difficulty":"easy","category":"Animals","question":"Which class of animals are newts members of?","correct_answer":"Amphibian","incorrect_answers":["Fish","Reptiles","Mammals"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

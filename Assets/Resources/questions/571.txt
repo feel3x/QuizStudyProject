@@ -1,0 +1,1 @@
+{"id":571,"type":"boolean","difficulty":"hard","category":"Entertainment: Musicals &amp; Theatres","question":"The protagonist&#039;s names in &#039;Who&#039;s Afraid of Virginia Woolf&#039;, George and Martha, were derived from George Washington and his wife.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

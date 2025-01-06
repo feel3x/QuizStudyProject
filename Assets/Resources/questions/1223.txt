@@ -1,0 +1,1 @@
+{"id":1223,"type":"boolean","difficulty":"medium","category":"Science: Mathematics","question":"The set of all algebraic numbers is countable.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

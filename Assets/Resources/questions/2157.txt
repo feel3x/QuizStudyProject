@@ -1,0 +1,1 @@
+{"id":2157,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"Satella in &quot;Re:Zero&quot; is the witch of what?","correct_answer":"Envy","incorrect_answers":["Pride","Sloth","Wrath"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

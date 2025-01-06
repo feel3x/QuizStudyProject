@@ -1,0 +1,1 @@
+{"id":2124,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"What is the age of Ash Ketchum in Pokemon when he starts his journey?","correct_answer":"10","incorrect_answers":["11","12","9"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

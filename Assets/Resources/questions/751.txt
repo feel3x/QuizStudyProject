@@ -1,0 +1,1 @@
+{"id":751,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"What was the release date of &quot;Grand Theft Auto IV&quot;?","correct_answer":"April 29, 2008","incorrect_answers":["May 21, 2009","June 22, 2010","July 28, 2008"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

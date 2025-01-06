@@ -1,0 +1,1 @@
+{"id":212,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"Which Russian author wrote the epic novel War and Peace?","correct_answer":"Leo Tolstoy","incorrect_answers":["Fyodor Dostoyevsky","Alexander Pushkin","Vladimir Nabokov"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

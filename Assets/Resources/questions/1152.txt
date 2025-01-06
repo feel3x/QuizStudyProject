@@ -1,0 +1,1 @@
+{"id":1152,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"How many bits make up the significand portion of a single precision floating point number?","correct_answer":"23","incorrect_answers":["8","53","15"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

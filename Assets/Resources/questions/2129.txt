@@ -1,0 +1,1 @@
+{"id":2129,"type":"boolean","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"The name of the attack &quot;Kamehameha&quot; in Dragon Ball Z was named after a famous king of Hawaii.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

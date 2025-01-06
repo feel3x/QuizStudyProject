@@ -1,0 +1,1 @@
+{"id":894,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"What is the most challenging monster in the Dungeons &amp; Dragons 5th Edition Monster Manual?","correct_answer":"Tarrasque","incorrect_answers":["Beholder","Displacer Beast","Lich"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

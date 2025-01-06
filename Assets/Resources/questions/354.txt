@@ -1,0 +1,1 @@
+{"id":354,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What did Alfred Hitchcock use as blood in the film &quot;Psycho&quot;? ","correct_answer":"Chocolate syrup","incorrect_answers":["Ketchup","Red food coloring","Maple syrup"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":943,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the atomic mass of Carbon?","correct_answer":"12","incorrect_answers":["14","16","10"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

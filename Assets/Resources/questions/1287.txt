@@ -1,0 +1,1 @@
+{"id":1287,"type":"multiple","difficulty":"medium","category":"Mythology","question":"The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?","correct_answer":"New Zealand","incorrect_answers":["Vanuatu","Fiji","Hawaii"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

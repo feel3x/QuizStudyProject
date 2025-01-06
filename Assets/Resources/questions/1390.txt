@@ -1,0 +1,1 @@
+{"id":1390,"type":"multiple","difficulty":"medium","category":"Sports","question":"What is the name of the AHL affiliate of the Toronto Maple Leafs?","correct_answer":"Toronto Marlies","incorrect_answers":["Toronto Rock","Toronto Argonauts","Toronto Wolfpack"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

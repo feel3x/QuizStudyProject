@@ -1,0 +1,1 @@
+{"id":328,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"What is the name of the dog that played Toto in the 1939 film &quot;The Wizard of Oz&quot;?","correct_answer":"Terry","incorrect_answers":["Tommy","Teddy","Toto"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

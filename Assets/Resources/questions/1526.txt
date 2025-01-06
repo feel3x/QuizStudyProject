@@ -1,0 +1,1 @@
+{"id":1526,"type":"boolean","difficulty":"medium","category":"Geography","question":"Seoul is the capital of North Korea.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

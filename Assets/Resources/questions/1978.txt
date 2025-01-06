@@ -1,0 +1,1 @@
+{"id":1978,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which of these cars is NOT considered one of the 5 Modern Supercars by Ferrari?","correct_answer":"Testarossa","incorrect_answers":["Enzo Ferrari","F40","288 GTO"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

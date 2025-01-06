@@ -1,0 +1,1 @@
+{"id":1354,"type":"multiple","difficulty":"easy","category":"Sports","question":"Who did Steven Gerrard win the Champions League with?","correct_answer":"Liverpool","incorrect_answers":["Real Madrid","Chelsea","Man City"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

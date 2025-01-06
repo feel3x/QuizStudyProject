@@ -1,0 +1,1 @@
+{"id":1829,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"What does film maker Dan Bell typically focus his films on?","correct_answer":"Abandoned Buildings and Dead Malls","incorrect_answers":["Historic Landmarks","Action Films","Documentaries "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

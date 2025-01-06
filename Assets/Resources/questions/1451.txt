@@ -1,0 +1,1 @@
+{"id":1451,"type":"boolean","difficulty":"easy","category":"Geography","question":"Greenland is almost as big as Africa.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

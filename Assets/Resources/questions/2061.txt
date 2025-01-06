@@ -1,0 +1,1 @@
+{"id":2061,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Which Batman sidekick is the son of Talia al Ghul?","correct_answer":"Damian Wayne","incorrect_answers":["Dick Grayson","Tim Drake","Jason Todd"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

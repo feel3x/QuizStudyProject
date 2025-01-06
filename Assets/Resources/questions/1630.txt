@@ -1,0 +1,1 @@
+{"id":1630,"type":"boolean","difficulty":"medium","category":"History","question":"&quot;I disapprove of what you say, but I will defend to the death your right to say it&quot; is a quote from French philosopher Voltaire.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

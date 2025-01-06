@@ -1,0 +1,1 @@
+{"id":1828,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?","correct_answer":"Sundance","incorrect_answers":["Woodward","Turner","Booker"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":972,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"When was the first mammal successfully cloned?","correct_answer":"1996","incorrect_answers":["2009","1999","1985"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

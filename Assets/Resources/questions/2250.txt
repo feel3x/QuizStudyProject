@@ -1,0 +1,1 @@
+{"id":2250,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Medaka Kurokami from &quot;Medaka Box&quot; has what abnormality?","correct_answer":"The End","incorrect_answers":["Perfection","Sandbox","Fairness"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

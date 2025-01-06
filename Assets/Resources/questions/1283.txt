@@ -1,0 +1,1 @@
+{"id":1283,"type":"multiple","difficulty":"medium","category":"Mythology","question":"Hel was the daughter of which Norse Mythological figure?","correct_answer":"Loki","incorrect_answers":["Thor","Odin","Balder"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

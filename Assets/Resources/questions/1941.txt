@@ -1,0 +1,1 @@
+{"id":1941,"type":"multiple","difficulty":"hard","category":"Animals","question":"Which species is a &quot;mountain chicken&quot;?","correct_answer":"Frog","incorrect_answers":["Chicken","Horse","Fly"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

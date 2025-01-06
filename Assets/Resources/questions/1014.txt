@@ -1,0 +1,1 @@
+{"id":1014,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which moon is the only satellite in our solar system to possess a dense atmosphere?","correct_answer":"Titan","incorrect_answers":["Europa","Miranda","Callisto"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

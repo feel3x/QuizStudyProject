@@ -1,0 +1,1 @@
+{"id":391,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What is the species of the &quot;Predator&quot; in the 1987 movie &quot;Predator&quot;?","correct_answer":"Yautja","incorrect_answers":["Xenomorph","Praetorian","Phocrex"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

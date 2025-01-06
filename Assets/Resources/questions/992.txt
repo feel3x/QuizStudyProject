@@ -1,0 +1,1 @@
+{"id":992,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Which chemical element was originally known as Alabamine?","correct_answer":"Astatine","incorrect_answers":["Selenium","Antimony","Molybdenum"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

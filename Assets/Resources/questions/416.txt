@@ -1,0 +1,1 @@
+{"id":416,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?","correct_answer":"Aqua","incorrect_answers":["Vengaboys","Eiffel 65","Sash!"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

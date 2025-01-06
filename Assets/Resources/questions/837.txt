@@ -1,0 +1,1 @@
+{"id":837,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"What is the main theme song of &quot;Sonic Adventure 2&quot;?","correct_answer":"Live and Learn","incorrect_answers":["Open Your Heart","Can You Feel the Sunshine?","His World"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

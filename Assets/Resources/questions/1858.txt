@@ -1,0 +1,1 @@
+{"id":1858,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"In 2014, this new top 100 rapper who featured in &quot;Computers&quot; and &quot;Body Dance&quot; was arrested in a NYPD sting for murder.","correct_answer":"Bobby Shmurda","incorrect_answers":["DJ Snake","Swae Lee","Young Thug"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

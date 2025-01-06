@@ -1,0 +1,1 @@
+{"id":649,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"Who was the star of the TV series &quot;24&quot;?","correct_answer":"Kiefer Sutherland","incorrect_answers":["Kevin Bacon","Hugh Laurie","Rob Lowe"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

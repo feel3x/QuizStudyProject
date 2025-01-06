@@ -1,0 +1,1 @@
+{"id":2215,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;Shakugan no Shana&quot; what was the Shana usually referred as?","correct_answer":"Flame-Haired Burning-Eyed Hunter","incorrect_answers":["Flame Haze","Flame-Haired Burning-Eyed Haze","Shana"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1006,"type":"boolean","difficulty":"medium","category":"Science &amp; Nature","question":"&quot;Tachycardia&quot; or &quot;Tachyarrhythmia&quot; refers to a resting heart-rate near or over 100 BPM.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

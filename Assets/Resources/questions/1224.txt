@@ -1,0 +1,1 @@
+{"id":1224,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"What is the first Mersenne prime exponent over 1000?","correct_answer":"1279","incorrect_answers":["2203","1009","1069"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

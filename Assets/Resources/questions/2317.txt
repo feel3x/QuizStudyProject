@@ -1,0 +1,1 @@
+{"id":2317,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"In &quot;The Amazing World of Gumball&quot;, who is the principal of Elmore Junior High?","correct_answer":"Principal Brown","incorrect_answers":["Principal Small","Principal Brawn","Principal Simeon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

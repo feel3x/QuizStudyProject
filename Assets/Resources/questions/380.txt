@@ -1,0 +1,1 @@
+{"id":380,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"In what Disney movie can you spot the character &quot;Pac-Man&quot; in if you look closely enough in some scenes?","correct_answer":"Tron","incorrect_answers":["Big Hero 6","Fantasia","Monsters, Inc."],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

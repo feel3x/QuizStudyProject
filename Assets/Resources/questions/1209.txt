@@ -1,0 +1,1 @@
+{"id":1209,"type":"boolean","difficulty":"easy","category":"Science: Mathematics","question":"An equilateral triangle always has every angle measuring 60&deg;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

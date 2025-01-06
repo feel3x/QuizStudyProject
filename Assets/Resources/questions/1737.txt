@@ -1,0 +1,1 @@
+{"id":1737,"type":"boolean","difficulty":"easy","category":"Politics","question":"Donald Trump won the popular vote in the 2016 United States presidential election.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

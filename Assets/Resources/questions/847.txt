@@ -1,0 +1,1 @@
+{"id":847,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"&quot;Strangereal&quot; is a fictitious Earth-like world for which game series?","correct_answer":"Ace Combat","incorrect_answers":["Jet Set Radio","Deus Ex","Crimson Skies"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":826,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In the original &quot;Super Mario Bros.&quot;, what is the acceleration of Mario if he was in free fall?","correct_answer":"91.28 m/s^2","incorrect_answers":["110  m/s^2","9.42  m/s^2","4.4  m/s^2"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

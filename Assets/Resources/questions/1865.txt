@@ -1,0 +1,1 @@
+{"id":1865,"type":"multiple","difficulty":"hard","category":"Celebrities","question":"Billy Herrington is from which US state?","correct_answer":"New York","incorrect_answers":["Arizona","California","Georgia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

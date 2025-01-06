@@ -1,0 +1,1 @@
+{"id":1896,"type":"boolean","difficulty":"easy","category":"Animals","question":"The Killer Whale is considered a type of dolphin.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

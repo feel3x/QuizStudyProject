@@ -1,0 +1,1 @@
+{"id":1298,"type":"multiple","difficulty":"hard","category":"Mythology","question":"What immense structure is referred to in Norse Mythology as the Yggdrasil.","correct_answer":"Tree","incorrect_answers":["Mountain","Temple","Castle"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

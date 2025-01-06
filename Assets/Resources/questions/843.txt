@@ -1,0 +1,1 @@
+{"id":843,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"&quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?","correct_answer":"FME-7","incorrect_answers":["VRC7","VRC6","MMC5"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1356,"type":"multiple","difficulty":"easy","category":"Sports","question":"What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?","correct_answer":"7 - 1","incorrect_answers":["0 - 1","3 - 4","16 - 0"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

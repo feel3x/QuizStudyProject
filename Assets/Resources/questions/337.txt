@@ -1,0 +1,1 @@
+{"id":337,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"What does TIE stand for in reference to the TIE Fighter in &quot;Star Wars&quot;?","correct_answer":"Twin Ion Engine","incorrect_answers":["Twin Iron Engine","Twin Intercepter Engine","Twin Inception Engine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1611,"type":"boolean","difficulty":"easy","category":"History","question":"The Spitfire originated from a racing plane.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":135,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?","correct_answer":"Bulldog","incorrect_answers":["Yorkshire Terrier","Boxer","Pug"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1586,"type":"multiple","difficulty":"easy","category":"History","question":"The collapse of the Soviet Union took place in which year?","correct_answer":"1991","incorrect_answers":["1992","1891","1990"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

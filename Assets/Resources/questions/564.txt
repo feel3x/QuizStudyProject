@@ -1,0 +1,1 @@
+{"id":564,"type":"multiple","difficulty":"hard","category":"Entertainment: Musicals &amp; Theatres","question":"Who wrote the lyrics for Leonard Bernstein&#039;s 1957 Brodway musical West Side Story?","correct_answer":"Stephen Sondheim","incorrect_answers":["Himself","Oscar Hammerstein","Richard Rodgers"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

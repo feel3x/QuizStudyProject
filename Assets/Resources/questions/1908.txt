@@ -1,0 +1,1 @@
+{"id":1908,"type":"multiple","difficulty":"medium","category":"Animals","question":"What are rhino&#039;s horn made of?","correct_answer":"Keratin","incorrect_answers":["Bone","Ivory","Skin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

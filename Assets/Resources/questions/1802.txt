@@ -1,0 +1,1 @@
+{"id":1802,"type":"multiple","difficulty":"medium","category":"Art","question":"Which artist&rsquo;s studio was known as &#039;The Factory&#039;?","correct_answer":"Andy Warhol","incorrect_answers":["Roy Lichtenstein","David Hockney","Peter Blake"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

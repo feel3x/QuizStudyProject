@@ -1,0 +1,1 @@
+{"id":1077,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"Which computer hardware device provides an interface for all other connected devices to communicate?","correct_answer":"Motherboard","incorrect_answers":["Central Processing Unit","Hard Disk Drive","Random Access Memory"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

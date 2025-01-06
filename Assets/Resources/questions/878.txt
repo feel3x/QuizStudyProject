@@ -1,0 +1,1 @@
+{"id":878,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"In Chess, the Queen has the combined movement of which two pieces?","correct_answer":"Bishop and Rook","incorrect_answers":["Rook and King","Knight and Bishop","King and Knight"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

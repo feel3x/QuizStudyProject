@@ -1,0 +1,1 @@
+{"id":1998,"type":"boolean","difficulty":"medium","category":"Vehicles","question":"The majority of Subaru vehicles are made in China.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

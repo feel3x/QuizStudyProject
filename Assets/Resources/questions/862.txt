@@ -1,0 +1,1 @@
+{"id":862,"type":"boolean","difficulty":"easy","category":"Entertainment: Board Games","question":"The Angry Video Game Nerd&#039;s alter ego is &quot;Board James&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

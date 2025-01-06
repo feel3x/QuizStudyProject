@@ -1,0 +1,1 @@
+{"id":1371,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?","correct_answer":"Tunisia","incorrect_answers":["United States of America","Italy","Netherlands"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":788,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"How much does the &#039;AWP&#039; cost in Counter-Strike: Global Offensive?","correct_answer":"$4750","incorrect_answers":["$4500","$4650","$5000"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

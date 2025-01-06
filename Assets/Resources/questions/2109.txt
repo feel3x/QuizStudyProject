@@ -1,0 +1,1 @@
+{"id":2109,"type":"multiple","difficulty":"medium","category":"Science: Gadgets","question":"Which company designed the &quot;Betamax&quot; video cassette format?","correct_answer":"Sony","incorrect_answers":["Panasonic","LG","Fujitsu"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

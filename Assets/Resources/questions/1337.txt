@@ -1,0 +1,1 @@
+{"id":1337,"type":"multiple","difficulty":"easy","category":"Sports","question":"&quot;Stadium of Light&quot; is the home stadium for which soccer team?","correct_answer":"Sunderland FC","incorrect_answers":["Barcelona FC","Paris Saints-Germain","Manchester United"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

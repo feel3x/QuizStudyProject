@@ -1,0 +1,1 @@
+{"id":1899,"type":"multiple","difficulty":"easy","category":"Animals","question":"Hippocampus is the Latin name for which marine creature?","correct_answer":"Seahorse","incorrect_answers":["Dolphin","Whale","Octopus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1905,"type":"multiple","difficulty":"medium","category":"Animals","question":"Which animal was part of an Russian domestication experiment in 1959?","correct_answer":"Foxes","incorrect_answers":["Pigeons","Bears","Alligators"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1891,"type":"multiple","difficulty":"easy","category":"Animals","question":"What colour is the female blackbird?","correct_answer":"Brown","incorrect_answers":["Black","White","Yellow"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1825,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"By what name is Carlos Estevez better known? ","correct_answer":"Charlie Sheen","incorrect_answers":["Ricky Martin","Bruno Mars","Joaquin Phoenix"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

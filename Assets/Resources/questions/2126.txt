@@ -1,0 +1,1 @@
+{"id":2126,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"The two main characters of &quot;No Game No Life&quot;, Sora and Shiro, together go by what name?","correct_answer":"Blank","incorrect_answers":["Immanity","Disboard","Warbeasts"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

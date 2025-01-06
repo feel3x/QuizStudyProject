@@ -1,0 +1,1 @@
+{"id":2050,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In the comics, which Sonic character took command of the Dark Legion after Luger&#039;s assassination?","correct_answer":"Lien-Da","incorrect_answers":["Kragok","Dimitri","Remington"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

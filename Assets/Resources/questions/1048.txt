@@ -1,0 +1,1 @@
+{"id":1048,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which of the following are cells of the adaptive immune system?","correct_answer":"Cytotoxic T cells","incorrect_answers":["Dendritic cells","Natural killer cells","White blood cells"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

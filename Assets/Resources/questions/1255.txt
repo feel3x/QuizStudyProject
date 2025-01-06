@@ -1,0 +1,1 @@
+{"id":1255,"type":"multiple","difficulty":"easy","category":"Mythology","question":"Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?","correct_answer":"Jason","incorrect_answers":["Castor","Daedalus","Odysseus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

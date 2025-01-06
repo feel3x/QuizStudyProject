@@ -1,0 +1,1 @@
+{"id":2103,"type":"multiple","difficulty":"medium","category":"Science: Gadgets","question":"What is the most significant side venture the popular firearms company, Remington, has pursued?","correct_answer":"Typewriters","incorrect_answers":["Blenders","Ceiling Fans","Door Knobs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1570,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which of these cities has a 4&deg; East longitude. ","correct_answer":"Amsterdam","incorrect_answers":["Rio de Janero","Toronto","Hong Kong"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

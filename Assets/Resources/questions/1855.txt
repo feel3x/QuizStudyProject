@@ -1,0 +1,1 @@
+{"id":1855,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"What is the real name of &quot;moot&quot;, founder of the imageboard 4chan?","correct_answer":"Christopher Poole","incorrect_answers":["Mark Zuckerberg","Allison Harvard","Catie Wayne"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

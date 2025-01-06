@@ -1,0 +1,1 @@
+{"id":1120,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"What was the first commerically available computer processor?","correct_answer":"Intel 4004","incorrect_answers":["Intel 486SX","TMS 1000","AMD AM386"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

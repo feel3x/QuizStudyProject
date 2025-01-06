@@ -1,0 +1,1 @@
+{"id":1915,"type":"multiple","difficulty":"medium","category":"Animals","question":"A carnivorous animal eats flesh, what does a nucivorous animal eat?","correct_answer":"Nuts","incorrect_answers":["Nothing","Fruit","Seaweed"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

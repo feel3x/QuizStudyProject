@@ -1,0 +1,1 @@
+{"id":2175,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the anime, &quot;Super Sonico&quot;, what is Super Sonico&#039;s favorite food?","correct_answer":"Macroons","incorrect_answers":["Ice Cream","Pizza","Chips"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

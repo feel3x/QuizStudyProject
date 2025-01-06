@@ -1,0 +1,1 @@
+{"id":2174,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Who wrote and directed the animated movie &quot;Spirited Away&quot; (2001)?","correct_answer":"Hayao Miyazaki","incorrect_answers":["Isao Takahata","Mamoru Hosoda","Hidetaka Miyazaki"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

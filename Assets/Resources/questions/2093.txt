@@ -1,0 +1,1 @@
+{"id":2093,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"What does GPS stand for?","correct_answer":"Global Positioning System","incorrect_answers":["Global Personal System","General Positioning System","General Personal Satellite"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

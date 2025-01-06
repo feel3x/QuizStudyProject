@@ -1,0 +1,1 @@
+{"id":2108,"type":"multiple","difficulty":"medium","category":"Science: Gadgets","question":"What is the &quot;Mitsubishi Wakamaru&quot;?","correct_answer":"A robot","incorrect_answers":["A pickup truck","An motorcycle","A motorboat"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

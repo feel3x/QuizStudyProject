@@ -1,0 +1,1 @@
+{"id":2048,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In Black Hammer, what dimension does Colonel Weird travel through?","correct_answer":"Para-Zone","incorrect_answers":["Hyperspace","Mirror Universe","Phantom Zone"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

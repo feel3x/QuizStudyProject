@@ -1,0 +1,1 @@
+{"id":401,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Who is the frontman of the band 30 Seconds to Mars?","correct_answer":"Jared Leto","incorrect_answers":["Gerard Way","Matthew Bellamy","Mike Shinoda"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

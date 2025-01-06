@@ -1,0 +1,1 @@
+{"id":1673,"type":"multiple","difficulty":"medium","category":"History","question":"The minigun was designed in 1960 by which manufacturer.","correct_answer":"General Electric","incorrect_answers":["Colt Firearms","Heckler &amp; Koch","Sig Sauer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

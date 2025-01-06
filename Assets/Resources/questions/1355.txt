@@ -1,0 +1,1 @@
+{"id":1355,"type":"multiple","difficulty":"easy","category":"Sports","question":"Who won the 2017 Formula One World Drivers&#039; Championship?","correct_answer":"Lewis Hamilton","incorrect_answers":["Sebastian Vettel","Nico Rosberg","Max Verstappen"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

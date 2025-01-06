@@ -1,0 +1,1 @@
+{"id":1785,"type":"multiple","difficulty":"hard","category":"Politics","question":"Who is the only US president to serve two non-consecutive terms in office?","correct_answer":"Grover Cleveland","incorrect_answers":["James K. Polk","Franklin D. Roosevelt","Thomas Jefferson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1596,"type":"multiple","difficulty":"easy","category":"History","question":"What country joined the EU in 2013?","correct_answer":"Croatia","incorrect_answers":["Bulgaria","Slovenia","Turkey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

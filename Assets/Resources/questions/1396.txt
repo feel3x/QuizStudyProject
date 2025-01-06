@@ -1,0 +1,1 @@
+{"id":1396,"type":"boolean","difficulty":"medium","category":"Sports","question":"ATP tennis hosted several tournaments on carpet court before being replaced to reduce injuries.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

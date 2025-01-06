@@ -1,0 +1,1 @@
+{"id":560,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"What was George Bizet&#039;s last opera?","correct_answer":"Carmen","incorrect_answers":["Don Rodrigue","Gris&eacute;lidis","Les p&ecirc;cheurs de perles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

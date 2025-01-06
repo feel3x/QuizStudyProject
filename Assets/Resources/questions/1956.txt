@@ -1,0 +1,1 @@
+{"id":1956,"type":"boolean","difficulty":"easy","category":"Vehicles","question":"BMW M GmbH is a subsidiary of BMW AG that focuses on car performance.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

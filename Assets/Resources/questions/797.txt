@@ -1,0 +1,1 @@
+{"id":797,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In the game &quot;Terraria&quot;, which of these bosses are pre-hardmode bosses?","correct_answer":"Eye of Cthulhu","incorrect_answers":["Plantera","Skeletron Prime","The Destroyer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

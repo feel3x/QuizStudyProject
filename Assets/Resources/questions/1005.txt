@@ -1,0 +1,1 @@
+{"id":1005,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Where did the Great Storm of 1987 make landfall at, first?","correct_answer":"Cornwall","incorrect_answers":["Surrey","Wales","The Midlands"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

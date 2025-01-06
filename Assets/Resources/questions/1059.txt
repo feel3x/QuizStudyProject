@@ -1,0 +1,1 @@
+{"id":1059,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which constellation contains the center of the Milky Way?","correct_answer":"Sagittarius","incorrect_answers":["Scorpius","Ophiuchus","Capricornus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

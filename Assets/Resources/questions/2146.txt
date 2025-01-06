@@ -1,0 +1,1 @@
+{"id":2146,"type":"boolean","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In Kill La Kill, the weapon of the main protagonist is a katana. ","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

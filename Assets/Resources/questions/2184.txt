@@ -1,0 +1,1 @@
+{"id":2184,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"What is the name of the main character of the anime &quot;One-Punch Man&quot;?","correct_answer":"Saitama","incorrect_answers":["Genos","Sonic","King"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

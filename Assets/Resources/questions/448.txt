@@ -1,0 +1,1 @@
+{"id":448,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?","correct_answer":"Left Eye","incorrect_answers":["Right Ear","Right Middle Finger","Nose"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

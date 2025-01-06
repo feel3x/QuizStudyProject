@@ -1,0 +1,1 @@
+{"id":1345,"type":"multiple","difficulty":"easy","category":"Sports","question":"What is the most common type of pitch thrown by pitchers in baseball?","correct_answer":"Fastball","incorrect_answers":["Slowball","Screwball","Palmball"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

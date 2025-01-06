@@ -1,0 +1,1 @@
+{"id":673,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In Breaking Bad, the initials W.W. refer to which of the following?","correct_answer":"Walter White","incorrect_answers":["William Wolf","Willy Wonka","Wally Walrus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

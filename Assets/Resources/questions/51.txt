@@ -1,0 +1,1 @@
+{"id":51,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"The architect known as Le Corbusier was an important figure in what style of architecture?","correct_answer":"Modernism","incorrect_answers":["Neoclassical","Baroque","Gothic Revival"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

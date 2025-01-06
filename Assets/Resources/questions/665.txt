@@ -1,0 +1,1 @@
+{"id":665,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In &quot;The Simpsons&quot;, what is the real name of &quot;Comic Book Guy&quot;?","correct_answer":"Jeff Albertson","incorrect_answers":["Comic Book Guy","Edward Stone","Jack Richardson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2012,"type":"multiple","difficulty":"hard","category":"Vehicles","question":"Which of these is NOT a car model produced by Malaysian car manufacturer Proton?","correct_answer":"Kelisa","incorrect_answers":["Saga","Perdana","Inspira"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

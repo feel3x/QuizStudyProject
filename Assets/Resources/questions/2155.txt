@@ -1,0 +1,1 @@
+{"id":2155,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;Inuyasha&quot;, what are the heros are looking to collect?","correct_answer":"Jewel Shards","incorrect_answers":["Dragon Balls","Rave Stones","Sacred Stones"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

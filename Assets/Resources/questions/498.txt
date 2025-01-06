@@ -1,0 +1,1 @@
+{"id":498,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"On which Beatles album would you find the song &#039;Eleanor Rigby&#039;?","correct_answer":"Revolver","incorrect_answers":["Help!","Rubber Soul","Abbey Road"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

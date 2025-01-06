@@ -1,0 +1,1 @@
+{"id":859,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"The board game Monopoly takes its street names from which real American city?","correct_answer":"Atlantic City, New Jersey","incorrect_answers":["Las Vegas, Nevada","Duluth, Minnesota","Charleston, South Carolina"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

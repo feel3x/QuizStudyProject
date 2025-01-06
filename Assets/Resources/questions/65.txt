@@ -1,0 +1,1 @@
+{"id":65,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What year was Apple Inc. founded?","correct_answer":"1976","incorrect_answers":["1978","1980","1974"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

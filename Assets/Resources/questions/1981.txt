@@ -1,0 +1,1 @@
+{"id":1981,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which of the following car models has been badge-engineered (rebadged) the most?","correct_answer":"Isuzu Trooper","incorrect_answers":["Holden Monaro","Suzuki Swift","Chevy Camaro"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

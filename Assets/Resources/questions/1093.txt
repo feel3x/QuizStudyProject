@@ -1,0 +1,1 @@
+{"id":1093,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"Pointers were not used in the original C programming language; they were added later on in C++.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

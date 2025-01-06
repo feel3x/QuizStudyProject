@@ -1,0 +1,1 @@
+{"id":2089,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"When was the iPhone released?","correct_answer":"2007","incorrect_answers":["2005","2006","2004"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

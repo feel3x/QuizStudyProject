@@ -1,0 +1,1 @@
+{"id":1085,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"What is the code name for the mobile operating system Android 7.0?","correct_answer":"Nougat","incorrect_answers":["Ice Cream Sandwich","Jelly Bean","Marshmallow"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

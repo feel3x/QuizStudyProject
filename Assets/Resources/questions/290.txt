@@ -1,0 +1,1 @@
+{"id":290,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"The movie &quot;The Nightmare before Christmas&quot; was all done with physical objects.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1933,"type":"multiple","difficulty":"hard","category":"Animals","question":"What type of creature is a Bonobo?","correct_answer":"Ape","incorrect_answers":["Lion","Parrot","Wildcat"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

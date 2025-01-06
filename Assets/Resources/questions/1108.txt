@@ -1,0 +1,1 @@
+{"id":1108,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"The numbering system with a radix of 16 is more commonly referred to as ","correct_answer":"Hexidecimal","incorrect_answers":["Binary","Duodecimal","Octal"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

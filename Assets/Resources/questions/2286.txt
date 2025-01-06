@@ -1,0 +1,1 @@
+{"id":2286,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"In the show &quot;Foster&#039;s Home For Imaginary Friends&quot;, which character had an obsession with basketball?","correct_answer":"Wilt","incorrect_answers":["Coco","Mac","Cheese"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

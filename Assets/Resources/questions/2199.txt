@@ -1,0 +1,1 @@
+{"id":2199,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;A Certain Magical Index,&quot; what is Accelerator able to control?","correct_answer":"Vectors","incorrect_answers":["Velocity","Quantums","Wormholes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

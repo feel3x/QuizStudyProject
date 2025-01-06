@@ -1,0 +1,1 @@
+{"id":2233,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Winch of these names are not a character of JoJo&#039;s Bizarre Adventure?","correct_answer":"JoJo Kikasu","incorrect_answers":["Jean-Pierre Polnareff","George Joestar","Risotto Nero"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1688,"type":"boolean","difficulty":"hard","category":"History","question":"The USS Missouri (BB-63) last served in the Korean War.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

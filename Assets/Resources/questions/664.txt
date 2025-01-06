@@ -1,0 +1,1 @@
+{"id":664,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In the television show &quot;Lazy Town&quot;, who is the actor of Robbie Rotten?","correct_answer":"Stef&aacute;n Stef&aacute;nsson","incorrect_answers":["Adam Sandler","Magn&uacute;s Scheving","Stephen Carl"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

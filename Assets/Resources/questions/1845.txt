@@ -1,0 +1,1 @@
+{"id":1845,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"What is generally considered to be William Shakespeare&#039;s birth date?","correct_answer":"April 23rd, 1564","incorrect_answers":["July 4th, 1409","September 29th, 1699","December 1st, 1750"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

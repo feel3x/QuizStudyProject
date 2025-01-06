@@ -1,0 +1,1 @@
+{"id":1542,"type":"multiple","difficulty":"hard","category":"Geography","question":"What is the most common climbing route for the second highest mountain in the world, K2?","correct_answer":"Abruzzi Spur","incorrect_answers":["Magic Line","Cesen Route","Polish Line"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

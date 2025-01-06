@@ -1,0 +1,1 @@
+{"id":2244,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Akatsuki&#039;s subclass in &quot;Log Horizon&quot; is what?","correct_answer":" Tracker","incorrect_answers":["Assassin","Scribe","Apprentice"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":764,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which of these is not the name of a city in the Grand Theft Auto series?","correct_answer":"San Andreas","incorrect_answers":["San Fierro","Las Venturas","Vice City"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":735,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"When was Minecraft first released to the public?","correct_answer":"May 17th, 2009","incorrect_answers":["September 17th, 2009","November 18th, 2011","October 7th, 2011"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

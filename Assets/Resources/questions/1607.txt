@@ -1,0 +1,1 @@
+{"id":1607,"type":"multiple","difficulty":"easy","category":"History","question":"Which famous military commander marched an army, which included war elephants, over the Alps during the Second Punic War?","correct_answer":"Hannibal","incorrect_answers":["Garmanicus","Alexander the Great","Tiberius"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

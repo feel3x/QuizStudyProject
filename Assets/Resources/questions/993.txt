@@ -1,0 +1,1 @@
+{"id":993,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"The medical condition osteoporosis affects which part of the body?","correct_answer":"Bones","incorrect_answers":["Skin","Brain","Heart"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

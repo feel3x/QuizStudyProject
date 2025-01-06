@@ -1,0 +1,1 @@
+{"id":2336,"type":"multiple","difficulty":"hard","category":"Entertainment: Cartoon &amp; Animations","question":"In &quot;Gravity Falls&quot;, the character Bill Cipher remarks that &quot;the universe is what?&quot;","correct_answer":"A hologram ","incorrect_answers":["An illusion ","A simulation","Corrupting"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

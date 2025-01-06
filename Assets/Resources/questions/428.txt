@@ -1,0 +1,1 @@
+{"id":428,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"What was the name of singer Frank Ocean&#039;s second studio album, which was released on August 20, 2016?","correct_answer":"Blonde","incorrect_answers":["Brunette","Black","Burgundy"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

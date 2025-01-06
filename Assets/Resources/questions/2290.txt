@@ -1,0 +1,1 @@
+{"id":2290,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"What is Everest&#039;s favorite food in the Nickelodeon/Nick Jr. series &quot;PAW Patrol&quot;?","correct_answer":"Liver","incorrect_answers":["Chicken","Steak","Caribou"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

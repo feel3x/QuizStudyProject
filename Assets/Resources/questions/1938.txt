@@ -1,0 +1,1 @@
+{"id":1938,"type":"multiple","difficulty":"hard","category":"Animals","question":"What is the scientific name of the cheetah?","correct_answer":"Acinonyx jubatus","incorrect_answers":["Panthera onca","Lynx rufus","Felis catus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

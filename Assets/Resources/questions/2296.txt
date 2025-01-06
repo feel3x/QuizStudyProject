@@ -1,0 +1,1 @@
+{"id":2296,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"What is Dipper&#039;s real name from &quot;Gravity Falls&quot;?","correct_answer":"Mason Pines","incorrect_answers":["Mable Pines","Jason Pines","Mark Pines"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

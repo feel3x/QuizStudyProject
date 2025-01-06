@@ -1,0 +1,1 @@
+{"id":2328,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Which Hanna-Barbera cartoon character travelled with a canine companion named Beegle Beagle?","correct_answer":"Grape Ape","incorrect_answers":["Boss Gator","Wally Gator","Yogi Bear"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

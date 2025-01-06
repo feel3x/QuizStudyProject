@@ -1,0 +1,1 @@
+{"id":1432,"type":"boolean","difficulty":"easy","category":"Geography","question":"A group of islands is called an &#039;archipelago&#039;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1520,"type":"multiple","difficulty":"medium","category":"Geography","question":"Which of the following countries does NOT recognize Armenia as an independent country?","correct_answer":"Pakistan","incorrect_answers":["Iran","Turkey","Azerbaijan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

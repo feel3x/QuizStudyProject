@@ -1,0 +1,1 @@
+{"id":1384,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which nation hosted the FIFA World Cup in 2006?","correct_answer":"Germany","incorrect_answers":["United Kingdom","Brazil","South Africa"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

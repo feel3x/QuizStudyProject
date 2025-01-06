@@ -1,0 +1,1 @@
+{"id":173,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"Which famous book is sub-titled &#039;The Modern Prometheus&#039;?","correct_answer":"Frankenstein","incorrect_answers":["Dracula","The Strange Case of Dr. Jekyll and Mr. Hyde ","The Legend of Sleepy Hollow"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

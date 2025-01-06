@@ -1,0 +1,1 @@
+{"id":143,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"In &quot;Battle Cats&quot;, what is Moneko / MISS Moneko&#039;s critical percentage rate?","correct_answer":"15%","incorrect_answers":["20%","10%","25%"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

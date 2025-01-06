@@ -1,0 +1,1 @@
+{"id":1787,"type":"multiple","difficulty":"easy","category":"Art","question":"Who sculpted the statue of David?","correct_answer":"Michelangelo","incorrect_answers":["Gian Lorenzo Bernini","Auguste Rodin","Donatello"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

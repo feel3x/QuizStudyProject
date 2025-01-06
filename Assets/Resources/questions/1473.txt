@@ -1,0 +1,1 @@
+{"id":1473,"type":"multiple","difficulty":"easy","category":"Geography","question":"The body of the Egyptian Sphinx was based on which animal?","correct_answer":"Lion","incorrect_answers":["Bull","Horse","Dog"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

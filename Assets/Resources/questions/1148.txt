@@ -1,0 +1,1 @@
+{"id":1148,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"In the server hosting industry IaaS stands for...","correct_answer":"Infrastructure as a Service","incorrect_answers":["Internet as a Service","Internet and a Server","Infrastructure as a Server"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2026,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"What&#039;s the race of Invincible&#039;s father?","correct_answer":"Viltrumite","incorrect_answers":["Kryptonian","Kree","Irken"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":232,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"Which of these does Charlie NOT read in The Perks of Being a Wallflower?","correct_answer":"The Grapes of Wrath","incorrect_answers":["Hamlet","The Great Gatsby","Peter Pan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

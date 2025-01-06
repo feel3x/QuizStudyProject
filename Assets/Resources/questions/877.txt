@@ -1,0 +1,1 @@
+{"id":877,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"Europa Universalis is a strategy video game based on which French board game?","correct_answer":"Europa Universalis","incorrect_answers":["Europe and the Universe","Europa!","Power in Europe"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

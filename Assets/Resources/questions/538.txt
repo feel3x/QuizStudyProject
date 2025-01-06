@@ -1,0 +1,1 @@
+{"id":538,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Where was Nicki Minaj born?","correct_answer":"Trinidad and Tobago","incorrect_answers":["Haiti","Saint Lucia","Grenada"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

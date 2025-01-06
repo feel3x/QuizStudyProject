@@ -1,0 +1,1 @@
+{"id":217,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"The book &quot;The Little Prince&quot; was written by...","correct_answer":"Antoine de Saint-Exup&eacute;ry","incorrect_answers":["Miguel de Cervantes Saavedra","Jane Austen","F. Scott Fitzgerald"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

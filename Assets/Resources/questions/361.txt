@@ -1,0 +1,1 @@
+{"id":361,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"According to &quot;Star Wars&quot; lore, which planet does Obi-Wan Kenobi come from?","correct_answer":"Stewjon","incorrect_answers":["Alderaan","Tatooine","Naboo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":152,"type":"boolean","difficulty":"easy","category":"Entertainment: Books","question":"The Harry Potter series of books, combined, are over 1,000,000 words in length.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

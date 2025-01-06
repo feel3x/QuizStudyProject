@@ -1,0 +1,1 @@
+{"id":1323,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which team won 2014 FIFA World Cup in Brazil?","correct_answer":"Germany","incorrect_answers":["Argentina","Brazil","Netherlands"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":977,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Which of these is a type of stretch/deep tendon reflex?","correct_answer":"Ankle jerk reflex","incorrect_answers":["Gag reflex","Pupillary light reflex","Scratch reflex"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

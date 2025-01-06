@@ -1,0 +1,1 @@
+{"id":936,"type":"boolean","difficulty":"easy","category":"Science &amp; Nature","question":"An atom contains a nucleus.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

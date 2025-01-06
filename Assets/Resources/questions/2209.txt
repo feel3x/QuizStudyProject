@@ -1,0 +1,1 @@
+{"id":2209,"type":"boolean","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;To Love-Ru: Darkness&quot;, Yami reveals her real name is Eve.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

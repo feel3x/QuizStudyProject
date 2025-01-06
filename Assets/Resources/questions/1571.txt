@@ -1,0 +1,1 @@
+{"id":1571,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which country was NOT formerly part of Yugoslavia?","correct_answer":"Albania","incorrect_answers":["Croatia","Serbia","Macedonia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

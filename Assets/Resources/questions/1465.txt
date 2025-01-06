@@ -1,0 +1,1 @@
+{"id":1465,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the capital of Denmark?","correct_answer":"Copenhagen","incorrect_answers":["Aarhus","Odense","Aalborg"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

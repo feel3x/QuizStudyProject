@@ -1,0 +1,1 @@
+{"id":2058,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In Marvel Comics, Taurus is the founder and leader of which criminal organization?","correct_answer":"Zodiac","incorrect_answers":["Scorpio","Tiger Mafia","The Union"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

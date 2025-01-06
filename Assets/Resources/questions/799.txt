@@ -1,0 +1,1 @@
+{"id":799,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Who is the protagonist of the videogame &quot;Dead Rising 2&quot;?","correct_answer":"Chuck Greene","incorrect_answers":["Nick Ramos","Frank West","Katie Greene"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

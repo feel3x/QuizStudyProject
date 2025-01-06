@@ -1,0 +1,1 @@
+{"id":2189,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"What was the reason for the banning of episode 35 of the &quot;Pok&eacute;mon Original Series&quot; Anime?","correct_answer":"Gun Usage","incorrect_answers":["Flashing Images","Jynx","Strong Violence"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":38,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"On a dartboard, what number is directly opposite No. 1?","correct_answer":"19","incorrect_answers":["20","12","15"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

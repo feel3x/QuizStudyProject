@@ -1,0 +1,1 @@
+{"id":1715,"type":"multiple","difficulty":"hard","category":"History","question":"The pantheon in Rome was used to worship what god?","correct_answer":"Any god they wanted","incorrect_answers":["Athena","Zeus","Both Athena and Zeus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

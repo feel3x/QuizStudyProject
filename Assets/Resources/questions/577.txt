@@ -1,0 +1,1 @@
+{"id":577,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"On the show &quot;Rick and Morty&quot;, in episode &quot;Total Rickall&quot;, who was a parasite?","correct_answer":"Pencilvester","incorrect_answers":["Beth Smith","Summer Smith","Mr. Poopy Butthole"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

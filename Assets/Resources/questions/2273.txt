@@ -1,0 +1,1 @@
+{"id":2273,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"In the show &quot;Steven Universe&quot;, who are the main two employees of The Big Donut?","correct_answer":"Sadie and Lars","incorrect_answers":["Steven and James","Erik and Julie","Bob and May"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

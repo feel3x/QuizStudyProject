@@ -1,0 +1,1 @@
+{"id":1092,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"What does LTS stand for in the software market?","correct_answer":"Long Term Support","incorrect_answers":["Long Taco Service","Ludicrous Transfer Speed","Ludicrous Turbo Speed"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

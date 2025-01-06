@@ -1,0 +1,1 @@
+{"id":1393,"type":"multiple","difficulty":"medium","category":"Sports","question":"What is the nickname of Northampton town&#039;s rugby union club?","correct_answer":"Saints","incorrect_answers":["Harlequins","Saracens","Wasps"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

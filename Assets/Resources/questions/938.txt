@@ -1,0 +1,1 @@
+{"id":938,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the hottest planet in the Solar System?","correct_answer":"Venus","incorrect_answers":["Mars","Mercury","Jupiter"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

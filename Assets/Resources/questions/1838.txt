@@ -1,0 +1,1 @@
+{"id":1838,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Who out of these actresses is the youngest?","correct_answer":"Kiernan Shipka","incorrect_answers":["Ariel Winter","Emma Watson","Bonnie Wright"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

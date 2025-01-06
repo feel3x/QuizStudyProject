@@ -1,0 +1,1 @@
+{"id":2083,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"What year was the first San Diego Comic-Con?","correct_answer":"1970","incorrect_answers":["2000","1990","1985"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

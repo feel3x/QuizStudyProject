@@ -1,0 +1,1 @@
+{"id":1297,"type":"multiple","difficulty":"hard","category":"Mythology","question":"Which Norse God has a horse named Sleipnir?","correct_answer":"Odin","incorrect_answers":["Thor","Frigg","Balder"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

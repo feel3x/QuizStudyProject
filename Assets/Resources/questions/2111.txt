@@ -1,0 +1,1 @@
+{"id":2111,"type":"multiple","difficulty":"hard","category":"Science: Gadgets","question":"Who built the first laser?","correct_answer":"Theodore Harold Maiman","incorrect_answers":["Nikola Tesla","Jack Kilby","Edith Clarke"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

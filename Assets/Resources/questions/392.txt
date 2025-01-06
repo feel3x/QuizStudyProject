@@ -1,0 +1,1 @@
+{"id":392,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Who was &quot;Kung Fu Fighting&quot; in 1974?","correct_answer":"Carl Douglas","incorrect_answers":["The Bee Gees","Heatwave","Kool &amp; the Gang"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2022,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"Which one of these superhero teams appears in the Invincible comics?","correct_answer":"Guardians of the Globe","incorrect_answers":["Avengers","Justice League","Teenage Mutant Ninja Turtles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

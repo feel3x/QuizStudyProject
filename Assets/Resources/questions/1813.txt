@@ -1,0 +1,1 @@
+{"id":1813,"type":"multiple","difficulty":"hard","category":"Art","question":"Painter Piet Mondrian (1872 - 1944) was a part of what movement?","correct_answer":"Neoplasticism","incorrect_answers":["Precisionism","Cubism","Impressionism"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

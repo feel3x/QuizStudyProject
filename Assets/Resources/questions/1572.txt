@@ -1,0 +1,1 @@
+{"id":1572,"type":"multiple","difficulty":"hard","category":"Geography","question":"The Hunua Ranges is located in...","correct_answer":"New Zealand","incorrect_answers":["Nepal","China","Mexico"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

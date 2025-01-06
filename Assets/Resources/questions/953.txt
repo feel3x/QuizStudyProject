@@ -1,0 +1,1 @@
+{"id":953,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What lies at the center of our galaxy?","correct_answer":"A black hole","incorrect_answers":["A wormhole","A supernova","A quasar"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

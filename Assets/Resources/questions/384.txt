@@ -1,0 +1,1 @@
+{"id":384,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"Which singer is portrayed by Bruce Campbell in the 2002 film &#039;Bubba Ho-Tep&#039;?","correct_answer":"Elvis Presley","incorrect_answers":["Johnny Cash","Hank Williams, Sr.","Buddy Holly"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

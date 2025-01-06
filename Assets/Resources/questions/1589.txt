@@ -1,0 +1,1 @@
+{"id":1589,"type":"multiple","difficulty":"easy","category":"History","question":"Which modern day country is the region that was known as Phrygia in ancient times?","correct_answer":"Turkey","incorrect_answers":["Syria","Greece","Egypt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

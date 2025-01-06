@@ -1,0 +1,1 @@
+{"id":2043,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Who created Ultron of Earth-616?","correct_answer":"Henry Pym","incorrect_answers":["Amadeus Cho","Tony Stark","Reed Richards"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

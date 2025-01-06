@@ -1,0 +1,1 @@
+{"id":1481,"type":"boolean","difficulty":"medium","category":"Geography","question":"Gothenburg is the capital of Sweden.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

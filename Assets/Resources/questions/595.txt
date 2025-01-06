@@ -1,0 +1,1 @@
+{"id":595,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"What TV show is about a grandfather dragging his grandson around on adventures?","correct_answer":"Rick &amp; Morty","incorrect_answers":["Family Guy","South Park","American Dad"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

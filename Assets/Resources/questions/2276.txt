@@ -1,0 +1,1 @@
+{"id":2276,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Which of the following is not a Flintstones character?","correct_answer":"Lord Rockingham IX","incorrect_answers":["Rockhead Slate","The Great Gazoo","Barney Rubble"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

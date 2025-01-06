@@ -1,0 +1,1 @@
+{"id":1414,"type":"multiple","difficulty":"hard","category":"Sports","question":"How many times did Martina Navratilova win the Wimbledon Singles Championship?","correct_answer":"Nine","incorrect_answers":["Ten","Seven","Eight"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

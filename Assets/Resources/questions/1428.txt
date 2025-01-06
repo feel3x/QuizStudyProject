@@ -1,0 +1,1 @@
+{"id":1428,"type":"multiple","difficulty":"easy","category":"Geography","question":"Greenland is a part of which kingdom?","correct_answer":"Denmark","incorrect_answers":["Sweden","Norway","United Kingdom"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

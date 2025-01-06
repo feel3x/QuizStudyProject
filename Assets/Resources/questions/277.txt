@@ -1,0 +1,1 @@
+{"id":277,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Which of these Movies was NOT released in 1996?","correct_answer":"Gladiator","incorrect_answers":["Independence Day","The Rock","Mission: Impossible"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":598,"type":"boolean","difficulty":"easy","category":"Entertainment: Television","question":"Klingons express emotion in art through opera and poetry.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

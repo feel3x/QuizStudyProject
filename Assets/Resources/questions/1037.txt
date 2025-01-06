@@ -1,0 +1,1 @@
+{"id":1037,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which one of these is scientific term for &quot;Brain Freeze&quot;?","correct_answer":"Sphenopalatine Ganglioneuralgia","incorrect_answers":["Hyacinthoides Italica","Amaranthus Retroflexus","Amblyomma Americanum"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

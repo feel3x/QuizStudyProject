@@ -1,0 +1,1 @@
+{"id":1505,"type":"multiple","difficulty":"medium","category":"Geography","question":"What tiny principality lies between Spain and France?","correct_answer":"Andorra","incorrect_answers":["Liechtenstein","Monaco","San Marino"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

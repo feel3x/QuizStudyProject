@@ -1,0 +1,1 @@
+{"id":1576,"type":"multiple","difficulty":"hard","category":"Geography","question":"What is the second-largest city in Lithuania?","correct_answer":"Kaunas","incorrect_answers":["Panevėžys","Vilnius","Klaipėda"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

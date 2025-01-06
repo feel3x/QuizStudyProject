@@ -1,0 +1,1 @@
+{"id":2302,"type":"boolean","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Snagglepuss was part of the Yogi Yahooies in the 1977 show Scooby&#039;s All-Star Laff-a-Lympics.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

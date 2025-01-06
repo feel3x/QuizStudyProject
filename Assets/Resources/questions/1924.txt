@@ -1,0 +1,1 @@
+{"id":1924,"type":"multiple","difficulty":"medium","category":"Animals","question":"What is the scientific name for the &quot;Polar Bear&quot;?","correct_answer":"Ursus Maritimus","incorrect_answers":["Polar Bear","Ursus Spelaeus","Ursus Arctos"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

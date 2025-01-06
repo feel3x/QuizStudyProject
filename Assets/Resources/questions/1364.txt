@@ -1,0 +1,1 @@
+{"id":1364,"type":"multiple","difficulty":"medium","category":"Sports","question":"What cricketing term denotes a batsman being dismissed with a score of zero?","correct_answer":"Duck","incorrect_answers":["Bye","Beamer","Carry"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

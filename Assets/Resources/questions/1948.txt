@@ -1,0 +1,1 @@
+{"id":1948,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"Which of the following collision avoidance systems helps airplanes avoid colliding with each other?","correct_answer":"TCAS","incorrect_answers":["GPWS","OCAS","TAWS"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

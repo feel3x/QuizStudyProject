@@ -1,0 +1,1 @@
+{"id":690,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"Who was the winner of &quot;Big Brother&quot; Season 10?","correct_answer":"Dan Gheesling","incorrect_answers":["Bryce Kranyik","Ryan Sutfin","Chris Mundorf"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

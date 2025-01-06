@@ -1,0 +1,1 @@
+{"id":329,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"This movie contains the quote, &quot;What we&#039;ve got here is a failure to communicate.&quot;","correct_answer":"Cool Hand Luke","incorrect_answers":["Bonnie and Clyde","The Graduate","In the Heat of the Night"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

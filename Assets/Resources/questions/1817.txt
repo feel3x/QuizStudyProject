@@ -1,0 +1,1 @@
+{"id":1817,"type":"multiple","difficulty":"hard","category":"Art","question":"How many paint and pastel versions of &quot;The Scream&quot; is Norwegian painter Edvard Munch believed to have produced?","correct_answer":"4","incorrect_answers":["1","3","2"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

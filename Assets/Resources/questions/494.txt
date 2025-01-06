@@ -1,0 +1,1 @@
+{"id":494,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"When did the rapper Eazy-E die?","correct_answer":"March 26, 1995","incorrect_answers":["July 11, 1992","February 14, 1993","October 21, 1994"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

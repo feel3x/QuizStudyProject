@@ -1,0 +1,1 @@
+{"id":1460,"type":"multiple","difficulty":"easy","category":"Geography","question":"Where would you find the &quot;Spanish Steps&quot;?","correct_answer":"Rome, Italy","incorrect_answers":["Barcelona, Spain","Berlin, Germany","London, England"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

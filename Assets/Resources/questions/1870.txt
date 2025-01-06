@@ -1,0 +1,1 @@
+{"id":1870,"type":"boolean","difficulty":"hard","category":"Celebrities","question":"Lady Gaga&#039;s real name is Stefani Joanne Angelina Germanotta.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

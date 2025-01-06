@@ -1,0 +1,1 @@
+{"id":1554,"type":"multiple","difficulty":"hard","category":"Geography","question":"What is the capital city of Bermuda?","correct_answer":"Hamilton","incorrect_answers":["Santo Dominigo","San Juan","Havana"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1362,"type":"multiple","difficulty":"medium","category":"Sports","question":"What is the exact length of one non-curved part in Lane 1 of an Olympic Track?","correct_answer":"84.39m","incorrect_answers":["100m","100yd","109.36yd"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

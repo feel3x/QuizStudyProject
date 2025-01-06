@@ -1,0 +1,1 @@
+{"id":1704,"type":"multiple","difficulty":"hard","category":"History","question":"Which of the following Physicists aided Nazi Germany in their production of a nuclear weapon?","correct_answer":"Werner Heisenberg","incorrect_answers":["John von Neumann","Albert Einstein","Max Planck"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

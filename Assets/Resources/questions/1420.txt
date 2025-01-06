@@ -1,0 +1,1 @@
+{"id":1420,"type":"multiple","difficulty":"hard","category":"Sports","question":"What is &ldquo;The Sport of Kings&rdquo;?","correct_answer":"Horse Racing","incorrect_answers":["Chess","Jousting","Fencing"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

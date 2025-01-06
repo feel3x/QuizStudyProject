@@ -1,0 +1,1 @@
+{"id":258,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Which of the following is not the name of a &quot;Bond Girl&quot;? ","correct_answer":"Vanessa Kensington","incorrect_answers":["Pam Bouvier","Mary Goodnight","Wai Lin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

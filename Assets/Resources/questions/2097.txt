@@ -1,0 +1,1 @@
+{"id":2097,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"Which gaming console is developed by Sony?","correct_answer":"PlayStation","incorrect_answers":["Xbox","Atari","Nintendo Switch"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

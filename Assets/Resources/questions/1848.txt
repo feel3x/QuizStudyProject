@@ -1,0 +1,1 @@
+{"id":1848,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"What is Doug Walker&#039;s YouTube name?","correct_answer":"The Nostalgia Critic","incorrect_answers":["The Angry Video Game Nerd","AngryJoeShow","The Cinema Snob"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

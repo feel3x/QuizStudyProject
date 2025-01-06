@@ -1,0 +1,1 @@
+{"id":22,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What airline was the owner of the plane that crashed off the coast of Nova Scotia in 1998?","correct_answer":"Swiss Air","incorrect_answers":["Air France","British Airways","TWA"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

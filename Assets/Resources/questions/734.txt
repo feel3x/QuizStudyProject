@@ -1,0 +1,1 @@
+{"id":734,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Who is the last boss in Night In The Woods&#039; Demontower minigame?","correct_answer":"The Blood Thief","incorrect_answers":["Mega Hairball ","King Skellie ","Krampus "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

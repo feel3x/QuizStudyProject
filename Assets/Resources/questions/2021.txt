@@ -1,0 +1,1 @@
+{"id":2021,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"In &quot;Homestuck&quot; what is Dave Strider&#039;s guardian?","correct_answer":"Bro","incorrect_answers":["Becquerel","Doc Scratch","Halley"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

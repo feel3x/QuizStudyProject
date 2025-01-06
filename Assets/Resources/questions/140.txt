@@ -1,0 +1,1 @@
+{"id":140,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"What was Bank of America originally established as?","correct_answer":"Bank of Italy","incorrect_answers":["Bank of Long Island","Bank of Pennsylvania","Bank of Charlotte"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

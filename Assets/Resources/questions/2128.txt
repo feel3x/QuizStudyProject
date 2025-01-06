@@ -1,0 +1,1 @@
+{"id":2128,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;Future Diary&quot;, what is the name of Yuno Gasai&#039;s Phone Diary?","correct_answer":"Yukiteru Diary","incorrect_answers":["Murder Diary","Escape Diary ","Justice Diary "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

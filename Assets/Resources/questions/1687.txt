@@ -1,0 +1,1 @@
+{"id":1687,"type":"multiple","difficulty":"hard","category":"History","question":"During the Wars of the Roses (1455 - 1487) which Englishman was dubbed &quot;the Kingmaker&quot;?","correct_answer":"Richard Neville","incorrect_answers":["Richard III","Henry V","Thomas Warwick"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

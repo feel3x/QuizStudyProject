@@ -1,0 +1,1 @@
+{"id":2038,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Who was the first American Vampire (Scott Snyder&#039;s American Vampire)?","correct_answer":"Skinner Sweet","incorrect_answers":["Hattie Hargrove","Pearl Jones","James &quot;Jim&quot; Book"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

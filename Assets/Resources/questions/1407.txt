@@ -1,0 +1,1 @@
+{"id":1407,"type":"multiple","difficulty":"medium","category":"Sports","question":"What year was hockey legend Wayne Gretzky born?","correct_answer":"1961","incorrect_answers":["1965","1959","1963"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

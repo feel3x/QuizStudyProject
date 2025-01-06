@@ -1,0 +1,1 @@
+{"id":778,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What CoD &quot;Deathstreak&quot; is only featured in Call of Duty : Modern Warfare 2?","correct_answer":"Copycat","incorrect_answers":[" Martrydom","Final Stand","Revenge"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

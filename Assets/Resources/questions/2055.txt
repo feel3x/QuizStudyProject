@@ -1,0 +1,1 @@
+{"id":2055,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"What otherworldly land does Thor come from?","correct_answer":"Asgard","incorrect_answers":["Midgard","Jotunheim","Sovengarde"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

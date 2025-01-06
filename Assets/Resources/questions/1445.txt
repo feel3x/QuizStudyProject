@@ -1,0 +1,1 @@
+{"id":1445,"type":"boolean","difficulty":"easy","category":"Geography","question":"Rhode Island is actually located on the US mainland, despite its name.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

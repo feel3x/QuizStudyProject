@@ -1,0 +1,1 @@
+{"id":2059,"type":"boolean","difficulty":"medium","category":"Entertainment: Comics","question":"In the webcomic Homestuck, the first character introduced is Dave Strider.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

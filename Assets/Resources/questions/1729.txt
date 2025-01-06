@@ -1,0 +1,1 @@
+{"id":1729,"type":"boolean","difficulty":"easy","category":"Politics","question":"Russia passed a law in 2013 which outlaws telling children that homosexuals exist.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

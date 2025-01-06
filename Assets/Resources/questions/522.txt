@@ -1,0 +1,1 @@
+{"id":522,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?","correct_answer":"Entra&ntilde;as","incorrect_answers":["&amp;&amp;&amp;&amp;&amp;&amp;","Sheep","Xen"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

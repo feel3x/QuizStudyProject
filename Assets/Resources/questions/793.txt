@@ -1,0 +1,1 @@
+{"id":793,"type":"boolean","difficulty":"medium","category":"Entertainment: Video Games","question":"TF2: The Heavy&#039;s voice actor, Gary Schwartz, voices the Demoman as well ","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

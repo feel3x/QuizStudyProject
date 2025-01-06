@@ -1,0 +1,1 @@
+{"id":1203,"type":"multiple","difficulty":"easy","category":"Science: Mathematics","question":"What is the symbol for Displacement?","correct_answer":"&Delta;r","incorrect_answers":["dr","Dp","r"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

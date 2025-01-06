@@ -1,0 +1,1 @@
+{"id":2293,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Which of these is not a real character in the cartoon series My Little Pony: Friendship is Magic?","correct_answer":"Rose Marene","incorrect_answers":["Pinkie Pie","Maud Pie","Rainbow Dash"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

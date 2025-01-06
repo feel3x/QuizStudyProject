@@ -1,0 +1,1 @@
+{"id":285,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"In &quot;Jurassic World&quot;, what is the name of the dinosaur that is a genetic hybrid?","correct_answer":"Indominus Rex","incorrect_answers":["Mosasaurus","Pteranodon","Tyrannosaurus Rex "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

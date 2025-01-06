@@ -1,0 +1,1 @@
+{"id":44,"type":"boolean","difficulty":"easy","category":"General Knowledge","question":"Dihydrogen Monoxide was banned due to health risks after being discovered in 1983 inside swimming pools and drinking water.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

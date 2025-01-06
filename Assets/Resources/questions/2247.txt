@@ -1,0 +1,1 @@
+{"id":2247,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Who was the Author of the manga Monster Hunter Orage?","correct_answer":"Hiro Mashima","incorrect_answers":["Shin Yamamoto","Keiichi Hikami","Hirohiko Araki"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

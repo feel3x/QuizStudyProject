@@ -1,0 +1,1 @@
+{"id":1754,"type":"multiple","difficulty":"medium","category":"Politics","question":"Who was the British Prime Minister at the outbreak of the Second World War?","correct_answer":"Neville Chamberlain","incorrect_answers":["Clement Attlee","Winston Churchill","Stanley Baldwin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

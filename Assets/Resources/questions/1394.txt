@@ -1,0 +1,1 @@
+{"id":1394,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which basketball team has attended the most NBA grand finals?","correct_answer":"Los Angeles Lakers","incorrect_answers":["Boston Celtics","Philadelphia 76ers","Golden State Warriors"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

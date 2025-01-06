@@ -1,0 +1,1 @@
+{"id":264,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"For the film &quot;Raiders of The Lost Ark&quot;, what was Harrison Ford sick with during the filming of the Cairo chase?","correct_answer":"Dysentery","incorrect_answers":["Anemia","Constipation","Acid Reflux "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

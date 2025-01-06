@@ -1,0 +1,1 @@
+{"id":1235,"type":"boolean","difficulty":"hard","category":"Science: Mathematics","question":"The binary number &quot;101001101&quot; is equivalent to the Decimal number &quot;334&quot;","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

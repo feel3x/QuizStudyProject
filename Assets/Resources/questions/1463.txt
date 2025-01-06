@@ -1,0 +1,1 @@
+{"id":1463,"type":"multiple","difficulty":"easy","category":"Geography","question":"Which of the following languages does NOT use the Latin alphabet?","correct_answer":"Georgian","incorrect_answers":["Turkish","Swahili","Vietnamese"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

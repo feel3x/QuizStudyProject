@@ -1,0 +1,1 @@
+{"id":2308,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"What year was the Disney film &quot;A Goofy Movie&quot; released?","correct_answer":"1995","incorrect_answers":["1999","2001","1997"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

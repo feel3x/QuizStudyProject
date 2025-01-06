@@ -1,0 +1,1 @@
+{"id":2044,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"What is Hellboy&#039;s true name?","correct_answer":"Anung Un Rama","incorrect_answers":["Right Hand of Doom","Ogdru Jahad","Azzael"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

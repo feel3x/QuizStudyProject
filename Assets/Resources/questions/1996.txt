@@ -1,0 +1,1 @@
+{"id":1996,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which one is NOT the function of engine oil in car engines?","correct_answer":"Combustion","incorrect_answers":["Lubrication","Cooling","Reduce corrosion"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

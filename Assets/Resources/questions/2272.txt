@@ -1,0 +1,1 @@
+{"id":2272,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Who created the Cartoon Network series &quot;Regular Show&quot;?","correct_answer":"J. G. Quintel","incorrect_answers":["Ben Bocquelet","Pendleton Ward","Rebecca Sugar"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

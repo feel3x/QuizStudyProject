@@ -1,0 +1,1 @@
+{"id":54,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What is the average life span of a garden ant?","correct_answer":"15 years","incorrect_answers":["24 hours","1 week","3 years"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

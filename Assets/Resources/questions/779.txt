@@ -1,0 +1,1 @@
+{"id":779,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In which game did the Konami Code make its first appearance?","correct_answer":"Gradius","incorrect_answers":["Contra","Castlevania","Dance Dance Revolution"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

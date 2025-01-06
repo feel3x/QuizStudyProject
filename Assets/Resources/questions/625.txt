@@ -1,0 +1,1 @@
+{"id":625,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In Naruto: Shippuden, which of the following elements is a &quot;Kekkei Tōta?&quot;","correct_answer":"Particle Style","incorrect_answers":["Any Doujutsu","Shadow Style","Ice Style"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

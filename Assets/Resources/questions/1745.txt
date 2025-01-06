@@ -1,0 +1,1 @@
+{"id":1745,"type":"boolean","difficulty":"easy","category":"Politics","question":"There was a satirical candidate named &quot;Deez Nuts&quot; running in the 2016 US presidential elections.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

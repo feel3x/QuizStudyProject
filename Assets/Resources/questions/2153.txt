@@ -1,0 +1,1 @@
+{"id":2153,"type":"boolean","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"No Game No Life first aired in 2014.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":205,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?","correct_answer":"John Steinbeck","incorrect_answers":["F. Scott Fitzgerald","Ernest Hemingway","William Faulkner"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

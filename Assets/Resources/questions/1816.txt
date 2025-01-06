@@ -1,0 +1,1 @@
+{"id":1816,"type":"boolean","difficulty":"hard","category":"Art","question":"The Statue of Liberty&#039;s official name is &ldquo;Liberty Enlightening the World&rdquo;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

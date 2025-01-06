@@ -1,0 +1,1 @@
+{"id":1387,"type":"multiple","difficulty":"medium","category":"Sports","question":"Who was the top scorer of the 2014 FIFA World Cup?","correct_answer":"James Rodr&iacute;guez","incorrect_answers":["Thomas M&uuml;ller","Lionel Messi","Neymar"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

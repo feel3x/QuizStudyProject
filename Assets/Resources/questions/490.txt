@@ -1,0 +1,1 @@
+{"id":490,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Which famous 90&#039;s rap album is commonly referred to as &quot;The Bible of Hip Hop&quot;?","correct_answer":"Illmatic","incorrect_answers":["The Low End Theory","The Chronic","Enter The Wu-Tang (36 Chambers)"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

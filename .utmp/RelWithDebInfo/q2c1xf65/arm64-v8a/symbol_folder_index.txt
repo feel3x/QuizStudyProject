@@ -1,0 +1,1 @@
+C:\Users\felix\UnityProjects\Quiz\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\q2c1xf65\obj\arm64-v8a

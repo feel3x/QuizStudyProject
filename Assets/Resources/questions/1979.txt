@@ -1,0 +1,1 @@
+{"id":1979,"type":"boolean","difficulty":"medium","category":"Vehicles","question":"The snowmobile was invented by Canadian Joseph-Armand Bombardier in 1937.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

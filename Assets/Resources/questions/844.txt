@@ -1,0 +1,1 @@
+{"id":844,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"Which one of these characters appeared in Marvel vs Capcom: Infinite? ","correct_answer":"Firebrand","incorrect_answers":["Wolverine","Dr. Doom","Jill Valentine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2232,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"The &quot;To Love-Ru&quot; Manga was started in what year?","correct_answer":"2006","incorrect_answers":["2007","2004","2005"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

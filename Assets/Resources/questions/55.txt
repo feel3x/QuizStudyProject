@@ -1,0 +1,1 @@
+{"id":55,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"The scientific name for the Southern Lights is Aurora Australis?","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

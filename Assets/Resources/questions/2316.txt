@@ -1,0 +1,1 @@
+{"id":2316,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"What is the cartoon character, Andy Capp, known as in Germany?","correct_answer":"Willi Wakker","incorrect_answers":["Dick Tingeler","Helmut Schmacker","Rod Tapper"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

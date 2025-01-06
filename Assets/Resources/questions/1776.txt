@@ -1,0 +1,1 @@
+{"id":1776,"type":"multiple","difficulty":"hard","category":"Politics","question":"Which of the following United States senators is known for performing a 24-hour long filibuster?","correct_answer":"Strom Thurmond","incorrect_answers":["Roy Blunt","John Barrasso","Chuck Schumer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

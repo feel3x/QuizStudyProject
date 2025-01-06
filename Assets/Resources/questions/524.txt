@@ -1,0 +1,1 @@
+{"id":524,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which album was released by Kanye West in 2013?","correct_answer":"Yeezus","incorrect_answers":["My Beautiful Dark Twisted Fantasy","The Life of Pablo","Watch the Throne"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

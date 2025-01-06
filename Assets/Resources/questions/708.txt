@@ -1,0 +1,1 @@
+{"id":708,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"In &quot;Call Of Duty: Zombies&quot;, what is the name of the machine that upgrades weapons?","correct_answer":"Pack-A-Punch","incorrect_answers":["Wunderfizz","Gersch Device","Mule Kick"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

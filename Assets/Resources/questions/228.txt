@@ -1,0 +1,1 @@
+{"id":228,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"What is the name of the town in which Lily and James Potter are buried?","correct_answer":"Godric&#039;s Hollow","incorrect_answers":["Hogsmeade","Ottery St. Catchpole","Little Hangleton"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

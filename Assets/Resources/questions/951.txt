@@ -1,0 +1,1 @@
+{"id":951,"type":"boolean","difficulty":"easy","category":"Science &amp; Nature","question":"A plant that has a life cycle for more than a year is known as an annual.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

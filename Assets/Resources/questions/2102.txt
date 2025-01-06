@@ -1,0 +1,1 @@
+{"id":2102,"type":"multiple","difficulty":"medium","category":"Science: Gadgets","question":"Which company developed the Hololens?","correct_answer":"Microsoft","incorrect_answers":["HTC","Oculus","Tobii"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

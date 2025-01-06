@@ -1,0 +1,1 @@
+{"id":1651,"type":"multiple","difficulty":"medium","category":"History","question":"Joseph Smith was the founder of what religion?","correct_answer":"Mormonism","incorrect_answers":["Buddhism","Christianity","Hinduism"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

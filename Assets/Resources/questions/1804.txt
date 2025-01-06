@@ -1,0 +1,1 @@
+{"id":1804,"type":"multiple","difficulty":"medium","category":"Art","question":"What nationality was the surrealist painter Salvador Dali?","correct_answer":"Spanish","incorrect_answers":["Italian","French","Portuguese"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

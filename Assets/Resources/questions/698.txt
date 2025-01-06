@@ -1,0 +1,1 @@
+{"id":698,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"What is the Klingon&#039;s afterlife called?","correct_answer":"Sto-vo-kor","incorrect_answers":["Valhalla","Karon&#039;gahk","New Jersey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

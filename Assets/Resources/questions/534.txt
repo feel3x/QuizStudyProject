@@ -1,0 +1,1 @@
+{"id":534,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which company did the animation for Peter Gabriel&#039;s Video Sledgehammer (1986)?","correct_answer":"Aardman Animations","incorrect_answers":["HIT Entertainment","Illumination Entertainment","VIZ Media"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

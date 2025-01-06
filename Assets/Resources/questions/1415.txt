@@ -1,0 +1,1 @@
+{"id":1415,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which English football team is nicknamed &#039;The Tigers&#039;?","correct_answer":"Hull City","incorrect_answers":["Cardiff City","Bristol City","Manchester City"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

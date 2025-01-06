@@ -1,0 +1,1 @@
+{"id":557,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"The musical &quot;Dirty Rotten Scoundrels&quot; is set in what country?","correct_answer":"France","incorrect_answers":["USA","Germany","Sweden"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

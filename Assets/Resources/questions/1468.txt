@@ -1,0 +1,1 @@
+{"id":1468,"type":"boolean","difficulty":"easy","category":"Geography","question":"Tokyo is the capital of Japan.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

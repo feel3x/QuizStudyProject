@@ -1,0 +1,1 @@
+{"id":171,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"What was the name of Captain Nemo&#039;s submarine in &quot;20,000 Leagues Under the Sea&quot;?","correct_answer":"The Nautilus","incorrect_answers":["The Neptune","The Poseidon  ","The Atlantis"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

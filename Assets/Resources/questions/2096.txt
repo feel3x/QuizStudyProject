@@ -1,0 +1,1 @@
+{"id":2096,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"What does SSD stand for in the context of computer storage?","correct_answer":" Solid State Drive","incorrect_answers":["Software Storage Device","Super Speed Data","Secure System Disk"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

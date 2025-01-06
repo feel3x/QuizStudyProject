@@ -1,0 +1,1 @@
+{"id":160,"type":"boolean","difficulty":"easy","category":"Entertainment: Books","question":"&quot;Elementary, my dear Watson&quot; is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

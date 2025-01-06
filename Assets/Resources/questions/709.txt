@@ -1,0 +1,1 @@
+{"id":709,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"What is the most expensive weapon in Counter-Strike: Global Offensive?","correct_answer":"Scar-20/G3SG1","incorrect_answers":["M4A1","AWP","R8 Revolver"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

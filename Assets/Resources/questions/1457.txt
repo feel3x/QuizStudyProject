@@ -1,0 +1,1 @@
+{"id":1457,"type":"multiple","difficulty":"easy","category":"Geography","question":"How many federal states does Germany have?","correct_answer":"16","incorrect_answers":["13","32","25"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

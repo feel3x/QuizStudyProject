@@ -1,0 +1,1 @@
+{"id":253,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Which actress danced the twist with John Travolta in &#039;Pulp Fiction&#039;?","correct_answer":"Uma Thurman","incorrect_answers":["Kathy Griffin","Pam Grier","Bridget Fonda"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

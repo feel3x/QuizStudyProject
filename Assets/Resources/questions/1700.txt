@@ -1,0 +1,1 @@
+{"id":1700,"type":"multiple","difficulty":"hard","category":"History","question":"Bohdan Khmelnytsky was which of the following?","correct_answer":"Leader of the Ukrainian Cossacks","incorrect_answers":["General Secretary of the Communist Party of the USSR","Prince of Wallachia","Grand Prince of Novgorod"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

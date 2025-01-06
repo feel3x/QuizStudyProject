@@ -1,0 +1,1 @@
+{"id":2288,"type":"boolean","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Bill Cipher in the show &quot;Gravity Falls&quot; is the good guy.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1106,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"The programming language &#039;Swift&#039; was created to replace what other programming language?","correct_answer":"Objective-C","incorrect_answers":["C#","Ruby","C++"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

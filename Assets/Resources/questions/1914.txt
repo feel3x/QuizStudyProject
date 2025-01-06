@@ -1,0 +1,1 @@
+{"id":1914,"type":"multiple","difficulty":"medium","category":"Animals","question":"What color/colour is a polar bear&#039;s skin?","correct_answer":"Black","incorrect_answers":["White","Pink","Green"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1385,"type":"multiple","difficulty":"medium","category":"Sports","question":"What is the oldest team in Major League Baseball?","correct_answer":"Atlanta Braves","incorrect_answers":["Chicago Cubs","Cincinnati Reds","St. Louis Cardinals"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

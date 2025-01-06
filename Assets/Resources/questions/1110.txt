@@ -1,0 +1,1 @@
+{"id":1110,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"While Apple was formed in California, in which western state was Microsoft founded?","correct_answer":"New Mexico","incorrect_answers":["Washington","Colorado","Arizona"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

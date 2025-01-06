@@ -1,0 +1,1 @@
+{"id":403,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"According to the American rapper Nelly, what should you do when its hot in here?","correct_answer":"Take off all your clothes","incorrect_answers":["Take a cool shower","Drink some water","Go skinny dipping"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

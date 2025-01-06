@@ -1,0 +1,1 @@
+{"id":1163,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"The acronym &quot;RIP&quot; stands for which of these?","correct_answer":"Routing Information Protocol","incorrect_answers":["Runtime Instance Processes","Regular Interval Processes","Routine Inspection Protocol"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":570,"type":"multiple","difficulty":"hard","category":"Entertainment: Musicals &amp; Theatres","question":"Who serves as the speaker of the prologue in Shakespeare&#039;s Romeo and Juliet?","correct_answer":"Chorus","incorrect_answers":["Montague","Refrain","Capulet"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

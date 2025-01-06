@@ -1,0 +1,1 @@
+{"id":1446,"type":"multiple","difficulty":"easy","category":"Geography","question":"The Alps are a mountain range on which continent?","correct_answer":"Europe","incorrect_answers":["North America","Asia","Africa"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

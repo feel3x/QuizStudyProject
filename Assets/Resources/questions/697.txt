@@ -1,0 +1,1 @@
+{"id":697,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"Which actor from The Young Ones also played Lord Flashheart in one episode of Blackadder II?","correct_answer":"Rik Mayall","incorrect_answers":["Adrian Edmondson","Nigel Planer","Christopher Ryan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

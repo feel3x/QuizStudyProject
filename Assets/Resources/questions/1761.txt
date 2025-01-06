@@ -1,0 +1,1 @@
+{"id":1761,"type":"multiple","difficulty":"medium","category":"Politics","question":"Which of these is NOT one of Donald Trump&#039;s children?","correct_answer":"Julius","incorrect_answers":["Donald Jr.","Ivanka","Eric"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

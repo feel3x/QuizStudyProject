@@ -1,0 +1,1 @@
+{"id":177,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"&quot;Green Eggs And Ham&quot; is a book by which author?","correct_answer":"Dr. Seuss","incorrect_answers":["Beatrix Potter","Roald Dahl","A.A. Milne"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

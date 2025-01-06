@@ -1,0 +1,1 @@
+{"id":621,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In Two and a Half Men, what is Alan Harper&#039;s son&#039;s name?","correct_answer":"Jake","incorrect_answers":["John","Jeremy","James"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1309,"type":"multiple","difficulty":"hard","category":"Mythology","question":"Who is the Egyptian god of reproduction and lettuce?","correct_answer":"Min","incorrect_answers":["Menu","Mut","Meret"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

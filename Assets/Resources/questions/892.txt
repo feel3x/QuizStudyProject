@@ -1,0 +1,1 @@
+{"id":892,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"Which of these cards from &quot;Magic: The Gathering&quot; has a flavor text that begins with &quot;Oi oi oi&quot;?","correct_answer":"Uthden Troll","incorrect_answers":["Lotleth Troll","Albino Troll","Harvester Troll"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

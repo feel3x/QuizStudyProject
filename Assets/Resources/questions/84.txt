@@ -1,0 +1,1 @@
+{"id":84,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"Which American manufactured submachine gun was informally known by the American soldiers that used it as &quot;Grease Gun&quot;?","correct_answer":"M3","incorrect_answers":["Colt 9mm","Thompson","MAC-10"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

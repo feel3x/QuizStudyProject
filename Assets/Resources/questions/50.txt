@@ -1,0 +1,1 @@
+{"id":50,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"In ancient Greece, if your job were a &quot;hippeus&quot; which of these would you own?","correct_answer":"Horse","incorrect_answers":["Weave","Guitar","Boat"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

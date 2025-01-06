@@ -1,0 +1,1 @@
+{"id":1180,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?","correct_answer":"Transport","incorrect_answers":["Session","Data link","Network"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

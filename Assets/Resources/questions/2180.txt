@@ -1,0 +1,1 @@
+{"id":2180,"type":"boolean","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"The anime Attack on Titan was directed by Tetsurō Araki, the same person who directed the anime Highschool of the Dead.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

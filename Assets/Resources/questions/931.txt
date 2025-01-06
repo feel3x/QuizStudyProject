@@ -1,0 +1,1 @@
+{"id":931,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the &quot;powerhouse&quot; of the Eukaryotic animal cell?","correct_answer":"Mitochondria","incorrect_answers":["Nucleus","Chloroplast","Endoplasmic Reticulum"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

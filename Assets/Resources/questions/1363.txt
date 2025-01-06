@@ -1,0 +1,1 @@
+{"id":1363,"type":"multiple","difficulty":"medium","category":"Sports","question":"Who won the &quot;Champions League&quot; in 1999?","correct_answer":"Manchester United","incorrect_answers":["Barcelona","Bayern Munich","Liverpool"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

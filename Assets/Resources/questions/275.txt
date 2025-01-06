@@ -1,0 +1,1 @@
+{"id":275,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"The Queen song `A Kind Of Magic` is featured in which 1986 film?","correct_answer":"Highlander","incorrect_answers":["Flash Gordon","Labyrinth","Howard the Duck"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

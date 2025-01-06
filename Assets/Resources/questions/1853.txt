@@ -1,0 +1,1 @@
+{"id":1853,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"When was Elvis Presley born?","correct_answer":"January 8, 1935","incorrect_answers":["December 13, 1931","July 18, 1940","April 17, 1938"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

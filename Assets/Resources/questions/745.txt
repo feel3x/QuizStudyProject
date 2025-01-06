@@ -1,0 +1,1 @@
+{"id":745,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which of the following is not a character in the video game Doki Doki Literature Club?","correct_answer":"Nico","incorrect_answers":["Monika","Natsuki","Sayori"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

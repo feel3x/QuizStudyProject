@@ -1,0 +1,1 @@
+{"id":519,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"What is the stage name of New Zealand singer Phillipa &quot;Pip&quot; Brown?","correct_answer":"Ladyhawke","incorrect_answers":["Lorde","Kesha","Anika Moa"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

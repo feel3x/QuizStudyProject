@@ -1,0 +1,1 @@
+{"id":336,"type":"boolean","difficulty":"medium","category":"Entertainment: Film","question":"The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

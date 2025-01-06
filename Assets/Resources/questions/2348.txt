@@ -1,0 +1,1 @@
+{"id":2348,"type":"multiple","difficulty":"hard","category":"Entertainment: Cartoon &amp; Animations","question":"Who played Stan&#039;s dog in the South Park episode &quot;Big Gay Al&#039;s Big Gay Boat Ride&quot;?","correct_answer":"George Clooney","incorrect_answers":["Jay Leno","Matt Stone","Robert Smith"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":544,"type":"multiple","difficulty":"easy","category":"Entertainment: Musicals &amp; Theatres","question":"&quot;Doctor Who&quot; star David Tennant performed in a rendition of which Shakespearean play?","correct_answer":"Hamlet","incorrect_answers":["The Tempest","Othello","The Taming of the Shrew"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

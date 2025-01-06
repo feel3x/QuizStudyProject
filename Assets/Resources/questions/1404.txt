@@ -1,0 +1,1 @@
+{"id":1404,"type":"multiple","difficulty":"medium","category":"Sports","question":"Who is Manchester United&#039;s top premier league goal scorer?","correct_answer":"Wayne Rooney","incorrect_answers":["Sir Bobby Charlton","Ryan Giggs","David Beckham"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

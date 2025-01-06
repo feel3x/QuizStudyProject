@@ -1,0 +1,1 @@
+{"id":1949,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"What country was the Trabant 601 manufactured in?","correct_answer":"East Germany","incorrect_answers":["Soviet Union","Hungary","France"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

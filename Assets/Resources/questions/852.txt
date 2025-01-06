@@ -1,0 +1,1 @@
+{"id":852,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"Why was the character Trevor Philips discharged from the Air Force?","correct_answer":"Mental Health Issues","incorrect_answers":["Injuries","Disease","Danger to Others"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

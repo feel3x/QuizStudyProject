@@ -1,0 +1,1 @@
+{"id":1733,"type":"multiple","difficulty":"easy","category":"Politics","question":"Which of the following Pacific Islander countries is ruled by a constitutional monarchy?","correct_answer":"Tonga","incorrect_answers":["Palau","Fiji","Kiribati"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

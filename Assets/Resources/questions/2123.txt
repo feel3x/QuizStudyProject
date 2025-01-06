@@ -1,0 +1,1 @@
+{"id":2123,"type":"boolean","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"Clefairy was intended to be Ash&#039;s starting Pok&eacute;mon in the pilot episode of the cartoon.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

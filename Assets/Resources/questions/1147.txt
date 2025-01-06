@@ -1,0 +1,1 @@
+{"id":1147,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"Whistler was the codename of this Microsoft Operating System.","correct_answer":"Windows XP","incorrect_answers":["Windows 2000","Windows 7","Windows 95"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

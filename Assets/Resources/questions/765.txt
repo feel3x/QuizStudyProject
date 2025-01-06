@@ -1,0 +1,1 @@
+{"id":765,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which of the following is not a real Pok&eacute;mon?","correct_answer":"Luminid","incorrect_answers":["Dragalge","Mandibuzz","Araquanid"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":379,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?","correct_answer":"Bombardier Billy Wells","incorrect_answers":["Freddie Mills","Terry Spinks","Don Cockell"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

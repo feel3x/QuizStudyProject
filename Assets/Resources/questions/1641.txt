@@ -1,0 +1,1 @@
+{"id":1641,"type":"multiple","difficulty":"medium","category":"History","question":"What year did the Boxing Day earthquake &amp; tsunami occur in the Indian Ocean?","correct_answer":"2004","incorrect_answers":["2006","2008","2002"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

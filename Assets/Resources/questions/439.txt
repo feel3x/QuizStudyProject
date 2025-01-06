@@ -1,0 +1,1 @@
+{"id":439,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Whose albums included &quot;Back in Black&quot; and &quot;Ballbreaker&quot;?","correct_answer":"AC/DC","incorrect_answers":["Iron Maiden","Black Sabbath","Metallica"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

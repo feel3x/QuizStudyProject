@@ -1,0 +1,1 @@
+{"id":332,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?","correct_answer":"50 mph","incorrect_answers":["60 mph","40 mph","70 mph"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1418,"type":"multiple","difficulty":"hard","category":"Sports","question":"What team did England beat in the semi-final stage to win in the 1966 World Cup final?","correct_answer":"Portugal","incorrect_answers":["West Germany","Soviet Union","Brazil"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

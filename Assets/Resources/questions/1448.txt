@@ -1,0 +1,1 @@
+{"id":1448,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the smallest country in the world?","correct_answer":"Vatican City","incorrect_answers":["Maldives","Monaco","Malta"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

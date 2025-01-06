@@ -1,0 +1,1 @@
+{"id":1160,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Which data structure does FILO apply to?","correct_answer":"Stack","incorrect_answers":["Queue","Heap","Tree"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

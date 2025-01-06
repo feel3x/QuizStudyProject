@@ -1,0 +1,1 @@
+{"id":1476,"type":"multiple","difficulty":"easy","category":"Geography","question":"All of the following are classified as Finno-Ugric languages EXCEPT:","correct_answer":"Samoyedic","incorrect_answers":["Hungarian","Finnish","Estonian"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

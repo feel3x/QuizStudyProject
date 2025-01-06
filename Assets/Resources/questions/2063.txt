@@ -1,0 +1,1 @@
+{"id":2063,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In Calvin and Hobbes, what is the name of the babysitter&#039;s boyfriend?","correct_answer":"Charlie","incorrect_answers":["Dave","Charles","Nathaniel"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

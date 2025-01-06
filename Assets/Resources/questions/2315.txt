@@ -1,0 +1,1 @@
+{"id":2315,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"What is the name of Sid&#039;s dog in &quot;Toy Story&quot;?","correct_answer":"Scud","incorrect_answers":["Buster","Whiskers","Mr. Jones"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

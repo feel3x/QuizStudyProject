@@ -1,0 +1,1 @@
+{"id":569,"type":"multiple","difficulty":"hard","category":"Entertainment: Musicals &amp; Theatres","question":"After England, more Shakespeare plays are set in this present day country than in any other.","correct_answer":"Italy","incorrect_answers":["United States","Greece","France"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

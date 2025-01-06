@@ -1,0 +1,1 @@
+{"id":2156,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"The characters of &quot;Log Horizon&quot; are trapped in what game?","correct_answer":"Elder Tale","incorrect_answers":["Sword Art Online","Tower Unite","Yggdrasil"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

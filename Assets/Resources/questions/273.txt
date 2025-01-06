@@ -1,0 +1,1 @@
+{"id":273,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"&quot;Minions&quot; was released on the June 10th, 2015.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

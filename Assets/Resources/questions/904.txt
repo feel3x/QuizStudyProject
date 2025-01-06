@@ -1,0 +1,1 @@
+{"id":904,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"In Magic: The Gathering, what term for blocking was established in the Portal set?","correct_answer":"Intercepting","incorrect_answers":["Blocking","Resisting","Shielding"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

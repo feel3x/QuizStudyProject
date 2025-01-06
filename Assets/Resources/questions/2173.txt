@@ -1,0 +1,1 @@
+{"id":2173,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"The main antagonist of the second part of JoJo&#039;s Bizarre Adventure is which of the following?","correct_answer":"Kars","incorrect_answers":["Erina Joestar","Santana","Wired Beck"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

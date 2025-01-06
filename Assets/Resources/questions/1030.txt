@@ -1,0 +1,1 @@
+{"id":1030,"type":"boolean","difficulty":"hard","category":"Science &amp; Nature","question":"It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

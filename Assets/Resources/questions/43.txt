@@ -1,0 +1,1 @@
+{"id":43,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Foie gras is a French delicacy typically made from what part of a duck or goose?","correct_answer":"Liver","incorrect_answers":["Heart","Stomach","Intestines"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

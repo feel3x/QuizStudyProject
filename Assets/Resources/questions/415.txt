@@ -1,0 +1,1 @@
+{"id":415,"type":"boolean","difficulty":"easy","category":"Entertainment: Music","question":"American rapper Dr. Dre actually has a Ph.D. doctorate.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

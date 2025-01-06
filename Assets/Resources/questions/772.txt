@@ -1,0 +1,1 @@
+{"id":772,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which character does the player play as in the video game &quot;Bastion&quot;?","correct_answer":"The Kid","incorrect_answers":["Rucks","Zulf","Zia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

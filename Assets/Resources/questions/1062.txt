@@ -1,0 +1,1 @@
+{"id":1062,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"Linus Torvalds created Linux and Git.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

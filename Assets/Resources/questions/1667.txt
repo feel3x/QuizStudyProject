@@ -1,0 +1,1 @@
+{"id":1667,"type":"multiple","difficulty":"medium","category":"History","question":"During what war did the &quot;Cuban Missile Crisis&quot; occur?","correct_answer":"Cold War","incorrect_answers":["World War I","World War II","Revolutionary War"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

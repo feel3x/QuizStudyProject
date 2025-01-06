@@ -1,0 +1,1 @@
+{"id":149,"type":"boolean","difficulty":"hard","category":"General Knowledge","question":"&quot;Number 16 Bus Shelter&quot; was a child&#039;s name that was approved by the New Zealand government.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

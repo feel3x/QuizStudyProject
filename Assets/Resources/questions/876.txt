@@ -1,0 +1,1 @@
+{"id":876,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"In &quot;Magic: The Gathering&quot;, during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?","correct_answer":"Purple","incorrect_answers":["Brown","Pink","Orange"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

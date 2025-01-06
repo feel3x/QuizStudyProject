@@ -1,0 +1,1 @@
+{"id":763,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What block in Minecraft has the highest blast resistance?","correct_answer":"Barrier","incorrect_answers":["Obsidian","Bedrock","Block of Diamond"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

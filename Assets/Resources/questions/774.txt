@@ -1,0 +1,1 @@
+{"id":774,"type":"boolean","difficulty":"medium","category":"Entertainment: Video Games","question":"&quot;Return to Castle Wolfenstein&quot; was the only game of the Wolfenstein series where you don&#039;t play as William &quot;B.J.&quot; Blazkowicz.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

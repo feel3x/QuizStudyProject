@@ -1,0 +1,1 @@
+{"id":2339,"type":"multiple","difficulty":"hard","category":"Entertainment: Cartoon &amp; Animations","question":"What was Maggie Simpson&#039;s first canonical word, not including the Tracey Ullman shorts?","correct_answer":"Daddy.","incorrect_answers":["Sequel?","Ja!","Rusty!"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

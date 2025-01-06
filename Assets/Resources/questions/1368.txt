@@ -1,0 +1,1 @@
+{"id":1368,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?","correct_answer":"Owen Hart","incorrect_answers":["Chris Benoit","Lex Luger","Al Snow"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

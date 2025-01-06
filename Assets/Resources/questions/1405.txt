@@ -1,0 +1,1 @@
+{"id":1405,"type":"multiple","difficulty":"medium","category":"Sports","question":"In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?","correct_answer":"Mercedes-AMG Petronas","incorrect_answers":["Scuderia Ferrari","McLaren Honda","Red Bull Racing Renault"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

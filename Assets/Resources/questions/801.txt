@@ -1,0 +1,1 @@
+{"id":801,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which Crypt of the NecroDancer (2015) character has a soundtrack by Jake &quot;Virt&quot; Kaufman?","correct_answer":"Uncle Eli","incorrect_answers":["Cadence","Nocturna","Octavian (Bard)"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

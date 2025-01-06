@@ -1,0 +1,1 @@
+{"id":900,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"How many rooms are there, not including the hallways and the set of stairs, in the board game &quot;Clue&quot;?","correct_answer":"9","incorrect_answers":["1","6","10"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

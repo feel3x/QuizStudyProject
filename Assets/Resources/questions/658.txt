@@ -1,0 +1,1 @@
+{"id":658,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In the Sci-Fi television show Doctor Who, who plays the Tenth Doctor?","correct_answer":"David Tennant","incorrect_answers":["William Hartnell","Peter Capaldi","Peter Davison"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

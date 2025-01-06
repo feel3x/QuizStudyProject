@@ -1,0 +1,1 @@
+{"id":260,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Who directed the 2015 movie &quot;The Revenant&quot;?","correct_answer":"Alejandro G. I&ntilde;&aacute;rritu","incorrect_answers":["Christopher Nolan","David Fincher","Wes Anderson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

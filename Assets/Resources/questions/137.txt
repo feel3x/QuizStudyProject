@@ -1,0 +1,1 @@
+{"id":137,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Originally another word for poppy, coquelicot is a shade of what?","correct_answer":"Red","incorrect_answers":["Green","Blue","Pink"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

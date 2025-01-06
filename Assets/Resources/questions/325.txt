@@ -1,0 +1,1 @@
+{"id":325,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"What year did the James Cameron film &quot;Titanic&quot; come out in theaters?","correct_answer":"1997","incorrect_answers":["1996","1998","1999"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

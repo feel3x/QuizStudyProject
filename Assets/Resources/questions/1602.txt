@@ -1,0 +1,1 @@
+{"id":1602,"type":"multiple","difficulty":"easy","category":"History","question":"To what political party did Abraham Lincoln belong when elected POTUS?","correct_answer":"Republican","incorrect_answers":["Democrat","Independent","Whig"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

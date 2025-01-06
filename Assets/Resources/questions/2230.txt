@@ -1,0 +1,1 @@
+{"id":2230,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which animation studio animated &quot;To Love-Ru&quot;?","correct_answer":"Xebec","incorrect_answers":["Trigger","Sunrise","Kyoto Animation"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

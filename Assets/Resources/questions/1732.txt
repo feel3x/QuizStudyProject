@@ -1,0 +1,1 @@
+{"id":1732,"type":"boolean","difficulty":"easy","category":"Politics","question":"One of Barack Obama&#039;s United States presidential campaign slogan&#039;s was &quot;Yes We Can&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

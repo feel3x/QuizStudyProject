@@ -1,0 +1,1 @@
+{"id":686,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"Who played the sun baby in the original run of Teletubbies?","correct_answer":"Jessica Smith","incorrect_answers":["Pui Fan Lee","Sue Monroe","Lisa Brockwell"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

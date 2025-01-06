@@ -1,0 +1,1 @@
+{"id":78,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"The word &quot;news&quot; originates from the first letters of the 4 main directions on a compass (North, East, West, South).","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

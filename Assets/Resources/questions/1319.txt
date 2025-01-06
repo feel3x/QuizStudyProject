@@ -1,0 +1,1 @@
+{"id":1319,"type":"multiple","difficulty":"easy","category":"Sports","question":"Who is often called &quot;the Maestro&quot; in the men&#039;s tennis circuit?","correct_answer":"Roger Federer","incorrect_answers":["Bill Tilden","Boris Becker","Pete Sampras"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":749,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which Elite Four member from the first generation of Pok&eacute;mon became the champion in the next generation?","correct_answer":"Lance","incorrect_answers":["Agatha","Bruno","Lorelei"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

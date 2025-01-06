@@ -1,0 +1,1 @@
+{"id":1791,"type":"multiple","difficulty":"easy","category":"Art","question":"Who painted the Sistine Chapel?","correct_answer":"Michelangelo","incorrect_answers":["Leonardo da Vinci","Pablo Picasso","Raphael"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

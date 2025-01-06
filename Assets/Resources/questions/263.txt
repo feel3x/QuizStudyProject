@@ -1,0 +1,1 @@
+{"id":263,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"What was Dorothy&#039;s surname in &#039;The Wizard Of Oz&#039;?","correct_answer":"Gale","incorrect_answers":["Perkins","Day","Parker"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":189,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"The novel &quot;Of Mice And Men&quot; was written by what author? ","correct_answer":"John Steinbeck ","incorrect_answers":["George Orwell","Mark Twain ","Harper Lee"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

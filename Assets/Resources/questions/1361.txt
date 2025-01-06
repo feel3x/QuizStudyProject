@@ -1,0 +1,1 @@
+{"id":1361,"type":"boolean","difficulty":"medium","category":"Sports","question":"The Olympics tennis court is a giant green screen.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

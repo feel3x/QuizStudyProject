@@ -1,0 +1,1 @@
+{"id":29,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ","correct_answer":"Subscriber","incorrect_answers":["Single","Secure","Solid"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

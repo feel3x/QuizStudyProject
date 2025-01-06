@@ -1,0 +1,1 @@
+{"id":1464,"type":"multiple","difficulty":"easy","category":"Geography","question":"Which of the following countries has a flag featuring a yellow lion wielding a sword on a dark red background?","correct_answer":"Sri Lanka","incorrect_answers":["Kiribati","Scotland","Bhutan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

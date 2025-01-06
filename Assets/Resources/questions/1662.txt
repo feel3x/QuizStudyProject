@@ -1,0 +1,1 @@
+{"id":1662,"type":"multiple","difficulty":"medium","category":"History","question":"When did Norway become free from Sweden?","correct_answer":"1905","incorrect_answers":["1925","1814","1834"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

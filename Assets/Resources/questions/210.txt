@@ -1,0 +1,1 @@
+{"id":210,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"By what nickname is Jack Dawkins known in the Charles Dickens novel, &#039;Oliver Twist&#039;?","correct_answer":"The Artful Dodger","incorrect_answers":["Fagin","Bull&rsquo;s-eye","Mr. Fang"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

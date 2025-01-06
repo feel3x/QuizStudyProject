@@ -1,0 +1,1 @@
+{"id":1103,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"What does CPU stand for?","correct_answer":"Central Processing Unit","incorrect_answers":["Central Process Unit","Computer Personal Unit","Central Processor Unit"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

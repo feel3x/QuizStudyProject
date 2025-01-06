@@ -1,0 +1,1 @@
+{"id":1399,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which soccer team won the Copa Am&eacute;rica 2015 Championship ?","correct_answer":"Chile","incorrect_answers":["Argentina","Brazil","Paraguay"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

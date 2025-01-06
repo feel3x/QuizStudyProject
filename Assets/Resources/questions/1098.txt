@@ -1,0 +1,1 @@
+{"id":1098,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"In web design, what does CSS stand for?","correct_answer":"Cascading Style Sheet","incorrect_answers":["Counter Strike: Source","Corrective Style Sheet","Computer Style Sheet"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

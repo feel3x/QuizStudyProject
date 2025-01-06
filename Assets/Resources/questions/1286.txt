@@ -1,0 +1,1 @@
+{"id":1286,"type":"multiple","difficulty":"medium","category":"Mythology","question":"Which of the following is not one of the Greek Fates?","correct_answer":"Narcissus","incorrect_answers":["Clotho","Atropos","Lachesis"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

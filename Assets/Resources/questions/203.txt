@@ -1,0 +1,1 @@
+{"id":203,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"According to The Hitchhiker&#039;s Guide to the Galaxy book, the answer to life, the universe and everything else is...","correct_answer":"42","incorrect_answers":["Loving everyone around you","Chocolate","Death"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":80,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"Scotch whisky and Drambuie make up which cocktail?","correct_answer":"Rusty Nail","incorrect_answers":["Screwdriver","Sex on the Beach","Manhattan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

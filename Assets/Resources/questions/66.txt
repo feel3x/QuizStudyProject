@@ -1,0 +1,1 @@
+{"id":66,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What is the romanized Japanese word for &quot;university&quot;?","correct_answer":"Daigaku","incorrect_answers":["Toshokan","Jimusho","Shokudou"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

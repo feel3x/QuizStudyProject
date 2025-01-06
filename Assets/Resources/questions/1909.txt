@@ -1,0 +1,1 @@
+{"id":1909,"type":"boolean","difficulty":"medium","category":"Animals","question":"The average lifespan of a wildcat is only around 5-6 years. ","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

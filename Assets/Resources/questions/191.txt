@@ -1,0 +1,1 @@
+{"id":191,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"In The Lies of Locke Lamora, what title is Locke known by in the criminal world?","correct_answer":"The Thorn of Camorr","incorrect_answers":["The Rose of the Marrows","The Thorn of Emberlain","The Thorn of the Marrows"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

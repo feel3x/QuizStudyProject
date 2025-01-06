@@ -1,0 +1,1 @@
+{"id":850,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"What is the name of the virus that infected New York in Tom Clancy&#039;s The Division?","correct_answer":"Dollar Flu","incorrect_answers":["Ebola","Red Poison","Smallpox"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

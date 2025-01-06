@@ -1,0 +1,1 @@
+{"id":710,"type":"boolean","difficulty":"easy","category":"Entertainment: Video Games","question":"The name of the main character of the video game &quot;The Legend of Zelda&quot;, is Zelda.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":516,"type":"boolean","difficulty":"hard","category":"Entertainment: Music","question":"The song &quot;Mystery Train&quot; was released by artist &quot;Little Junior&#039;s Blue Flames&quot; in 1953.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

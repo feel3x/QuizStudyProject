@@ -1,0 +1,1 @@
+{"id":1169,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Which of the following computer components can be built using only NAND gates?","correct_answer":"ALU","incorrect_answers":["CPU","RAM","Register"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

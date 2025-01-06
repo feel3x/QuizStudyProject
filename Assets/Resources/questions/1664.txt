@@ -1,0 +1,1 @@
+{"id":1664,"type":"multiple","difficulty":"medium","category":"History","question":"The Panama Canal was finished under the administration of which U.S. president?","correct_answer":"Woodrow Wilson","incorrect_answers":["Franklin Delano Roosevelt","Herbert Hoover","Theodore Roosevelt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

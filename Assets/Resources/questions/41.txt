@@ -1,0 +1,1 @@
+{"id":41,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"In Half-Life, what is the name of the alien that attaches to heads?","correct_answer":"Headcrab","incorrect_answers":["Bullsquid","Vortigaunt","Facehugger"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1647,"type":"multiple","difficulty":"medium","category":"History","question":"Who was the leader of the Communist Party of Yugoslavia ?","correct_answer":"Josip Broz Tito","incorrect_answers":["Karadjordje Petrovic","Milos Obilic","Aleskandar Petrovic"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1873,"type":"multiple","difficulty":"easy","category":"Animals","question":"By definition, where does an abyssopelagic animal live?","correct_answer":"At the bottom of the ocean","incorrect_answers":["In the desert","On top of a mountain","Inside a tree"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1538,"type":"multiple","difficulty":"hard","category":"Geography","question":"What country is not a part of Scandinavia?","correct_answer":"Finland","incorrect_answers":["Norway","Sweden","Denmark"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":883,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?","correct_answer":"Electric Company","incorrect_answers":["Water Works","Chance","Community Chest"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

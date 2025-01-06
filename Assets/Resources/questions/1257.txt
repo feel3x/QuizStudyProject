@@ -1,0 +1,1 @@
+{"id":1257,"type":"multiple","difficulty":"easy","category":"Mythology","question":"The greek god Poseidon was the god of what?","correct_answer":"The Sea","incorrect_answers":["War","Sun","Fire"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":131,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"According to Fair Works Australia, how long do you have to work to get Long Service Leave?","correct_answer":"7 years","incorrect_answers":["2 years","8 years","6 months"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

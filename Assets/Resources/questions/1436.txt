@@ -1,0 +1,1 @@
+{"id":1436,"type":"boolean","difficulty":"easy","category":"Geography","question":"There are no deserts in Europe.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

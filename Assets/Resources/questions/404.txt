@@ -1,0 +1,1 @@
+{"id":404,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"What was Rage Against the Machine&#039;s debut album?","correct_answer":"Rage Against the Machine","incorrect_answers":["Evil Empire","Bombtrack","The Battle Of Los Angeles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

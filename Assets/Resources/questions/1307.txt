@@ -1,0 +1,1 @@
+{"id":1307,"type":"multiple","difficulty":"hard","category":"Mythology","question":"Which of the following is NOT a god in Norse Mythology.","correct_answer":"Jens","incorrect_answers":["Loki","Tyr","Snotra"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

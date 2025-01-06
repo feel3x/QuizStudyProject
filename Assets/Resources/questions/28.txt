@@ -1,0 +1,1 @@
+{"id":28,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What alcoholic drink is made from molasses?","correct_answer":"Rum","incorrect_answers":["Gin","Vodka","Whisky"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

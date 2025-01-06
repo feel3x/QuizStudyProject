@@ -1,0 +1,1 @@
+{"id":1635,"type":"boolean","difficulty":"medium","category":"History","question":"Abraham Lincoln was the first U.S. President to be born outside the borders of the thirteen original states. ","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

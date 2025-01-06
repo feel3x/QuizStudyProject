@@ -1,0 +1,1 @@
+{"id":631,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"What is the name of the race horse that Tony Soprano becomes attached to?","correct_answer":"Pie-O-My","incorrect_answers":["Man o&#039; war","Bada Bing","Honest Earnings"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

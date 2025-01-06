@@ -1,0 +1,1 @@
+{"id":1423,"type":"multiple","difficulty":"hard","category":"Sports","question":"In Canadian football, scoring a rouge is worth how many points?","correct_answer":"1","incorrect_answers":["2","3","4"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

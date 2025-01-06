@@ -1,0 +1,1 @@
+{"id":2025,"type":"boolean","difficulty":"easy","category":"Entertainment: Comics","question":"Deadpool&#039;s identity is Slade Wilson.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

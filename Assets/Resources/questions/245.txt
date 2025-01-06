@@ -1,0 +1,1 @@
+{"id":245,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"Who wrote the novel &quot;Moby-Dick&quot;?","correct_answer":"Herman Melville","incorrect_answers":["William Golding","William Shakespeare","J. R. R. Tolkien"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

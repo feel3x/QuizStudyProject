@@ -1,0 +1,1 @@
+{"id":198,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?","correct_answer":"Zhao Yun","incorrect_answers":["Liu Bei","Guan Yu","Zhang Fei"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

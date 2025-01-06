@@ -1,0 +1,1 @@
+{"id":2077,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"In the Hellboy universe, what was Abe Sapien&#039;s birth name?","correct_answer":"Langdon Everett Caul","incorrect_answers":["Lord Baltimore","Sir Edward Grey","Landis Pope"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

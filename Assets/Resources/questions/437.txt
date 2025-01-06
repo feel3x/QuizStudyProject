@@ -1,0 +1,1 @@
+{"id":437,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.","correct_answer":"Atlanta","incorrect_answers":["Savannah","Augusta","Marietta"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

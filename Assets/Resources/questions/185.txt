@@ -1,0 +1,1 @@
+{"id":185,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?","correct_answer":"The Greasers","incorrect_answers":["The Outsiders","The Mafia","The Socs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1036,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"What was the first organic compound to be synthesized from inorganic compounds?","correct_answer":"Urea","incorrect_answers":["Propane","Ethanol","Formaldehyde"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1929,"type":"multiple","difficulty":"medium","category":"Animals","question":"What does &quot;hippopotamus&quot; mean and in what langauge?","correct_answer":"River Horse (Greek)","incorrect_answers":["River Horse (Latin)","Fat Pig (Greek)","Fat Pig (Latin)"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

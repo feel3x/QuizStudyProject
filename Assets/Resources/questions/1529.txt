@@ -1,0 +1,1 @@
+{"id":1529,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which of these countries is NOT a part of the Asian continent?","correct_answer":"Suriname","incorrect_answers":["Georgia","Russia","Singapore"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

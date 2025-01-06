@@ -1,0 +1,1 @@
+{"id":72,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"&quot;Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.&quot; is a grammatically correct sentence.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

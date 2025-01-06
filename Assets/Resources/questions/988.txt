@@ -1,0 +1,1 @@
+{"id":988,"type":"boolean","difficulty":"medium","category":"Science &amp; Nature","question":"Sound can travel through a vacuum.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

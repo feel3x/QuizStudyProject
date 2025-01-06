@@ -1,0 +1,1 @@
+{"id":783,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In which country&#039;s version of Half-Life are the HECU Marines replaced with robots?","correct_answer":"Germany","incorrect_answers":["Japan","China","France"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

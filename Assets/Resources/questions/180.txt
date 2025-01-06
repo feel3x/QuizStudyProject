@@ -1,0 +1,1 @@
+{"id":180,"type":"boolean","difficulty":"easy","category":"Entertainment: Books","question":"The &quot;Berenstein Bears&quot; is the correct spelling of the educational children&#039;s book series&#039; name.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

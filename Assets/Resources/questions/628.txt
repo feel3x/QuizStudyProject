@@ -1,0 +1,1 @@
+{"id":628,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"Which British writer wrote for both Doctor Who and Sherlock?","correct_answer":"Steven Moffatt","incorrect_answers":["Phil Ford","Russell T Davies","Toby Whithouse"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

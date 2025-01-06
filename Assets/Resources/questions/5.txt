@@ -1,0 +1,1 @@
+{"id":5,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What is on display in the Madame Tussaud&#039;s museum in London?","correct_answer":"Wax sculptures","incorrect_answers":["Designer clothing","Unreleased film reels","Vintage cars"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

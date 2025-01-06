@@ -1,0 +1,1 @@
+{"id":207,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"What was the pen name of novelist, Mary Ann Evans?","correct_answer":"George Eliot","incorrect_answers":["George Orwell","George Bernard Shaw","George Saunders"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

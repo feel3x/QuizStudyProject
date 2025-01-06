@@ -1,0 +1,1 @@
+{"id":683,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"In &quot;It&#039;s Always Sunny in Philadelphia&quot; what was the name of Frank&#039;s wrestling persona?","correct_answer":"The Trash Man","incorrect_answers":["Bird of War","Day Man","The Maniac"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

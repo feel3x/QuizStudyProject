@@ -1,0 +1,1 @@
+{"id":468,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"In which year was the Megadeth album &quot;Peace Sells... but Who&#039;s Buying?&quot; released?","correct_answer":"1986","incorrect_answers":["1979","1987","1983"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

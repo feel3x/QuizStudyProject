@@ -1,0 +1,1 @@
+{"id":1792,"type":"multiple","difficulty":"easy","category":"Art","question":"Who painted the Mona Lisa?","correct_answer":"Leonardo da Vinci ","incorrect_answers":["Pablo Picasso"," Vincent van Gogh","Michelangelo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

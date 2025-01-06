@@ -1,0 +1,1 @@
+{"id":553,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"In which Shakespeare play does the character Marcellus say, &quot;Something is rotten in the state of Denmark&quot;?","correct_answer":"Hamlet","incorrect_answers":["Macbeth","King Lear","Twelfth Night"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

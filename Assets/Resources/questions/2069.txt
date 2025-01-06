@@ -1,0 +1,1 @@
+{"id":2069,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"Better known by his nickname Logan, what is Wolverine&#039;s birth name?","correct_answer":"James Howlett","incorrect_answers":["Logan Wolf","Thomas Wilde","John Savage"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

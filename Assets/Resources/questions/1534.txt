@@ -1,0 +1,1 @@
+{"id":1534,"type":"multiple","difficulty":"hard","category":"Geography","question":"What national museum will you find in Cooperstown, New York?","correct_answer":"National Baseball Hall of Fame","incorrect_answers":["Metropolitan Museum of Art","National Toy Hall of Fame","Museum of Modern Art"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

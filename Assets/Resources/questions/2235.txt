@@ -1,0 +1,1 @@
+{"id":2235,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which animation studio produced &quot;Sword Art Online&quot;?","correct_answer":"A-1 Pictures","incorrect_answers":["Production I.G","Silver Link","Kyoto Animation"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

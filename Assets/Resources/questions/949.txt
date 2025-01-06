@@ -1,0 +1,1 @@
+{"id":949,"type":"boolean","difficulty":"easy","category":"Science &amp; Nature","question":"An Astronomical Unit is the distance between Earth and the Moon.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

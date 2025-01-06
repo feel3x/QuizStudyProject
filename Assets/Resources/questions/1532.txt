@@ -1,0 +1,1 @@
+{"id":1532,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which country is the Taedong River in?","correct_answer":"North Korea","incorrect_answers":["South Korea","Japan","China"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

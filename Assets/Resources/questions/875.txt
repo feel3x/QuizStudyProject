@@ -1,0 +1,1 @@
+{"id":875,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"Who is the main character in the VHS tape included in the board game Nightmare?","correct_answer":"The Gatekeeper","incorrect_answers":["The Kryptkeeper","The Monster","The Nightmare"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

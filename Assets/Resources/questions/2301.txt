@@ -1,0 +1,1 @@
+{"id":2301,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"What was the number on Gerald&#039;s shirt in &quot;Hey Arnold!&quot;?","correct_answer":"33","incorrect_answers":["88","38","83"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

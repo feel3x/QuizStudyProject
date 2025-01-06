@@ -1,0 +1,1 @@
+{"id":1438,"type":"multiple","difficulty":"easy","category":"Geography","question":"If soccer is called football in England, what is American football called in England?","correct_answer":"American football","incorrect_answers":["Combball","Handball","Touchdown"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

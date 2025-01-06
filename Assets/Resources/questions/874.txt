@@ -1,0 +1,1 @@
+{"id":874,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"The board game, Nightmare was released in what year?","correct_answer":"1991","incorrect_answers":["1992","1989","1995"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

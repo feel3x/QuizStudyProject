@@ -1,0 +1,1 @@
+{"id":2027,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"Which universe crossover was introduced in the &quot;Sonic the Hedgehog&quot; comic issue #247?","correct_answer":"Mega Man","incorrect_answers":["Super Mario Brothers","Alex Kidd","Super Monkey Ball"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

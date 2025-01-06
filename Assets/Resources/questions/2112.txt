@@ -1,0 +1,1 @@
+{"id":2112,"type":"multiple","difficulty":"hard","category":"Science: Gadgets","question":"Which of the following is used to measure blood pressure?","correct_answer":"Sphygmomanometer","incorrect_answers":["Barometer","Ruler","Haemoerythrometer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

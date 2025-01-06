@@ -1,0 +1,1 @@
+{"id":581,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In which state of America was the Fresh Prince of Bel-Air born and raised in?","correct_answer":"Pennsylvania","incorrect_answers":["Florida","California","New Jersey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

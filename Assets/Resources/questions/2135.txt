@@ -1,0 +1,1 @@
+{"id":2135,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"What animation studio produced &quot;Gurren Lagann&quot;?","correct_answer":"Gainax","incorrect_answers":["Kyoto Animation","Pierrot","A-1 Pictures"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

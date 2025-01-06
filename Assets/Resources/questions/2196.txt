@@ -1,0 +1,1 @@
+{"id":2196,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"The heroine of &quot;Humanity Has Declined&quot; is a mediator between humans and what?","correct_answer":"Fairies","incorrect_answers":["Elves","The Earth","Animals"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

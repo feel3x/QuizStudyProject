@@ -1,0 +1,1 @@
+{"id":609,"type":"boolean","difficulty":"easy","category":"Entertainment: Television","question":"In &quot;Star Trek&quot;, Klingons are aliens.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

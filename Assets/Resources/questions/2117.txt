@@ -1,0 +1,1 @@
+{"id":2117,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"Who was given the title &quot;Full Metal&quot; in the anime series &quot;Full Metal Alchemist&quot;?","correct_answer":"Edward Elric","incorrect_answers":["Alphonse Elric","Van Hohenheim","Izumi Curtis"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

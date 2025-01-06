@@ -1,0 +1,1 @@
+{"id":1622,"type":"multiple","difficulty":"easy","category":"History","question":"In what year did the Great Northern War, between Russia and Sweden, end?","correct_answer":"1721","incorrect_answers":["1726","1727","1724"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

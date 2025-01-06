@@ -1,0 +1,1 @@
+{"id":2255,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Who was the Director of the 1988 Anime film &quot;Grave of the Fireflies&quot;?","correct_answer":"Isao Takahata","incorrect_answers":["Hayao Miyazaki","Satoshi Kon","Sunao Katabuchi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

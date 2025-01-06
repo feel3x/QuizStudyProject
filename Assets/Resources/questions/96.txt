@@ -1,0 +1,1 @@
+{"id":96,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"The French word to travel is &quot;Travail&quot;","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

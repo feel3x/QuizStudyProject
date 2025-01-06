@@ -1,0 +1,1 @@
+{"id":2202,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"What sport is being played in the Anime Eyeshield 21?","correct_answer":"American Football","incorrect_answers":["Baseball","Football","Basketball"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

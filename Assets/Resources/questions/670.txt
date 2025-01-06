@@ -1,0 +1,1 @@
+{"id":670,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"On the NBC show Community what was Star Burns&#039; real name?","correct_answer":"Alex","incorrect_answers":["Todd","Neal","Grimus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

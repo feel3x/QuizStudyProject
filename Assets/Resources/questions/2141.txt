@@ -1,0 +1,1 @@
+{"id":2141,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"Who is the armored titan in &quot;Attack On Titan&quot;?","correct_answer":"Reiner Braun","incorrect_answers":["Armin Arlelt","Mikasa Ackermann","Eren Jaeger"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

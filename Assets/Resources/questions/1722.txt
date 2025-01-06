@@ -1,0 +1,1 @@
+{"id":1722,"type":"multiple","difficulty":"hard","category":"History","question":"Which is the hull NO. of the Fletcher class destroyer Fletcher?","correct_answer":"DD-445","incorrect_answers":["DD-992","DD-444","DD-446"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

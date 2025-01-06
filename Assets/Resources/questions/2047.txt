@@ -1,0 +1,1 @@
+{"id":2047,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In the Hellboy universe, who founded the BPRD?","correct_answer":"Trevor Bruttenholm","incorrect_answers":["Kate Corrigan","Johann Kraus","Benjamin Daimio"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

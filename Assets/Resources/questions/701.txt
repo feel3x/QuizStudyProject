@@ -1,0 +1,1 @@
+{"id":701,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"Prior to working at Wizards of the Coast, &quot;Mark Rosewater&quot; was a writer for which show?","correct_answer":"Roseanne","incorrect_answers":["Boy Meets World","The X-Files","NYPD Blue"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

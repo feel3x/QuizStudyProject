@@ -1,0 +1,1 @@
+{"id":279,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"When does &quot;Rogue One: A Star Wars Story&quot; take place chronologically in the series?","correct_answer":"Between Episode 3 and 4","incorrect_answers":["After Episode 6","Before Episode 1","Between Episode 4 and 5"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

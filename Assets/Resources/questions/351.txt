@@ -1,0 +1,1 @@
+{"id":351,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"In the movie &quot;Scream&quot; who is Ghost Face?","correct_answer":"Billy Loomis and Stu Macher","incorrect_answers":["Dewey Riley","Sidney Prescott","Archie Prescott and Philip Marv"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

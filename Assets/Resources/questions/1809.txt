@@ -1,0 +1,1 @@
+{"id":1809,"type":"multiple","difficulty":"medium","category":"Art","question":"Which artist&#039;s style was to use small different colored dots to create a picture?","correct_answer":"Georges Seurat","incorrect_answers":["Paul C&eacute;zanne","Vincent Van Gogh","Henri Rousseau"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

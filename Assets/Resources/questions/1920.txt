@@ -1,0 +1,1 @@
+{"id":1920,"type":"multiple","difficulty":"medium","category":"Animals","question":"What is the name of the family that the domestic cat is a member of?","correct_answer":"Felidae","incorrect_answers":["Felinae","Felis","Cat"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

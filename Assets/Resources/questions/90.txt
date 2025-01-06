@@ -1,0 +1,1 @@
+{"id":90,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"The term &quot;scientist&quot; was coined in which year?","correct_answer":"1833","incorrect_answers":["1933","1942","1796"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

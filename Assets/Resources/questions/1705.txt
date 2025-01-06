@@ -1,0 +1,1 @@
+{"id":1705,"type":"boolean","difficulty":"hard","category":"History","question":"The man that shot Alexander Hamilton was named Aaron Burr.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

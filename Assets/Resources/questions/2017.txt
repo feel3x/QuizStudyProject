@@ -1,0 +1,1 @@
+{"id":2017,"type":"multiple","difficulty":"hard","category":"Vehicles","question":"How much horsepower is produced by the SD40-2 Locomotive?","correct_answer":"3,000","incorrect_answers":["3,200","2,578","2,190"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

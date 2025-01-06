@@ -1,0 +1,1 @@
+{"id":1164,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?","correct_answer":"Cherry MX Blue","incorrect_answers":["Cherry MX Black","Cherry MX Red","Cherry MX Brown"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

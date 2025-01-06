@@ -1,0 +1,1 @@
+{"id":425,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Which band released songs suchs as &quot;Rio&quot;, &quot;Girls on Film&quot;, and &quot;The Reflex&quot;?","correct_answer":"Duran Duran","incorrect_answers":["The Cure","New Order","Depeche Mode"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

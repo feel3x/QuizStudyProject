@@ -1,0 +1,1 @@
+{"id":266,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"Han Solo&#039;s co-pilot and best friend, &quot;Chewbacca&quot;, is an Ewok.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

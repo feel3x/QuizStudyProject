@@ -1,0 +1,1 @@
+{"id":1575,"type":"multiple","difficulty":"hard","category":"Geography","question":"How many countries border Kyrgyzstan?","correct_answer":"4","incorrect_answers":["3","1","6"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

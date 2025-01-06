@@ -1,0 +1,1 @@
+{"id":103,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"How many calories are in a 355 ml can of Pepsi Cola?","correct_answer":"150","incorrect_answers":["200","100","155"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

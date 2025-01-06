@@ -1,0 +1,1 @@
+{"id":244,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"The novel &quot;Jane Eyre&quot; was written by what author? ","correct_answer":"Charlotte Bront&euml;","incorrect_answers":["Emily Bront&euml;","Jane Austen","Louisa May Alcott"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

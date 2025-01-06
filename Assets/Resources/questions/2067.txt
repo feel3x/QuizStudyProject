@@ -1,0 +1,1 @@
+{"id":2067,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In &quot;Sonic the Hedgehog&quot; comic, who was the creator of Roboticizer? ","correct_answer":"Professor Charles the Hedgehog","incorrect_answers":["Julian Robotnik","Ivo Robotnik","Snively Robotnik"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1834,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?","correct_answer":"Bullying","incorrect_answers":["Criminal Record","Nomination for Worst Actor","Racism"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

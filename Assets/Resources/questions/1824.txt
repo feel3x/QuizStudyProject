@@ -1,0 +1,1 @@
+{"id":1824,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"Aubrey Graham is better known as","correct_answer":"Drake","incorrect_answers":["Travis Scott","Lil Wayne","2 Chainz"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

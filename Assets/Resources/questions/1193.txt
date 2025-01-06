@@ -1,0 +1,1 @@
+{"id":1193,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Lenovo acquired IBM&#039;s personal computer division, including the ThinkPad line of laptops and tablets, in what year?","correct_answer":"2005","incorrect_answers":["1999","2002","2008"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

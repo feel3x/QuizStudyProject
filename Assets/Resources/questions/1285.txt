@@ -1,0 +1,1 @@
+{"id":1285,"type":"multiple","difficulty":"medium","category":"Mythology","question":"Which greek god/goddess tossed a golden apple with the words &quot;for the fairest&quot; into the middle of the feast of the gods?","correct_answer":"Eris","incorrect_answers":["Hades","Ares","Artemis"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

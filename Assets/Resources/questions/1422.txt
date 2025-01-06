@@ -1,0 +1,1 @@
+{"id":1422,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which year was the third Super Bowl held?","correct_answer":"1969","incorrect_answers":["1968","1971","1970"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

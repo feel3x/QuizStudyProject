@@ -1,0 +1,1 @@
+{"id":1397,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which country did Kabaddi, a contact sport involving tackling, originate from?","correct_answer":"India","incorrect_answers":["Australia","Turkey","Cambodia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

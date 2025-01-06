@@ -1,0 +1,1 @@
+{"id":680,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"What was the UK &quot;Who Wants to be a Millionaire?&quot; cheating scandal known as?","correct_answer":"Major Fraud","incorrect_answers":["Ingram Cheater","Coughing Major","Millionaire Crime"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

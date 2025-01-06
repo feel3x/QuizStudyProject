@@ -1,0 +1,1 @@
+{"id":83,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"A doctor with a PhD is a doctor of what?","correct_answer":"Philosophy","incorrect_answers":["Psychology","Phrenology","Physical Therapy"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

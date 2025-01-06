@@ -1,0 +1,1 @@
+{"id":2020,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"Who is Batman?","correct_answer":"Bruce Wayne","incorrect_answers":["Clark Kent","Barry Allen","Tony Stark"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

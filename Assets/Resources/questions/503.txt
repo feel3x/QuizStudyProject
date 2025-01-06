@@ -1,0 +1,1 @@
+{"id":503,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which member of the English band &quot;The xx&quot; released their solo album &quot;In Colour&quot; in 2015?","correct_answer":"Jamie xx","incorrect_answers":["Romy Madley Croft","Oliver Sim","Baria Qureshi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

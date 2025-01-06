@@ -1,0 +1,1 @@
+{"id":430,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?","correct_answer":"Justin Bieber","incorrect_answers":["Selena Gomez","Ellie Goulding","The Weeknd"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

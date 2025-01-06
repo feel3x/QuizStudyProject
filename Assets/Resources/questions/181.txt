@@ -1,0 +1,1 @@
+{"id":181,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"In the Lord of the Rings, who is the father of the dwarf Gimli?","correct_answer":"Gloin","incorrect_answers":["Thorin Oakenshield","Bombur","Dwalin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

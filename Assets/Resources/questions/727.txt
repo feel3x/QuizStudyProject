@@ -1,0 +1,1 @@
+{"id":727,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Who is the leader of Team Instinct in Pok&eacute;mon Go?","correct_answer":"Spark","incorrect_answers":["Candela","Blanche","Willow"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":347,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"In the movie &quot;Back to the Future,&quot; what speed does Doc Brown&#039;s DeLorean need to reach in order to travel through time?","correct_answer":"88 mph","incorrect_answers":["77 mph","100 mph","70 mph"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":255,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Who plays Alice in the Resident Evil movies?","correct_answer":"Milla Jovovich","incorrect_answers":["Madison Derpe","Milla Johnson","Kim Demp"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

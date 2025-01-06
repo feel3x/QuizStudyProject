@@ -1,0 +1,1 @@
+{"id":2119,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which anime heavily features music from the genre &quot;Eurobeat&quot;?","correct_answer":"Initial D","incorrect_answers":["Wangan Midnight","Kino no Tabi","Cowboy Bebop"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

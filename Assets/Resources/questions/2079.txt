@@ -1,0 +1,1 @@
+{"id":2079,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"When Batman trolls the online chat rooms, what alias does he use?","correct_answer":"JonDoe297","incorrect_answers":["iAmBatman","BWayne13","BW1129"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

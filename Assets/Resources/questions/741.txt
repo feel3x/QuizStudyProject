@@ -1,0 +1,1 @@
+{"id":741,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"In which series of games do you collect souls to empower you and buy weaponry and armor with?","correct_answer":"Souls ","incorrect_answers":["Final Fantasy ","Monster Hunter","The Legend of Zelda"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

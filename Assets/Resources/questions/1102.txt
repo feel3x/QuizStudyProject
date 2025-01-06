@@ -1,0 +1,1 @@
+{"id":1102,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"How many values can a single byte represent?","correct_answer":"256","incorrect_answers":["8","1","1024"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

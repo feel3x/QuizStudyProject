@@ -1,0 +1,1 @@
+{"id":1652,"type":"boolean","difficulty":"medium","category":"History","question":"Adolf Hitler was accepted into the Vienna Academy of Fine Arts.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

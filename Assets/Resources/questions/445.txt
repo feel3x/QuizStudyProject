@@ -1,0 +1,1 @@
+{"id":445,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Which Beatle led the way across the zebra crossing on the Abbey Road album cover?","correct_answer":"John","incorrect_answers":["Paul","George","Ringo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

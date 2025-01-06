@@ -1,0 +1,1 @@
+{"id":1721,"type":"multiple","difficulty":"hard","category":"History","question":"Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?","correct_answer":"Vistula-Oder Offensive","incorrect_answers":["Crimean Offensive","Leningrad-Novgorod Offensive","Operation Bagration"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

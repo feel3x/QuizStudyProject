@@ -1,0 +1,1 @@
+{"id":1872,"type":"boolean","difficulty":"easy","category":"Animals","question":"Cats have whiskers under their legs.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

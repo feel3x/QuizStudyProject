@@ -1,0 +1,1 @@
+{"id":856,"type":"boolean","difficulty":"easy","category":"Entertainment: Board Games","question":"The card game &quot;Munchkin&quot; won the 2001 Origins Award for Best Traditional Card Game.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

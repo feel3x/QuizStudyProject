@@ -1,0 +1,1 @@
+{"id":1096,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"In computing, what does LAN stand for?","correct_answer":"Local Area Network","incorrect_answers":["Long Antenna Node","Light Access Node","Land Address Navigation"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1616,"type":"multiple","difficulty":"easy","category":"History","question":"Abolitionist John Brown raided the arsenal in which Virginia Town?","correct_answer":"Harper&#039;s Ferry","incorrect_answers":["Richmond","Harrisonburg","Martinsburg"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

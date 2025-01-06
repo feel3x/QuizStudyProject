@@ -1,0 +1,1 @@
+{"id":952,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the primary addictive substance found in tobacco?","correct_answer":"Nicotine","incorrect_answers":["Cathinone","Ephedrine","Glaucine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

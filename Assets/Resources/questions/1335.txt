@@ -1,0 +1,1 @@
+{"id":1335,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which player holds the NHL record of 2,857 points?","correct_answer":"Wayne Gretzky","incorrect_answers":["Mario Lemieux ","Sidney Crosby","Gordie Howe"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":501,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"What was the name of the hip hop group Kanye West was a member of in the late 90s?","correct_answer":"The Go-Getters","incorrect_answers":["The Jumpers","The Kickstarters","The Beat-Busters"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1070,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"What does the computer software acronym JVM stand for?","correct_answer":"Java Virtual Machine","incorrect_answers":["Java Vendor Machine","Java Visual Machine","Just Virtual Machine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

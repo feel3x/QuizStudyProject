@@ -1,0 +1,1 @@
+{"id":367,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?","correct_answer":"Gunnar Hansen","incorrect_answers":["Edwin Neal","John Dugan","Joe Bill Hogan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

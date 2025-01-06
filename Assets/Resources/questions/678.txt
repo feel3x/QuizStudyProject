@@ -1,0 +1,1 @@
+{"id":678,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"Which of these Nickelodeon game shows aired first?","correct_answer":"Double Dare","incorrect_answers":["Nick Arcade","Finders Keepers","Nickelodeon Guts"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

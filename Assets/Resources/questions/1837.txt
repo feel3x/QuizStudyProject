@@ -1,0 +1,1 @@
+{"id":1837,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Which TV chef wrote an autobiography titled &quot;Humble Pie&quot;?","correct_answer":"Gordon Ramsay","incorrect_answers":["Jamie Oliver","Ainsley Harriott","Antony Worrall Thompson"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

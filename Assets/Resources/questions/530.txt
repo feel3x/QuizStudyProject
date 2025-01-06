@@ -1,0 +1,1 @@
+{"id":530,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"What is the name of the song by Beyonc&eacute; and Alejandro Fern&aacute;ndez released in 2007?","correct_answer":"Amor Gitano","incorrect_answers":["La ultima vez","Rocket","Hasta Dondes Estes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":822,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"Meryl Silverburgh, a video game character from the Metal Gear series, was originally a character in which game?","correct_answer":"Policenauts","incorrect_answers":["Gradius","Contra","Castlevania: Symphony of the Night"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

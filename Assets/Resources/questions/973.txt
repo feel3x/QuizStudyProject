@@ -1,0 +1,1 @@
+{"id":973,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"On the periodic table of elements, what is the symbol for Tin?","correct_answer":"Sn","incorrect_answers":["Ti","Ni","Na"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

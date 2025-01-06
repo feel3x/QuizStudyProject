@@ -1,0 +1,1 @@
+{"id":1225,"type":"boolean","difficulty":"medium","category":"Science: Mathematics","question":"The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

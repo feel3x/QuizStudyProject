@@ -1,0 +1,1 @@
+{"id":607,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"What Nickelodeon game show featured a house on the set that the contestants would ransack to find hidden objects?","correct_answer":"Finders Keepers","incorrect_answers":["Double Dare","Nickelodeon Guts","Nick Arcade"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

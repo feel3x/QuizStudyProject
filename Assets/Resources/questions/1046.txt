@@ -1,0 +1,1 @@
+{"id":1046,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"On the Beaufort Scale of wind force, what wind name is given to number 8?","correct_answer":"Gale","incorrect_answers":["Storm","Hurricane","Breeze"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

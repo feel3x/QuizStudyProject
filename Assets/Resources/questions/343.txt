@@ -1,0 +1,1 @@
+{"id":343,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"In which African country was the 2006 film &#039;Blood Diamond&#039; mostly set in?","correct_answer":"Sierra Leone","incorrect_answers":["Liberia","Burkina Faso","Central African Republic"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

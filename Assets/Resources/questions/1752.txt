@@ -1,0 +1,1 @@
+{"id":1752,"type":"boolean","difficulty":"medium","category":"Politics","question":"During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

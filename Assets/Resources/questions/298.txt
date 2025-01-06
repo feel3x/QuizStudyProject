@@ -1,0 +1,1 @@
+{"id":298,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

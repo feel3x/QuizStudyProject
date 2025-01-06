@@ -1,0 +1,1 @@
+{"id":1772,"type":"boolean","difficulty":"hard","category":"Politics","question":"Joko Widodo has appeared in the cover of a TIME magazine.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

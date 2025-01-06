@@ -1,0 +1,1 @@
+{"id":101,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Named after the mallow flower, mauve is a shade of what?","correct_answer":"Purple","incorrect_answers":["Red","Brown","Pink"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2248,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which one of these characters is from &quot;Legendz : Tale of the Dragon Kings&quot;?","correct_answer":"Shiron","incorrect_answers":["Jack","Axia","Drum"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

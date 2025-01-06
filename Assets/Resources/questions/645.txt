@@ -1,0 +1,1 @@
+{"id":645,"type":"boolean","difficulty":"medium","category":"Entertainment: Television","question":"In &quot;Star Trek&quot;, Klingons respect William Shakespeare, they even suspect him having a Klingon lineage.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

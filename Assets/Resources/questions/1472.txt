@@ -1,0 +1,1 @@
+{"id":1472,"type":"multiple","difficulty":"easy","category":"Geography","question":"The longest shared border in the world can be found between which two nations?","correct_answer":"Canada and the United States","incorrect_answers":["Chile and Argentina","Russia and China","India and Pakistan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

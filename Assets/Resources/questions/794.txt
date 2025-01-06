@@ -1,0 +1,1 @@
+{"id":794,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In The Elder Scrolls V: Skyrim, who is the jester in the dark brotherhood?","correct_answer":"Cicero","incorrect_answers":["Lucien Lachance","Archimedes","Astrid"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

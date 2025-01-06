@@ -1,0 +1,1 @@
+{"id":2289,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"What was the name of the sea witch in the 1989 Disney film &quot;The Little Mermaid&quot;?","correct_answer":"Ursula","incorrect_answers":["Madam Mim","Maleficent","Lady Tremaine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

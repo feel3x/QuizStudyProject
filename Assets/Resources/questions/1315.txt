@@ -1,0 +1,1 @@
+{"id":1315,"type":"multiple","difficulty":"easy","category":"Sports","question":"What team won the 2016 MLS Cup?","correct_answer":"Seattle Sounders","incorrect_answers":["Colorado Rapids","Toronto FC","Montreal Impact"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

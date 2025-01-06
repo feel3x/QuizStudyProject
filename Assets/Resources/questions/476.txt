@@ -1,0 +1,1 @@
+{"id":476,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"EDM producer Marshmello performs live wearing clothes and a marshmallow mask of what colour?","correct_answer":"White","incorrect_answers":["Black","Blue","Yellow"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

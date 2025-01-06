@@ -1,0 +1,1 @@
+{"id":327,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Which of the following actors does not play a role in the movie &quot;The Usual Suspects?&quot;","correct_answer":"Steve Buscemi","incorrect_answers":["Kevin Spacey","Benicio Del Toro","Gabriel Byrne"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

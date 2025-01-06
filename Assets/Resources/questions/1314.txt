@@ -1,0 +1,1 @@
+{"id":1314,"type":"multiple","difficulty":"easy","category":"Sports","question":"What team did England beat to win in the 1966 World Cup final?","correct_answer":"West Germany","incorrect_answers":["Soviet Union","Portugal","Brazil"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

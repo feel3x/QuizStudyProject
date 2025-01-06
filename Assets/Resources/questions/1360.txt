@@ -1,0 +1,1 @@
+{"id":1360,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which country is hosting the 2022 FIFA World Cup?","correct_answer":"Qatar","incorrect_answers":["Uganda","Vietnam","Bolivia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

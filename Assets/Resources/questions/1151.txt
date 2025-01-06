@@ -1,0 +1,1 @@
+{"id":1151,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"What does AD stand for in relation to Windows Operating Systems? ","correct_answer":"Active Directory","incorrect_answers":["Alternative Drive","Automated Database","Active Department"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

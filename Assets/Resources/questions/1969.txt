@@ -1,0 +1,1 @@
+{"id":1969,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which car brand does NOT belong to General Motors?","correct_answer":"Ford","incorrect_answers":["Buick","Cadillac","Chevrolet"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

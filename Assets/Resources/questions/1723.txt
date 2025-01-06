@@ -1,0 +1,1 @@
+{"id":1723,"type":"multiple","difficulty":"hard","category":"History","question":"The ontological argument for the proof of God&#039;s existence is first attributed to whom?","correct_answer":"Anselm of Canterbury","incorrect_answers":["Ren&eacute; Descartes","Immanuel Kant","Aristotle"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

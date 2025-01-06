@@ -1,0 +1,1 @@
+{"id":431,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Kanye West at 2009 VMA&#039;s interrupted which celebrity?","correct_answer":"Taylor Swift","incorrect_answers":["MF DOOM","Beyonce","Beck"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

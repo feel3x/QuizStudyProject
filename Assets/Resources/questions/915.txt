@@ -1,0 +1,1 @@
+{"id":915,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the unit of electrical resistance?","correct_answer":"Ohm","incorrect_answers":["Mho","Tesla","Joule"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

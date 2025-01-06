@@ -1,0 +1,1 @@
+{"id":1357,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which driver has been the Formula 1 world champion for a record 7 times?","correct_answer":"Michael Schumacher","incorrect_answers":["Ayrton Senna","Fernando Alonso","Jim Clark"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":864,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"When was the board game Twister, released to the public?","correct_answer":"April 1966","incorrect_answers":["September 1965","January 1969","February 1966"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

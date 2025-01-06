@@ -1,0 +1,1 @@
+{"id":1003,"type":"boolean","difficulty":"medium","category":"Science &amp; Nature","question":"The most frequent subconscious activity repeated by the human body is blinking.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

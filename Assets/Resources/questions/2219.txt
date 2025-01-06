@@ -1,0 +1,1 @@
+{"id":2219,"type":"boolean","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the &quot;To Love-Ru&quot; series, Peke is considered a female robot.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

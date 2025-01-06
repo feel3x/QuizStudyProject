@@ -1,0 +1,1 @@
+{"id":243,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"In the Harry Potter universe, what is Cornelius Fudge&#039;s middle name?","correct_answer":"Oswald","incorrect_answers":["James","Harold","Christopher"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

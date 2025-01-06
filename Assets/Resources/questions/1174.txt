@@ -1,0 +1,1 @@
+{"id":1174,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"According to DeMorgan&#039;s Theorem, the Boolean expression (AB)&#039; is equivalent to:","correct_answer":"A&#039; + B&#039;","incorrect_answers":["A&#039;B + B&#039;A","A&#039;B&#039;","AB&#039; + AB"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

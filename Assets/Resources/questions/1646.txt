@@ -1,0 +1,1 @@
+{"id":1646,"type":"multiple","difficulty":"medium","category":"History","question":"Who was the first explorer to sail to North America?","correct_answer":"Leif Erikson","incorrect_answers":["Christopher Columbus","Amerigo Vespucci","Ferdinand Magellan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

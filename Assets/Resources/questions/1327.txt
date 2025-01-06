@@ -1,0 +1,1 @@
+{"id":1327,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which city did the former NHL team &quot;The Nordiques&quot; originiate from?","correct_answer":"Quebec City","incorrect_answers":["Houston","Montreal","New York"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2234,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which animation studio produced the anime adaptation of &quot;xxxHolic&quot;?","correct_answer":"Production I.G","incorrect_answers":["Sunrise","Xebec","Kyoto Animation"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

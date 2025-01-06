@@ -1,0 +1,1 @@
+{"id":671,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"How many seasons did the TV show &quot;Donkey Kong Country&quot; last?","correct_answer":"2","incorrect_answers":["1","4","5"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":412,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Who is the lead singer of Foo Fighters?","correct_answer":"Dave Grohl","incorrect_answers":["Dave Mustaine","James Hetfield","Little Red Riding Hood"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

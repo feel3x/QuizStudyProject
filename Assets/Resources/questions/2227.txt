@@ -1,0 +1,1 @@
+{"id":2227,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In what year did the manga &quot;Ping Pong&quot; begin serialization?","correct_answer":"1996","incorrect_answers":["2014","2010","2003"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

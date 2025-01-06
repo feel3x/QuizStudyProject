@@ -1,0 +1,1 @@
+{"id":196,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"Which of the following is not a work authored by Fyodor Dostoevsky?","correct_answer":"Anna Karenina","incorrect_answers":["Notes from the Underground","Crime and Punishment","The Brothers Karamazov"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

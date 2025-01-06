@@ -1,0 +1,1 @@
+{"id":672,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In the TV series &quot;Person of Interest&quot;, who plays the character &quot;Harold Finch&quot;?","correct_answer":"Michael Emerson","incorrect_answers":["Jim Caviezel","Taraji P. Henson","Kevin Chapman"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

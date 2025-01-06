@@ -1,0 +1,1 @@
+{"id":1310,"type":"multiple","difficulty":"easy","category":"Sports","question":"Who won the 2016 Formula 1 World Driver&#039;s Championship?","correct_answer":"Nico Rosberg","incorrect_answers":["Lewis Hamilton","Max Verstappen","Kimi Raikkonen"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

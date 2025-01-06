@@ -1,0 +1,1 @@
+{"id":599,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?","correct_answer":"5","incorrect_answers":["10","2","7"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1674,"type":"multiple","difficulty":"medium","category":"History","question":"Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?","correct_answer":"Harry S. Truman","incorrect_answers":["Dwight D. Eisenhower","Franklin D. Roosevelt","Herbert Hoover"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

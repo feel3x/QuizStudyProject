@@ -1,0 +1,1 @@
+{"id":854,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"On a standard Monopoly board, which square is diagonally opposite &#039;Go&#039;? ","correct_answer":"Free Parking","incorrect_answers":["Go to Jail","Jail","The Electric Company"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

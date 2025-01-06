@@ -1,0 +1,1 @@
+{"id":102,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"What is the romanized Arabic word for &quot;moon&quot;?","correct_answer":"Qamar","incorrect_answers":["Najma","Kawkab","Shams"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

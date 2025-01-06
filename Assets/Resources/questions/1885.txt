@@ -1,0 +1,1 @@
+{"id":1885,"type":"multiple","difficulty":"easy","category":"Animals","question":"What is the name of a rabbit&#039;s abode?","correct_answer":"Burrow","incorrect_answers":["Nest","Den","Dray"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

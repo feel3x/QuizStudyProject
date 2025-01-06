@@ -1,0 +1,1 @@
+{"id":274,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"In Alfred Hitchcock&#039;s film &#039;Psycho&#039; it is said he used chocolate syrup to simulate the blood in the famous shower scene from ","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":790,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In the &quot;Call Of Duty: Zombies&quot; map &quot;Origins&quot;, how many steps are there to upgrade a Staff?","correct_answer":"4","incorrect_answers":["7","5","3"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

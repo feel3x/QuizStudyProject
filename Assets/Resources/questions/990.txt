@@ -1,0 +1,1 @@
+{"id":990,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Which planet did the &quot;Viking 1&quot; spacecraft send surface images of, starting in 1976?","correct_answer":"Mars","incorrect_answers":["Saturn","Jupiter","Venus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

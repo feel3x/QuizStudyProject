@@ -1,0 +1,1 @@
+{"id":130,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Which of the following is an existing family in &quot;The Sims&quot;?","correct_answer":"The Goth Family","incorrect_answers":["The Family","The Simoleon Family","The Proud Family"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

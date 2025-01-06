@@ -1,0 +1,1 @@
+{"id":61,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"There are 86400 seconds in a day.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

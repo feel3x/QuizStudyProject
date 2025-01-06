@@ -1,0 +1,1 @@
+{"id":449,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?","correct_answer":"Can&#039;t Help Falling in Love","incorrect_answers":["Jailhouse Rock","In the Ghetto","Wooden Heart"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1692,"type":"multiple","difficulty":"hard","category":"History","question":"In the year 1900, what were the most popular first names given to boy and girl babies born in the United States?","correct_answer":"John and Mary","incorrect_answers":["Joseph and Catherine","William and Elizabeth","George and Anne"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

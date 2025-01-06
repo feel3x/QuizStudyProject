@@ -1,0 +1,1 @@
+{"id":2088,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"Which buzzword did Apple Inc. use to describe their removal of the headphone jack?","correct_answer":"Courage","incorrect_answers":["Innovation","Revolution","Bravery"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

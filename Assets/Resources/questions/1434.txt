@@ -1,0 +1,1 @@
+{"id":1434,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the capital of Scotland?","correct_answer":"Edinburgh","incorrect_answers":["Glasgow","Dundee","London"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

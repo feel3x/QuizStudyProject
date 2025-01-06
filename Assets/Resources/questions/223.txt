@@ -1,0 +1,1 @@
+{"id":223,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?","correct_answer":"Ulgrotha","incorrect_answers":["Bant","Llanowar","Tazeem"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

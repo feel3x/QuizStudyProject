@@ -1,0 +1,1 @@
+{"id":1758,"type":"multiple","difficulty":"medium","category":"Politics","question":"Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?","correct_answer":"Nikita Khrushchev","incorrect_answers":["Leonid Brezhnev","Mikhail Gorbachev","Boris Yeltsin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2332,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"The stop motion comedy show &quot;Robot Chicken&quot; was created by which of the following?","correct_answer":"Seth Green","incorrect_answers":["Seth MacFarlane","Seth Rogen","Seth Rollins"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

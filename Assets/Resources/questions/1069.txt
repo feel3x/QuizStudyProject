@@ -1,0 +1,1 @@
+{"id":1069,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"What is the domain name for the country Tuvalu?","correct_answer":".tv","incorrect_answers":[".tu",".tt",".tl"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

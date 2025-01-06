@@ -1,0 +1,1 @@
+{"id":1717,"type":"multiple","difficulty":"hard","category":"History","question":"How many women joined the United States Armed Services during World War II?","correct_answer":"350,000","incorrect_answers":["225,000","100,000","500,000"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

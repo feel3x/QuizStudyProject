@@ -1,0 +1,1 @@
+{"id":1730,"type":"multiple","difficulty":"easy","category":"Politics","question":"Whose 2016 presidential campaign slogan was &quot;Make America Great Again&quot;?","correct_answer":"Donald Trump","incorrect_answers":["Ted Cruz","Marco Rubio","Bernie Sanders"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

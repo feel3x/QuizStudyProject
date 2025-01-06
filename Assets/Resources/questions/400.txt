@@ -1,0 +1,1 @@
+{"id":400,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"&quot;Hallelujah&quot; is a song written by which Canadian recording artist?","correct_answer":"Leonard Cohen","incorrect_answers":["Kory Lefkowits","Ryan Letourneau ","Justin Bieber "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

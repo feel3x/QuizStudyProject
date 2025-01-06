@@ -1,0 +1,1 @@
+{"id":460,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"What is the opening track on Lorde&#039;s Pure Heroine?","correct_answer":"Tennis Court","incorrect_answers":["Team","Royals","400 Lux"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

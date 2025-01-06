@@ -1,0 +1,1 @@
+{"id":1125,"type":"boolean","difficulty":"medium","category":"Science: Computers","question":"Linus Sebastian is the creator of the Linux kernel, which went on to be used in Linux, Android, and Chrome OS.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

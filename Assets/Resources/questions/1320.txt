@@ -1,0 +1,1 @@
+{"id":1320,"type":"multiple","difficulty":"easy","category":"Sports","question":"Who won the UEFA Champions League in 2016?","correct_answer":"Real Madrid C.F.","incorrect_answers":["FC Bayern Munich","Atletico Madrid","Manchester City F.C."],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

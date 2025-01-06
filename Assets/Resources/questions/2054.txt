@@ -1,0 +1,1 @@
+{"id":2054,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In Calvin and Hobbes, what is the name of Susie&#039;s stuffed rabbit?","correct_answer":"Mr. Bun","incorrect_answers":["Mr. Bunbun","Mr. Rabbit","Mr. Hoppy"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1383,"type":"multiple","difficulty":"medium","category":"Sports","question":"What is Tiger Woods&#039; all-time best career golf-score?","correct_answer":"61","incorrect_answers":["65","63","67"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

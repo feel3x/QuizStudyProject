@@ -1,0 +1,1 @@
+{"id":1398,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which Formula One driver was nicknamed &#039;The Professor&#039;?","correct_answer":"Alain Prost","incorrect_answers":["Ayrton Senna","Niki Lauda","Emerson Fittipaldi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

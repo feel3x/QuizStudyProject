@@ -1,0 +1,1 @@
+{"id":125,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?","correct_answer":"India","incorrect_answers":["Papua New Guinea","Ethiopia","China"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

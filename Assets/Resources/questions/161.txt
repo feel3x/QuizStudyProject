@@ -1,0 +1,1 @@
+{"id":161,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?","correct_answer":"A Study in Scarlet","incorrect_answers":["The Sign of the Four","A Case of Identity","The Doings of Raffles Haw"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

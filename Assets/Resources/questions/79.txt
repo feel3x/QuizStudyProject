@@ -1,0 +1,1 @@
+{"id":79,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"The sum of all the numbers on a roulette wheel is 666.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

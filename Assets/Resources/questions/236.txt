@@ -1,0 +1,1 @@
+{"id":236,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"Which fictional English county was the setting for Thomas Hardy&#039;s novels?","correct_answer":"Wessex","incorrect_answers":["Barsetshire","Fulchester","Ambridge"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

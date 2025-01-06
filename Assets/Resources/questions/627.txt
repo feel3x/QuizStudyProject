@@ -1,0 +1,1 @@
+{"id":627,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"The 1985 Toyota Corolla &quot;AE86&quot; was the hero car for what anime? ","correct_answer":"Initial D","incorrect_answers":["Wangan Midnight","Ghost MF","Ex Driver"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

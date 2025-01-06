@@ -1,0 +1,1 @@
+{"id":1051,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"What is the scientific name of the knee cap?","correct_answer":"Patella","incorrect_answers":["Femur","Foramen Magnum","Scapula"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":467,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Who is the lead singer of Bastille?","correct_answer":"Dan Smith","incorrect_answers":["Will Farquarson","Kyle Simmons","Chris Wood"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

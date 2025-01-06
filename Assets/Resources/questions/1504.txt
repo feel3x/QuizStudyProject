@@ -1,0 +1,1 @@
+{"id":1504,"type":"multiple","difficulty":"medium","category":"Geography","question":"Which of the following countries is within the Eurozone but outside of the Schengen Area?","correct_answer":"Cyprus","incorrect_answers":["Malta","Greece","Portugal"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

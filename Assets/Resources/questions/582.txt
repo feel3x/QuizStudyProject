@@ -1,0 +1,1 @@
+{"id":582,"type":"boolean","difficulty":"easy","category":"Entertainment: Television","question":"In &quot;Star Trek&quot;, Klaang is a typical Klingon male.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

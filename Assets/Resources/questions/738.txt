@@ -1,0 +1,1 @@
+{"id":738,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"How many flagship monsters appear in Monster Hunter Gernerations?","correct_answer":"4","incorrect_answers":["1","2","3"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

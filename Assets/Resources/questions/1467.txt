@@ -1,0 +1,1 @@
+{"id":1467,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the nickname for the US state Delaware?","correct_answer":"The First State","incorrect_answers":["The Fiftieth State","The Second State","The Sixteenth State"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

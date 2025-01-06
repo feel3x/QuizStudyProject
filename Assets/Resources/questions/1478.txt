@@ -1,0 +1,1 @@
+{"id":1478,"type":"boolean","difficulty":"medium","category":"Geography","question":"Vietnam is the only country in the world that starts with V. ","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

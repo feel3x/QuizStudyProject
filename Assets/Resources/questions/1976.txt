@@ -1,0 +1,1 @@
+{"id":1976,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which of these car models are produced by Lamborghini?","correct_answer":"Aventador","incorrect_answers":["Huayra","918","Chiron"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

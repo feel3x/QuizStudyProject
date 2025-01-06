@@ -1,0 +1,1 @@
+{"id":1668,"type":"multiple","difficulty":"medium","category":"History","question":"What was the name of one of the surviving palaces of Henry VIII located near Richmond, London?","correct_answer":"Hampton Court","incorrect_answers":["St James&#039;s Palace","Buckingham Palace","Coughton Court"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

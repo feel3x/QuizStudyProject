@@ -1,0 +1,1 @@
+{"id":1278,"type":"multiple","difficulty":"medium","category":"Mythology","question":"Which of these Roman gods doesn&#039;t have a counterpart in Greek mythology?","correct_answer":"Janus","incorrect_answers":["Vulcan","Juno","Mars"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

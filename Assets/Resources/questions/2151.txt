@@ -1,0 +1,1 @@
+{"id":2151,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the anime Seven Deadly Sins what is the name of one of the sins?","correct_answer":"Diane","incorrect_answers":["Sakura","Ayano","Sheska"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

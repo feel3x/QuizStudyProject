@@ -1,0 +1,1 @@
+{"id":550,"type":"multiple","difficulty":"easy","category":"Entertainment: Musicals &amp; Theatres","question":"Which Shakespeare play inspired the musical &#039;West Side Story&#039;?","correct_answer":"Romeo &amp; Juliet","incorrect_answers":["Hamlet","Macbeth","Othello"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

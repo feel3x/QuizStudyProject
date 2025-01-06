@@ -1,0 +1,1 @@
+{"id":1477,"type":"multiple","difficulty":"easy","category":"Geography","question":"Which US state has the highest population?","correct_answer":"California","incorrect_answers":["New York","Texas","Florida"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":869,"type":"boolean","difficulty":"easy","category":"Entertainment: Board Games","question":"&quot;PAYDAY: The Heist&quot; is a sequel to the board game &quot;Payday&quot;.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

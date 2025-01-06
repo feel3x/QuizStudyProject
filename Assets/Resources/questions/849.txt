@@ -1,0 +1,1 @@
+{"id":849,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"Which of these Generation 1 Pokemon did NOT have an evolution in Generation 4?","correct_answer":"Jynx","incorrect_answers":["Electabuzz","Magmar","Rhydon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

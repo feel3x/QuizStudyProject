@@ -1,0 +1,1 @@
+{"id":151,"type":"boolean","difficulty":"easy","category":"Entertainment: Books","question":"&quot;Green Eggs and Ham&quot; consists of only 50 different words.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

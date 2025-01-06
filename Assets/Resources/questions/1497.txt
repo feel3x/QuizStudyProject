@@ -1,0 +1,1 @@
+{"id":1497,"type":"multiple","difficulty":"medium","category":"Geography","question":"What is the capital of Peru?","correct_answer":"Lima","incorrect_answers":["Santiago","Montevideo","Buenos Aires"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

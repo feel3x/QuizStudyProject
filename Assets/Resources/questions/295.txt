@@ -1,0 +1,1 @@
+{"id":295,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"The film &quot;2001: A Space Odyssey&quot; was released on December 31st, 2000.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1028,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which of these chemical compounds is NOT found in gastric acid?","correct_answer":"Sulfuric acid","incorrect_answers":["Hydrochloric acid","Potassium chloride","Sodium chloride"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":507,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"The key of sharps does the key of G# minor contain?","correct_answer":"5","incorrect_answers":["3","7","0"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

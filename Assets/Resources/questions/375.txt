@@ -1,0 +1,1 @@
+{"id":375,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"In 2012, which movie won every category in the 32nd &quot;Golden Raspberry Awards&quot;?","correct_answer":"Jack and Jill","incorrect_answers":["The Girl with the Dragon Tattoo","Thor","The King&#039;s Speech"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

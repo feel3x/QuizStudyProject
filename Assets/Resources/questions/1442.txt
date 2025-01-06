@@ -1,0 +1,1 @@
+{"id":1442,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the capital of Jamaica?","correct_answer":"Kingston","incorrect_answers":["San Juan","Port-au-Prince","Bridgetown"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

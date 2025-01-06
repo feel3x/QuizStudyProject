@@ -1,0 +1,1 @@
+{"id":2287,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Which Teenage Mutant Ninja Turtle traditionally wears an orange bandana?","correct_answer":"Michelangelo","incorrect_answers":["Leonardo","Donatello","Raphael"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

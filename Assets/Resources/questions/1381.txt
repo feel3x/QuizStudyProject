@@ -1,0 +1,1 @@
+{"id":1381,"type":"multiple","difficulty":"medium","category":"Sports","question":"What national team won the 2016 edition of UEFA European Championship?","correct_answer":"Portugal","incorrect_answers":["France","Germany","England"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":365,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What was the wifi password given to Stephen Strange in Doctor Strange?","correct_answer":"Shambala","incorrect_answers":["Peace","Ancient","Chakra"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

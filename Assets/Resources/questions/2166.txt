@@ -1,0 +1,1 @@
+{"id":2166,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;JoJo&#039;s Bizzare Adventure: Stardust Crusaders&quot;, what is the last name of the protagonist Jotaro?","correct_answer":"Kujo","incorrect_answers":["Cujoh","Joestar","Higashikata"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

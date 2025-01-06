@@ -1,0 +1,1 @@
+{"id":2106,"type":"multiple","difficulty":"medium","category":"Science: Gadgets","question":"In what year was the Oculus Rift revealed to the public through a Kickstarter campaign?","correct_answer":"2012","incorrect_answers":["2010","2011","2013"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

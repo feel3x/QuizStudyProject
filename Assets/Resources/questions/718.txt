@@ -1,0 +1,1 @@
+{"id":718,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"What is the name of the adventurer you meet at the mines in Stardew Valley?","correct_answer":"Marlon","incorrect_answers":["Marnie","Morris","Marvin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

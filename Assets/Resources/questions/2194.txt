@@ -1,0 +1,1 @@
+{"id":2194,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which Japanese music group was formed to produce theme music for the anime &quot;Guilty Crown&quot;?","correct_answer":"Egoist","incorrect_answers":["Goose house","Babymetal","Garnidelia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

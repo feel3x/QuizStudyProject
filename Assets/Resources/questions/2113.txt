@@ -1,0 +1,1 @@
+{"id":2113,"type":"multiple","difficulty":"hard","category":"Science: Gadgets","question":"Which of the following is the standard THX subwoofer crossover frequency?","correct_answer":"80 Hz","incorrect_answers":["70 Hz","90 Hz","100 Hz"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

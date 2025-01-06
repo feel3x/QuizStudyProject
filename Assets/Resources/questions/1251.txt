@@ -1,0 +1,1 @@
+{"id":1251,"type":"boolean","difficulty":"hard","category":"Science: Mathematics","question":"L&#039;H&ocirc;pital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

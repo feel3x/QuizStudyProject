@@ -1,0 +1,1 @@
+{"id":769,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which of these Counter-Strike maps is a bomb defuse scenario?","correct_answer":"Prodigy","incorrect_answers":["747","Havana","Oilrig"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

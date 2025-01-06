@@ -1,0 +1,1 @@
+{"id":1693,"type":"boolean","difficulty":"hard","category":"History","question":"The fourth funnel of the RMS Titanic was fake designed to make the ship look more powerful and symmetrical.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

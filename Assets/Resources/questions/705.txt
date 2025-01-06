@@ -1,0 +1,1 @@
+{"id":705,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which Mario spin-off game did Waluigi make his debut?","correct_answer":"Mario Tennis","incorrect_answers":["Mario Party 3","Mario Kart: Double Dash!!","Mario Golf: Toadstool Tour"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

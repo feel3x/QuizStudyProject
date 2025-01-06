@@ -1,0 +1,1 @@
+{"id":1334,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which country hosted the 2022 FIFA World Cup?","correct_answer":"Qatar","incorrect_answers":["USA","Japan","Switzerland"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

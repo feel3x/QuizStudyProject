@@ -1,0 +1,1 @@
+{"id":775,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which pop singer was brought in by SEGA to produce the music for &quot;Sonic the Hedgehog 3&quot;?","correct_answer":"Michael Jackson ","incorrect_answers":["Prince","George Michael","Vanilla Ice "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

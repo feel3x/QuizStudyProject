@@ -1,0 +1,1 @@
+{"id":2320,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"What Cartoon Network show aired its first episode on November 4th, 2013?","correct_answer":"Steven Universe","incorrect_answers":["Regular Show","Adventure Time","The Amazing World of Gumball"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

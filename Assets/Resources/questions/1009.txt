@@ -1,0 +1,1 @@
+{"id":1009,"type":"boolean","difficulty":"medium","category":"Science &amp; Nature","question":"The Doppler effect applies to light.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

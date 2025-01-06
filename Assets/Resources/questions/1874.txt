@@ -1,0 +1,1 @@
+{"id":1874,"type":"multiple","difficulty":"easy","category":"Animals","question":"The Kākāpō is a large, flightless, nocturnal parrot native to which country?","correct_answer":"New Zealand","incorrect_answers":["South Africa","Australia","Madagascar"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

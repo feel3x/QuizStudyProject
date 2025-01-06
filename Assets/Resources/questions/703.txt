@@ -1,0 +1,1 @@
+{"id":703,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which character in the &quot;Animal Crossing&quot; series uses the phrase &quot;zip zoom&quot; when talking to the player?","correct_answer":"Scoot","incorrect_answers":["Drake","Bill","Mallary"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

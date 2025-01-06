@@ -1,0 +1,1 @@
+{"id":1961,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"Jaguar Cars was previously owned by which car manfacturer?","correct_answer":"Ford","incorrect_answers":["Chrysler","General Motors","Fiat"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

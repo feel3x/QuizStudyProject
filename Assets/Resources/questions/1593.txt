@@ -1,0 +1,1 @@
+{"id":1593,"type":"multiple","difficulty":"easy","category":"History","question":"How many manned moon landings have there been?","correct_answer":"6","incorrect_answers":["1","3","7"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

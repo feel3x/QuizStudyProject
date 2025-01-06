@@ -1,0 +1,1 @@
+{"id":1699,"type":"multiple","difficulty":"hard","category":"History","question":"Who was the President of the United States during the signing of the Gadsden Purchase?","correct_answer":"Franklin Pierce","incorrect_answers":["Andrew Johnson","Abraham Lincoln","James Polk"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

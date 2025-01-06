@@ -1,0 +1,1 @@
+{"id":1918,"type":"boolean","difficulty":"medium","category":"Animals","question":"Tigers have one colour of skin despite the stripey fur.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

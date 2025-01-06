@@ -1,0 +1,1 @@
+{"id":1317,"type":"multiple","difficulty":"easy","category":"Sports","question":"In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?","correct_answer":"4","incorrect_answers":["1","2","3"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

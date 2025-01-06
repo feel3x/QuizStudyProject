@@ -1,0 +1,1 @@
+{"id":1189,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Who invented the &quot;Spanning Tree Protocol&quot;?","correct_answer":"Radia Perlman","incorrect_answers":["Paul Vixie","Vint Cerf","Michael Roberts"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

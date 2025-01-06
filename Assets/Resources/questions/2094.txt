@@ -1,0 +1,1 @@
+{"id":2094,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"Which virtual assistant is developed by Amazon?","correct_answer":"Alexa","incorrect_answers":["Google Assistant","Siri","Cortana"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

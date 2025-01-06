@@ -1,0 +1,1 @@
+{"id":729,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which Animal Crossing game was for the Nintendo Wii?","correct_answer":"Animal Crossing: City Folk","incorrect_answers":["Animal Crossing: New Leaf","Animal Crossing: Wild World","Animal Crossing: Population Growing!"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

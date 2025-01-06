@@ -1,0 +1,1 @@
+{"id":580,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"The HBO series &quot;Game of Thrones&quot; is based on which series of books?","correct_answer":"A Song of Ice and Fire","incorrect_answers":["The Wheel of Time","Harry Potter","The Notebook"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

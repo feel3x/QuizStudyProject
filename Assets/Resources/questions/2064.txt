@@ -1,0 +1,1 @@
+{"id":2064,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"What is the real name of the &quot;Master Of Magnetism&quot; Magneto?","correct_answer":"Max Eisenhardt","incorrect_answers":["Charles Xavier","Pietro Maximoff","Johann Schmidt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

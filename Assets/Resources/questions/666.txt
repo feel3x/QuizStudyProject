@@ -1,0 +1,1 @@
+{"id":666,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"What breed of dog is &quot;Scooby Doo&quot;?","correct_answer":"Great Dane","incorrect_answers":["Pit bull","Boxer","Doberman Pinscher"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

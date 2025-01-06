@@ -1,0 +1,1 @@
+{"id":313,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"What is the name of the robot in the 1951 science fiction film classic &#039;The Day the Earth Stood Still&#039;?","correct_answer":"Gort","incorrect_answers":["Robby","Colossus","Box"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

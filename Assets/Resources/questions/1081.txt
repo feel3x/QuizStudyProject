@@ -1,0 +1,1 @@
+{"id":1081,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"What amount of bits commonly equals one byte?","correct_answer":"8","incorrect_answers":["1","2","64"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

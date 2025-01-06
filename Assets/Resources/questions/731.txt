@@ -1,0 +1,1 @@
+{"id":731,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"&quot;The Potato Sack&quot; was a collection of indie games released on Steam in 2011 as a promotion for which game?","correct_answer":"Portal 2","incorrect_answers":["Left 4 Dead 2","Half-Life 3","Dota 2"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

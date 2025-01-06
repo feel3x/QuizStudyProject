@@ -1,0 +1,1 @@
+{"id":970,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Deuterium is an isotope of which element?","correct_answer":"Hydrogen","incorrect_answers":["Nitrogen","Helium","Neon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

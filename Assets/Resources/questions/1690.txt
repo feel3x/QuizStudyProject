@@ -1,0 +1,1 @@
+{"id":1690,"type":"multiple","difficulty":"hard","category":"History","question":"Which naval battle was considered the turning point of the Pacific Ocean Theater during World War 2?","correct_answer":"Battle of Midway","incorrect_answers":["Attack on Truk Island","Attack on Pearl Harbor","Battle of the Coral Sea"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

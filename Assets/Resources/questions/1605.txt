@@ -1,0 +1,1 @@
+{"id":1605,"type":"multiple","difficulty":"easy","category":"History","question":"Which modern country is known as &quot;The Graveyard of Empires&quot;?","correct_answer":"Afghanistan","incorrect_answers":["China","Iraq","Russia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

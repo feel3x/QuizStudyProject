@@ -1,0 +1,1 @@
+{"id":540,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"The heavy metal band Black Sabbath hail from which English city?","correct_answer":"Birmingham","incorrect_answers":["Manchester","London","Newcastle-Upon-Tyne"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

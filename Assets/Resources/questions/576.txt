@@ -1,0 +1,1 @@
+{"id":576,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In the show &quot;Dragonball Z&quot;, what is the name of Cell&#039;s most powerful attack?","correct_answer":"Solar Kamehameha","incorrect_answers":["Super Kamehameha","Cell Kamehameha","Android Kamehameha"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

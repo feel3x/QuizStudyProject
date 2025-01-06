@@ -1,0 +1,1 @@
+{"id":1906,"type":"multiple","difficulty":"medium","category":"Animals","question":"For what reason would a spotted hyena &quot;laugh&quot;?","correct_answer":"Nervousness","incorrect_answers":["Excitement","Aggression","Exhaustion"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

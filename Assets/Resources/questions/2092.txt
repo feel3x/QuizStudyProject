@@ -1,0 +1,1 @@
+{"id":2092,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"Which of the following is not a type of computer mouse?","correct_answer":"Smoothie mouse","incorrect_answers":["Drum mouse","Trackball mouse","Optical mouse"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

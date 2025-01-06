@@ -1,0 +1,1 @@
+{"id":1531,"type":"multiple","difficulty":"hard","category":"Geography","question":"Bir Tawil, an uninhabited track of land claimed by no country, is located along the border of which two countries?","correct_answer":"Egypt and Sudan","incorrect_answers":["Israel and Jordan","Chad and Libya","Iraq and Saudi Arabia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

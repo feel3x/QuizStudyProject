@@ -1,0 +1,1 @@
+{"id":2311,"type":"boolean","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Nickelodeon rejected the pilot to Adventure Time.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

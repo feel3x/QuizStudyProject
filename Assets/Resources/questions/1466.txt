@@ -1,0 +1,1 @@
+{"id":1466,"type":"boolean","difficulty":"easy","category":"Geography","question":"Toronto is the capital city of the North American country of Canada.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

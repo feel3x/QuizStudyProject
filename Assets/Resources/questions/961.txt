@@ -1,0 +1,1 @@
+{"id":961,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"The asteroid belt is located between which two planets?","correct_answer":"Mars and Jupiter","incorrect_answers":["Jupiter and Saturn","Mercury and Venus","Earth and Mars"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

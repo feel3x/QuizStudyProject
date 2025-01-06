@@ -1,0 +1,1 @@
+{"id":110,"type":"boolean","difficulty":"hard","category":"General Knowledge","question":"In Scandinavian languages, the letter &Aring; means river.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1122,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"What does the &#039;S&#039; in the RSA encryption algorithm stand for?","correct_answer":"Shamir","incorrect_answers":["Secure","Schottky","Stable"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

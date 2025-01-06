@@ -1,0 +1,1 @@
+{"id":827,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"What was the world&#039;s first handheld game device?","correct_answer":"Mattel Auto Race","incorrect_answers":["Game Boy","Microvision","Game &amp; Watch"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

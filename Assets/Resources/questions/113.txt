@@ -1,0 +1,1 @@
+{"id":113,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"What is the romanized Chinese word for &quot;airplane&quot;?","correct_answer":"Feiji","incorrect_answers":["Qiche","Zongxian","Huojian"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

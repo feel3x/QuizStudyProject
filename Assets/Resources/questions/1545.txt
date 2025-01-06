@@ -1,0 +1,1 @@
+{"id":1545,"type":"boolean","difficulty":"hard","category":"Geography","question":"The two largest ethnic groups of Belgium are Flemish and Walloon. ","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

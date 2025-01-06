@@ -1,0 +1,1 @@
+{"id":482,"type":"boolean","difficulty":"medium","category":"Entertainment: Music","question":"The country song  &ldquo;A Boy Named Sue&rdquo; was written by Shel Silverstein.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

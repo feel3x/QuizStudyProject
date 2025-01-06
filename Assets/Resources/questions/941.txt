@@ -1,0 +1,1 @@
+{"id":941,"type":"boolean","difficulty":"easy","category":"Science &amp; Nature","question":"Not including false teeth; A human has two sets of teeth in their lifetime.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

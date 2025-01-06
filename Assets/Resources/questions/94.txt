@@ -1,0 +1,1 @@
+{"id":94,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What is the world&#039;s most expensive spice by weight?","correct_answer":"Saffron","incorrect_answers":["Cinnamon","Cardamom","Vanilla"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":206,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"What is the make and model of the tour vehicles in &quot;Jurassic Park&quot; (1990)?","correct_answer":"1989 Toyota Land Cruiser","incorrect_answers":["1989 Jeep Wrangler YJ Sahar","1989 Ford Explorer XLT","Mercedes M-Class"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

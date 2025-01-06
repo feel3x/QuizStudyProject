@@ -1,0 +1,1 @@
+{"id":1557,"type":"multiple","difficulty":"hard","category":"Geography","question":"What city is known as the Rose Capital of the World?","correct_answer":"Tyler, Texas","incorrect_answers":["San Diego, California","Miami, Florida","Anaheim, California"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

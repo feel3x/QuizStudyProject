@@ -1,0 +1,1 @@
+{"id":2218,"type":"boolean","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Throughout the entirety of &quot;Dragon Ball Z&quot;, Goku only kills two characters: a miniboss named Yakon and Kid Buu.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

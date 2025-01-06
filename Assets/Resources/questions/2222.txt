@@ -1,0 +1,1 @@
+{"id":2222,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;Hunter x Hunter&quot;, what are members in Killua&#039;s family known for being?","correct_answer":"Assassins","incorrect_answers":["Bandits","Hunters","Ninjas"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

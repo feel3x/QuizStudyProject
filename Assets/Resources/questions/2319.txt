@@ -1,0 +1,1 @@
+{"id":2319,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Which &quot;Toy Story&quot; character was voiced by Don Rickles?","correct_answer":"Mr. Potato Head","incorrect_answers":["Slinky Dog","Hamm","Rex"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

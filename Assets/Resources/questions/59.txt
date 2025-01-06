@@ -1,0 +1,1 @@
+{"id":59,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"The British organisation CAMRA stands for The Campaign for Real Ale.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1165,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"What type of sound chip does the Super Nintendo Entertainment System (SNES) have?","correct_answer":"ADPCM Sampler","incorrect_answers":["FM Synthesizer","Programmable Sound Generator (PSG)","PCM Sampler"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1221,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"What shape does sin(x) or cos(x) make on a graph?","correct_answer":"Waves","incorrect_answers":["A Parabola","A Straight Line","Zig-Zags"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":157,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"What was Sir Handel&#039;s original name in &quot;The Railway Series&quot; and it&#039;s animated counterpart &quot;Thomas and Friends?&quot;","correct_answer":"Falcon","incorrect_answers":["Eagle","Kyte","Swallow"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

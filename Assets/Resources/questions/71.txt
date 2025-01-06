@@ -1,0 +1,1 @@
+{"id":71,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"On average, Americans consume 100 pounds of what per second?","correct_answer":"Chocolate","incorrect_answers":["Potatoes","Donuts","Cocaine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

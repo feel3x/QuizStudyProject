@@ -1,0 +1,1 @@
+{"id":1,"type":"boolean","difficulty":"easy","category":"General Knowledge","question":"The color orange is named after the fruit.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

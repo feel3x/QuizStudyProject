@@ -1,0 +1,1 @@
+{"id":1818,"type":"multiple","difficulty":"hard","category":"Art","question":"Which of these is not an additional variation of the color purple?","correct_answer":"Kobicha","incorrect_answers":["Byzantium","Pomp and Power","Palatinate"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

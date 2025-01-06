@@ -1,0 +1,1 @@
+{"id":610,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Which company has exclusive rights to air episodes of the &quot;The Grand Tour&quot;?","correct_answer":"Amazon","incorrect_answers":["Netflix","BBC","CCTV"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

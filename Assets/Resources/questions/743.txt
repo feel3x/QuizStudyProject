@@ -1,0 +1,1 @@
+{"id":743,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"What was the first game in the &quot;Battlefield&quot; series?","correct_answer":"Battlefield 1942","incorrect_answers":["Battlefield Vietnam","Battlefield 2","Battlefield 1"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

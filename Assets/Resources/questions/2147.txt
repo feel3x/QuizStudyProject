@@ -1,0 +1,1 @@
+{"id":2147,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the anime Black Butler, who is betrothed to be married to Ciel Phantomhive?","correct_answer":"Elizabeth Midford","incorrect_answers":["Rachel Phantomhive","Alexis Leon Midford","Angelina Dalles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1025,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"What causes the sound of a heartbeat?","correct_answer":"Closure of the heart valves","incorrect_answers":["Contraction of the heart chambers","Blood exiting the heart","Relaxation of the heart chambers"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

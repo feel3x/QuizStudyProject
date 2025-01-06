@@ -1,0 +1,1 @@
+{"id":1377,"type":"multiple","difficulty":"medium","category":"Sports","question":"What is the highest belt you can get in Taekwondo?","correct_answer":"Black","incorrect_answers":["White","Red","Green"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

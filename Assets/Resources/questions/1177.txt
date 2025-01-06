@@ -1,0 +1,1 @@
+{"id":1177,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?","correct_answer":"Coffee Lake","incorrect_answers":["Sandy Bridge","Skylake","Broadwell"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

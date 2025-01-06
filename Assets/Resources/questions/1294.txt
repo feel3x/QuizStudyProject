@@ -1,0 +1,1 @@
+{"id":1294,"type":"multiple","difficulty":"medium","category":"Mythology","question":"Who was the Roman god of fire?","correct_answer":"Vulcan","incorrect_answers":["Apollo","Jupiter","Mercury"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

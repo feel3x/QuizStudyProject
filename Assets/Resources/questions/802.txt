@@ -1,0 +1,1 @@
+{"id":802,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In Call of Duty: United Offensive, what two soldiers share a name of a video game character?","correct_answer":"Gordon &amp; Freeman","incorrect_answers":["Sam &amp; Fisher","Nathan &amp; Drake","Dig &amp; Dug"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

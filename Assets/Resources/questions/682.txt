@@ -1,0 +1,1 @@
+{"id":682,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"In &quot;Star Trek&quot;, what sauce is commonly used by Klingons on bregit lung?","correct_answer":"Grapok sauce","incorrect_answers":["Gazorpazorp pudding","Sweet chili sauce","Grapork sauce"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":291,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"In the 1995 film &quot;Balto&quot;, who are Steele&#039;s accomplices?","correct_answer":"Kaltag, Nikki, and Star","incorrect_answers":["Dusty, Kirby, and Ralph","Nuk, Yak, and Sumac","Jenna, Sylvie, and Dixie"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":85,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What alcoholic drink is mainly made from juniper berries?","correct_answer":"Gin","incorrect_answers":["Vodka","Rum","Tequila"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

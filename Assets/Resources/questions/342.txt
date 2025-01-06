@@ -1,0 +1,1 @@
+{"id":342,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?","correct_answer":"Chicago","incorrect_answers":["Dreamgirls","Cabaret","All That Jazz"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

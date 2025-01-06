@@ -1,0 +1,1 @@
+{"id":1259,"type":"multiple","difficulty":"easy","category":"Mythology","question":"In most traditions, who was the wife of Zeus?","correct_answer":"Hera","incorrect_answers":["Aphrodite","Athena","Hestia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

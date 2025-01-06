@@ -1,0 +1,1 @@
+{"id":339,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?","correct_answer":"The Muppets Take Manhattan","incorrect_answers":["The Great Muppet Caper","The Muppet Christmas Carol","The Muppet Movie"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

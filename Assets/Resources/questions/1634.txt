@@ -1,0 +1,1 @@
+{"id":1634,"type":"multiple","difficulty":"medium","category":"History","question":"Which WWII tank ace is credited with having destroyed the most tanks?","correct_answer":"Kurt Knispel","incorrect_answers":["Michael Wittmann","Walter Kniep","Otto Carius"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

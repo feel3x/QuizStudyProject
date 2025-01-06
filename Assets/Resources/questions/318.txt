@@ -1,0 +1,1 @@
+{"id":318,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"What is the name of James Dean&#039;s character in the 1955 movie &quot;Rebel Without a Cause&quot;?","correct_answer":"Jim Stark","incorrect_answers":["Ned Stark","Jim Kane","Frank Stark"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

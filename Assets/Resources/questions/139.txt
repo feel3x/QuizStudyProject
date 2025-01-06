@@ -1,0 +1,1 @@
+{"id":139,"type":"boolean","difficulty":"hard","category":"General Knowledge","question":"Spoon theory is a theory, utilizing &quot;Spoons&quot; as a metaphor for energy they can use in a day.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

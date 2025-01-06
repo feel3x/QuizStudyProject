@@ -1,0 +1,1 @@
+{"id":58,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"&quot;Santa Claus&quot; is a variety of melon.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

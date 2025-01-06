@@ -1,0 +1,1 @@
+{"id":957,"type":"boolean","difficulty":"easy","category":"Science &amp; Nature","question":"Salt is 100% composed of Sodium.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

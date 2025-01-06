@@ -1,0 +1,1 @@
+{"id":956,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the official name of the star located closest to the North Celestial Pole?","correct_answer":"Polaris","incorrect_answers":["Eridanus","Gamma Cephei","Iota Cephei"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

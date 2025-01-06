@@ -1,0 +1,1 @@
+{"id":559,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?","correct_answer":"Daveed Diggs","incorrect_answers":["Lin-Manuel Miranda","Javier Mu&ntilde;oz","Wayne Brady"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

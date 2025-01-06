@@ -1,0 +1,1 @@
+{"id":1889,"type":"multiple","difficulty":"easy","category":"Animals","question":"What do you call a baby bat?","correct_answer":"Pup","incorrect_answers":["Cub","Chick","Kid"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

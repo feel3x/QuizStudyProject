@@ -1,0 +1,1 @@
+{"id":2066,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In Bionicle, who was formerly a Av-Matoran and is now the Toa of Light?","correct_answer":"Takua","incorrect_answers":["Jaller","Vakama","Tahu"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

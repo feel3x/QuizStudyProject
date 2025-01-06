@@ -1,0 +1,1 @@
+{"id":176,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"What is the name of the protagonist of J.D. Salinger&#039;s novel Catcher in the Rye?","correct_answer":"Holden Caulfield","incorrect_answers":["Fletcher Christian","Jay Gatsby","Randall Flagg"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

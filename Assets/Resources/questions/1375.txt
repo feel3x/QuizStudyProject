@@ -1,0 +1,1 @@
+{"id":1375,"type":"multiple","difficulty":"medium","category":"Sports","question":"What is the oldest team in the NFL?","correct_answer":"Arizona Cardinals","incorrect_answers":["Chicago Bears","Green Bay Packers","New York Giants"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

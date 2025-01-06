@@ -1,0 +1,1 @@
+{"id":2030,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"When was Marvel Comics founded?","correct_answer":"1939","incorrect_answers":["1932","1951","1936"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

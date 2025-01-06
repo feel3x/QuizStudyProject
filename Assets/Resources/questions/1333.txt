@@ -1,0 +1,1 @@
+{"id":1333,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which country hosted the 2020 Summer Olympics?","correct_answer":"Japan","incorrect_answers":["China","Australia","Germany"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

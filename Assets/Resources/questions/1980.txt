@@ -1,0 +1,1 @@
+{"id":1980,"type":"boolean","difficulty":"medium","category":"Vehicles","question":"Arriva is owned by the Deutsche Bahn.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

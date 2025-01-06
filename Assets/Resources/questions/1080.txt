@@ -1,0 +1,1 @@
+{"id":1080,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"RAM stands for Random Access Memory.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

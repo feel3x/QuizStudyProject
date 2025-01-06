@@ -1,0 +1,1 @@
+{"id":402,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"According to a song by Belinda Carlisle, Heaven is a place on what?","correct_answer":"Earth","incorrect_answers":["Venus","Mars","Uranus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

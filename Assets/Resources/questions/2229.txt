@@ -1,0 +1,1 @@
+{"id":2229,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the Overlord Anime who was Cocytus made by?","correct_answer":"Warrior Takemikazuchi","incorrect_answers":["Peroroncino","Ulbert Alain Odle","Bukubukuchagama"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

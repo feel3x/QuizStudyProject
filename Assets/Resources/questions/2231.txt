@@ -1,0 +1,1 @@
+{"id":2231,"type":"boolean","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"The protagonist in &quot;Humanity Has Declined&quot; has no discernable name and is simply referred to as &#039;I&#039; for most of the series.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

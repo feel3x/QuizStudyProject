@@ -1,0 +1,1 @@
+{"id":1076,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"On Twitter, what was the original character limit for a Tweet?","correct_answer":"140","incorrect_answers":["120","160","100"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

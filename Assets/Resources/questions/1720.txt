@@ -1,0 +1,1 @@
+{"id":1720,"type":"multiple","difficulty":"hard","category":"History","question":"What was the aim of the &quot;Umbrella Revolution&quot; in Hong Kong in 2014?","correct_answer":"Genuine universal suffrage","incorrect_answers":["Gaining Independence","Go back under British Rule","Lower taxes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

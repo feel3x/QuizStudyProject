@@ -1,0 +1,1 @@
+{"id":1887,"type":"boolean","difficulty":"easy","category":"Animals","question":"Rabbits can see what&#039;s behind themselves without turning their heads.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

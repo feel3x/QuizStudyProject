@@ -1,0 +1,1 @@
+{"id":1907,"type":"boolean","difficulty":"medium","category":"Animals","question":"Finnish Lapphund dogs were used for herding reindeer.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

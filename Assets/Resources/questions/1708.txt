@@ -1,0 +1,1 @@
+{"id":1708,"type":"multiple","difficulty":"hard","category":"History","question":"What was found in 1946 by two young shepards near a cave?","correct_answer":"Dead Sea Scrolls","incorrect_answers":["The Blackbeard Chest","Sheep","The First Oaxaca Cave Sleeper"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

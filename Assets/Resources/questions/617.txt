@@ -1,0 +1,1 @@
+{"id":617,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Which of the following awards do Matt Stone and Trey Parker NOT have?","correct_answer":"Oscar","incorrect_answers":["Emmy","Tony","Grammy"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

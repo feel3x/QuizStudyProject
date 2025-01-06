@@ -1,0 +1,1 @@
+{"id":1624,"type":"multiple","difficulty":"easy","category":"History","question":"What was Manfred von Richthofen&#039;s nickname?","correct_answer":"The Red Baron","incorrect_answers":["The High Flying Ace","The Blue Serpent ","The Germany Gunner"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

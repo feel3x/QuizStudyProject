@@ -1,0 +1,1 @@
+{"id":711,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which of the following names is the &quot;Mega Man&quot; Franchise known as in Japan?","correct_answer":"Rockman","incorrect_answers":["Paperman","Scissorsman","Mega Man"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

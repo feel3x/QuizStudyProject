@@ -1,0 +1,1 @@
+{"id":1406,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which NBA player won Most Valuable Player for the 1999-2000 season?","correct_answer":"Shaquille O&#039;Neal","incorrect_answers":["Allen Iverson","Kobe Bryant","Paul Pierce"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

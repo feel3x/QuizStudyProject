@@ -1,0 +1,1 @@
+{"id":917,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What does DNA stand for?","correct_answer":"Deoxyribonucleic Acid","incorrect_answers":["Deoxyribogenetic Acid","Deoxyribogenetic Atoms","Detoxic Acid"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

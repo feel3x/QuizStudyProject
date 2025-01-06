@@ -1,0 +1,1 @@
+{"id":1267,"type":"multiple","difficulty":"easy","category":"Mythology","question":"Which Greek &amp; Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?","correct_answer":"Apollo","incorrect_answers":["Aphrodite","Artemis","Athena"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

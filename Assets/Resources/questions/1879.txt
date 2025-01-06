@@ -1,0 +1,1 @@
+{"id":1879,"type":"multiple","difficulty":"easy","category":"Animals","question":"How many legs do butterflies have?","correct_answer":"6","incorrect_answers":["2","4","0"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":567,"type":"multiple","difficulty":"hard","category":"Entertainment: Musicals &amp; Theatres","question":"In Les Mis&eacute;rables, who is Prison Code 24601?","correct_answer":"Jean Valjean","incorrect_answers":["Marius Pontmercy","Javert","Jean Claude Van Damme"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

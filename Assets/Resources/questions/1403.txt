@@ -1,0 +1,1 @@
+{"id":1403,"type":"boolean","difficulty":"medium","category":"Sports","question":"During Wimbledon, spectators in the grounds can buy the tennis balls that have been used in matches.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

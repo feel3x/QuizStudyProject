@@ -1,0 +1,1 @@
+{"id":565,"type":"multiple","difficulty":"hard","category":"Entertainment: Musicals &amp; Theatres","question":"In Macbeth, the eyes of what animals were used in the Witches&#039; cauldron?","correct_answer":"Newts","incorrect_answers":["Humans","Sharks","Squids"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

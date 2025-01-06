@@ -1,0 +1,1 @@
+{"id":505,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Who recorded the 1975 album &#039;Captain Fantastic and the Brown Dirt Cowboy&#039;?","correct_answer":"Elton John","incorrect_answers":["John Denver","Billy Joel","Joe Cocker"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1823,"type":"boolean","difficulty":"easy","category":"Celebrities","question":"Tupac Shakur died due to complications from being stabbed in 1996.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

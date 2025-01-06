@@ -1,0 +1,1 @@
+{"id":976,"type":"boolean","difficulty":"medium","category":"Science &amp; Nature","question":"In the periodic table, Potassium&#039;s symbol is the letter K.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

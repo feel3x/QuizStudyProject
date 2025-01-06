@@ -1,0 +1,1 @@
+{"id":1095,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"What is the most preferred image format used for logos in the Wikimedia database?","correct_answer":".svg","incorrect_answers":[".png",".jpeg",".gif"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

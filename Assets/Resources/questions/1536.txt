@@ -1,0 +1,1 @@
+{"id":1536,"type":"multiple","difficulty":"hard","category":"Geography","question":"What is the largest city and commercial capital of Sri Lanka?","correct_answer":"Colombo","incorrect_answers":["Moratuwa","Negombo","Kandy"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

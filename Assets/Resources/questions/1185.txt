@@ -1,0 +1,1 @@
+{"id":1185,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Released in 2001, the first edition of Apple&#039;s Mac OS X operating system (version 10.0) was given what animal code name?","correct_answer":"Cheetah","incorrect_answers":["Puma","Tiger","Leopard"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":114,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Which of these banks are NOT authorized to issue currency notes in Hong Kong?","correct_answer":"OCBC","incorrect_answers":["HSBC","Standard Chartered","Bank of China"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

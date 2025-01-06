@@ -1,0 +1,1 @@
+{"id":1812,"type":"multiple","difficulty":"hard","category":"Art","question":"The painting &quot;The Starry Night&quot; by Vincent van Gogh was part of which art movement?","correct_answer":"Post-Impressionism","incorrect_answers":["Romanticism","Neoclassical","Impressionism"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

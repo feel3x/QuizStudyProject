@@ -1,0 +1,1 @@
+{"id":1270,"type":"boolean","difficulty":"easy","category":"Mythology","question":"In Norse mythology, Thor once dressed as a woman.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

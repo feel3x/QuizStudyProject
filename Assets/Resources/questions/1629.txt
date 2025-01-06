@@ -1,0 +1,1 @@
+{"id":1629,"type":"multiple","difficulty":"medium","category":"History","question":"When Christopher Columbus sailed to America, what was the first region he arrived in?","correct_answer":"The Bahamas Archipelago","incorrect_answers":["Florida","Isthmus of Panama","Nicaragua"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2042,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Who wrote the Batman comic series &quot;The Killing Joke&quot;?","correct_answer":"Alan Moore","incorrect_answers":["Bill Finger","Frank Miller","Jerry Siegel"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

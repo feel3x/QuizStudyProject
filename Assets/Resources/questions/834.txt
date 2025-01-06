@@ -1,0 +1,1 @@
+{"id":834,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"Which team won the &quot;Tom Clancy&#039;s Rainbow Six Siege&quot; Invitational Event February 2017 in the PC Category?","correct_answer":"Continuum","incorrect_answers":["GIFU","Santos Dexterity","eRa Eternity"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

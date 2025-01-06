@@ -1,0 +1,1 @@
+{"id":1895,"type":"boolean","difficulty":"easy","category":"Animals","question":"A caterpillar has more muscles than humans do.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2046,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?","correct_answer":"Daniel Dreiberg","incorrect_answers":["Nelson Gardner","Hollis Mason","Adrian Veidt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

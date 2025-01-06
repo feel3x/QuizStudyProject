@@ -1,0 +1,1 @@
+{"id":1861,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Nikki Diamond portrayed which Gladiator in the 1992 TV show &quot;Gladiators&quot;?","correct_answer":"Scorpio","incorrect_answers":["Jet","Nightshade","Falcon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

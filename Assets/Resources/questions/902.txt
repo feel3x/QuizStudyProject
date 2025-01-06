@@ -1,0 +1,1 @@
+{"id":902,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"In Magic: The Gathering, what card&#039;s flavor text is &quot;Catch!&quot;?","correct_answer":"Lava Axe","incorrect_answers":["Stone-Throwing Devils","Ember Shot","Throwing Knife"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

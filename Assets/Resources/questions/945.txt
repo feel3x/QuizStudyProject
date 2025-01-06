@@ -1,0 +1,1 @@
+{"id":945,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the powerhouse of the cell?","correct_answer":"Mitochondria","incorrect_answers":["Ribosome","Redbull","Nucleus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

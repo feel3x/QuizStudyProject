@@ -1,0 +1,1 @@
+{"id":1338,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which team has won the most Stanley Cups in the NHL?","correct_answer":"Montreal Canadians","incorrect_answers":["Chicago Blackhawks","Toronto Maple Leafs","Detroit Red Wings"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

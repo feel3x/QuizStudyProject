@@ -1,0 +1,1 @@
+{"id":338,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Which one of these actors is said to be cut from the film &#039;E.T. the Extra-Terrestrial&#039;?","correct_answer":"Harrison Ford","incorrect_answers":["Michael J. Fox","Andy Kaufman","Arnold Schwarzenegger"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

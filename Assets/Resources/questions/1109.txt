@@ -1,0 +1,1 @@
+{"id":1109,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"The logo for Snapchat is a Bell.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

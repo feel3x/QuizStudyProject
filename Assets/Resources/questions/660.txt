@@ -1,0 +1,1 @@
+{"id":660,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In &quot;The Big Bang Theory&quot;, what is Howard Wolowitz&#039;s nickname in World of Warcraft?","correct_answer":"Wolowizard","incorrect_answers":["Sheldor","Rajesh","Priya"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1373,"type":"multiple","difficulty":"medium","category":"Sports","question":"In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?","correct_answer":"Jules Bianchi","incorrect_answers":["Ayrton Senna","Ronald Ratzenberger","Gilles Villeneuve"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

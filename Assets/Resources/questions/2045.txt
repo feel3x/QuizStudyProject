@@ -1,0 +1,1 @@
+{"id":2045,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"What&#039;s the weakness of american vampires (Scott Snyder&#039;s American Vampire)?","correct_answer":"Gold","incorrect_answers":["Sunlight","Wood","Silver"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

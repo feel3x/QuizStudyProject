@@ -1,0 +1,1 @@
+{"id":655,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In the Doctor Who universe, how many times can a time lord normally regenerate?","correct_answer":"12","incorrect_answers":["11","13","15"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

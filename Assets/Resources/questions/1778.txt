@@ -1,0 +1,1 @@
+{"id":1778,"type":"boolean","difficulty":"hard","category":"Politics","question":"Nazi Germany surrendered on Harry Truman&#039;s birthday while he was president.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

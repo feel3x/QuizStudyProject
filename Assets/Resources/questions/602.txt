@@ -1,0 +1,1 @@
+{"id":602,"type":"boolean","difficulty":"easy","category":"Entertainment: Television","question":"In Battlestar Galactica (2004), Cylons were created by man as cybernetic workers and soldiers.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

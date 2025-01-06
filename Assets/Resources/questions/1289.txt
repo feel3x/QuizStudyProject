@@ -1,0 +1,1 @@
+{"id":1289,"type":"multiple","difficulty":"medium","category":"Mythology","question":"What is the name of the Greek god of blacksmiths?","correct_answer":"Hephaestus","incorrect_answers":["Dyntos","Vulcan","Artagatus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

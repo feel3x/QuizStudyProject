@@ -1,0 +1,1 @@
+{"id":1063,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"The programming language &quot;Python&quot; is based off a modified version of &quot;JavaScript&quot;.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

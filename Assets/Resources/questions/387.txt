@@ -1,0 +1,1 @@
+{"id":387,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"In the 1976 film &#039;Taxi Driver&#039;, how many guns did Travis buy from the salesman?","correct_answer":"4","incorrect_answers":["2","6","1"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2165,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"Who is the main character with yellow hair in the anime Naruto?","correct_answer":"Naruto","incorrect_answers":["Ten Ten","Sasuke","Kakashi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

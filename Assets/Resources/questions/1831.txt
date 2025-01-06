@@ -1,0 +1,1 @@
+{"id":1831,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"Which actress married Michael Douglas in 2000?","correct_answer":"Catherine Zeta-Jones","incorrect_answers":["Ruth Jones","Pam Ferris","Sara Sugarman"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

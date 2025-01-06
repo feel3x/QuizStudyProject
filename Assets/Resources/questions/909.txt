@@ -1,0 +1,1 @@
+{"id":909,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"The board game &quot;Ra&quot; was designed by which designer? ","correct_answer":"Reiner Knizia","incorrect_answers":["Bruno Cathala","Uwe Rosenburg","Allison Kline"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

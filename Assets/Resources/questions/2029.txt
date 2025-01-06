@@ -1,0 +1,1 @@
+{"id":2029,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"The main six year old protagonist in Calvin and Hobbes is named after what theologian?","correct_answer":"John Calvin","incorrect_answers":["Calvin Klein","Calvin Coolidge","Phillip Calvin McGraw"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

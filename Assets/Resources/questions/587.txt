@@ -1,0 +1,1 @@
+{"id":587,"type":"boolean","difficulty":"easy","category":"Entertainment: Television","question":"&quot;The Simpsons&quot; family is named after creator Matt Groening&#039;s real family.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

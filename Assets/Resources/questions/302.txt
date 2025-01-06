@@ -1,0 +1,1 @@
+{"id":302,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"The 1939 movie &quot;The Wizard of Oz&quot; contained a horse that changed color, what material did they use to achieve this effect?","correct_answer":"Gelatin","incorrect_answers":["Dye","Paint","CGI Effect"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

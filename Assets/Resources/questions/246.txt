@@ -1,0 +1,1 @@
+{"id":246,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"Which author co-wrote &quot;The Communist Manifesto&quot; alongside Karl Marx?","correct_answer":"Friedrich Engels","incorrect_answers":["Robert Owen","Alexander Kerensky","Paul Lafargue"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

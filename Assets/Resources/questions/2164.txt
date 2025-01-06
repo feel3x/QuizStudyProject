@@ -1,0 +1,1 @@
+{"id":2164,"type":"boolean","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the 1988 film &quot;Akira&quot;, Tetsuo ends up destroying Tokyo.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

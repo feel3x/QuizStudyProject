@@ -1,0 +1,1 @@
+{"id":21,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"When someone is cowardly, they are said to have what color belly?","correct_answer":"Yellow","incorrect_answers":["Green","Red","Blue"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

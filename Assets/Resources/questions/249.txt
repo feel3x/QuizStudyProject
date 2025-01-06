@@ -1,0 +1,1 @@
+{"id":249,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"In the movie The Revenant, DiCaprio&#039;s character hunts down the killer of his son.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

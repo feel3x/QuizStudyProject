@@ -1,0 +1,1 @@
+{"id":74,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"Kissing someone for one minute burns about 2 calories.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

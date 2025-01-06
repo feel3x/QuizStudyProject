@@ -1,0 +1,1 @@
+{"id":684,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"The theme for the popular science fiction series &quot;Doctor Who&quot; was composed by who?","correct_answer":"Ron Grainer","incorrect_answers":["Murray Gold","Delia Derbyshire","Peter Howell"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

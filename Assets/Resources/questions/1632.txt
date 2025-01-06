@@ -1,0 +1,1 @@
+{"id":1632,"type":"boolean","difficulty":"medium","category":"History","question":"Franz Joseph I was the last emperor of Austria.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

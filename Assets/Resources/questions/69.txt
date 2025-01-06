@@ -1,0 +1,1 @@
+{"id":69,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What was the soft drink Pepsi originally introduced as?","correct_answer":"Brad&#039;s Drink","incorrect_answers":["Pepsin Pop","Carolina Cola","Pepsin Syrup"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

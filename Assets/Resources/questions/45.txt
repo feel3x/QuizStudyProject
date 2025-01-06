@@ -1,0 +1,1 @@
+{"id":45,"type":"boolean","difficulty":"easy","category":"General Knowledge","question":"&quot;Ananas&quot; is mostly used as the word for Pineapple in other languages.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

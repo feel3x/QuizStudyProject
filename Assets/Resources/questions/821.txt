@@ -1,0 +1,1 @@
+{"id":821,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"Which variant of the MP5 is depicted in Counter-Strike 1.6?","correct_answer":"MP5N","incorrect_answers":["MP5SD","MP5K","MP5RAS"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

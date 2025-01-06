@@ -1,0 +1,1 @@
+{"id":1864,"type":"multiple","difficulty":"hard","category":"Celebrities","question":"Which school in Surrey, England did Steve Backshall attend?","correct_answer":"Collingwood College","incorrect_answers":["Tomlinscote School","Kings International College","Lyndhurst School"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

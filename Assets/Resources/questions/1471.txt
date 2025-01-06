@@ -1,0 +1,1 @@
+{"id":1471,"type":"multiple","difficulty":"easy","category":"Geography","question":"How many countries does the United States share a land border with?","correct_answer":"2","incorrect_answers":["1","3","4"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

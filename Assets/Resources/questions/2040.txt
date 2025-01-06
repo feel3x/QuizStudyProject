@@ -1,0 +1,1 @@
+{"id":2040,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"The stuffed tiger in Calvin and Hobbes is named after what philosopher?","correct_answer":"Thomas Hobbes","incorrect_answers":["David Hobbes","John Hobbes","Nathaniel Hobbes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

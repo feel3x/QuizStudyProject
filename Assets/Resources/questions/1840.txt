@@ -1,0 +1,1 @@
+{"id":1840,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"What year did radio icon Howard Stern start a job at radio station WNBC?","correct_answer":"1982","incorrect_answers":["1985","1984","1995"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

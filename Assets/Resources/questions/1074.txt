@@ -1,0 +1,1 @@
+{"id":1074,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"What does GHz stand for?","correct_answer":"Gigahertz","incorrect_answers":["Gigahotz","Gigahetz","Gigahatz"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

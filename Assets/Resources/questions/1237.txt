@@ -1,0 +1,1 @@
+{"id":1237,"type":"multiple","difficulty":"hard","category":"Science: Mathematics","question":"Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?","correct_answer":"1.58 x 10^20","incorrect_answers":["1.58 x 10^22","1.58 x  10^18","1.58 x 10^24"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

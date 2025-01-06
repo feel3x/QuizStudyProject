@@ -1,0 +1,1 @@
+{"id":619,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"What was the name of the the first episode of Doctor Who to air in 1963?","correct_answer":"An Unearthly Child","incorrect_answers":["The Daleks","The Aztecs","The Edge of Destruction"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

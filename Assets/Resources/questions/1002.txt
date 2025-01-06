@@ -1,0 +1,1 @@
+{"id":1002,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"A positron is an antiparticle of a what?","correct_answer":"Electron","incorrect_answers":["Neutron","Proton","Photon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

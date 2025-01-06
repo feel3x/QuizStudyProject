@@ -1,0 +1,1 @@
+{"id":1376,"type":"multiple","difficulty":"medium","category":"Sports","question":"In a game of snooker, what colour ball is worth 3 points?","correct_answer":"Green","incorrect_answers":["Yellow","Brown","Blue"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

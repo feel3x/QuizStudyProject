@@ -1,0 +1,1 @@
+{"id":144,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Chartreuse is a color between yellow and what?","correct_answer":"Green","incorrect_answers":["Red","Black","Purple"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

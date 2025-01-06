@@ -1,0 +1,1 @@
+{"id":382,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"What is the name of the supercomputer located in the control room in &quot;Jurassic Park&quot; (1993)?","correct_answer":"Thinking Machines CM-5","incorrect_answers":["Cray X-MP","Cray XK7","IBM Blue Gene/Q"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

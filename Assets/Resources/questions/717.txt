@@ -1,0 +1,1 @@
+{"id":717,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"What is the default alias that Princess Garnet goes by in Final Fantasy IX?","correct_answer":"Dagger","incorrect_answers":["Dirk","Garnet","Quina"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

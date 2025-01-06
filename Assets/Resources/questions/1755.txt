@@ -1,0 +1,1 @@
+{"id":1755,"type":"multiple","difficulty":"medium","category":"Politics","question":"In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?","correct_answer":"3","incorrect_answers":["1","2","0"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

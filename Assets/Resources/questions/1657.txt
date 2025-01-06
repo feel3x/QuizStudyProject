@@ -1,0 +1,1 @@
+{"id":1657,"type":"multiple","difficulty":"medium","category":"History","question":"Who was the first Chancellor of a united Germany in 1871? ","correct_answer":"Otto Von Bismark","incorrect_answers":["Kaiser Wilhelm ","Fredrick the 2nd","Robert Koch"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

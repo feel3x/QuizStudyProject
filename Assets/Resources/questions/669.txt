@@ -1,0 +1,1 @@
+{"id":669,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"Who was the winner of the 2016 WWE Royal Rumble?","correct_answer":"Triple H","incorrect_answers":["Roman Reigns","AJ Styles","Dean Ambrose"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

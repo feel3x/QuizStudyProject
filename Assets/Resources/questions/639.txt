@@ -1,0 +1,1 @@
+{"id":639,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"Cesar Romero played which iconic Batman villain from the 1960&#039;s TV show?","correct_answer":"The Joker","incorrect_answers":["The Penguin","The Riddler","Mr. Freeze"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

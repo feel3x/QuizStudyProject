@@ -1,0 +1,1 @@
+{"id":656,"type":"boolean","difficulty":"medium","category":"Entertainment: Television","question":"Klingons once had a period of Democracy in their history, they referred to it as the &quot;Dark Times&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

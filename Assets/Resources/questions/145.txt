@@ -1,0 +1,1 @@
+{"id":145,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"The Swedish word &quot;Grunka&quot; means what in English?","correct_answer":"Thing","incorrect_answers":["People","Place","Pineapple"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

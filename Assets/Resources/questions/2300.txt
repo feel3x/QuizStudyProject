@@ -1,0 +1,1 @@
+{"id":2300,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"In &quot;The Simpsons&quot;, where did Homer and Marge first meet?","correct_answer":"At Summer Camp","incorrect_answers":["At High School","At Church","At 742 Evergreen Terrace"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1039,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"How many protons are in an oxygen atom?","correct_answer":"Eight","incorrect_answers":["Four","Two","Six"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

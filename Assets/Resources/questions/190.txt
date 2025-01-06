@@ -1,0 +1,1 @@
+{"id":190,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"In the &quot;The Hobbit&quot;, who kills Smaug?","correct_answer":"Bard","incorrect_answers":["Bilbo Baggins","Gandalf the Grey","Frodo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2073,"type":"boolean","difficulty":"hard","category":"Entertainment: Comics","question":"In the comic book &quot;Archie&quot;, Betty is friends with Veronica because she is rich.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

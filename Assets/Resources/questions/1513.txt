@@ -1,0 +1,1 @@
+{"id":1513,"type":"multiple","difficulty":"medium","category":"Geography","question":"How many countries share a land border with Luxembourg?","correct_answer":"3","incorrect_answers":["4","2","5"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

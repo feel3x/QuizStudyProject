@@ -1,0 +1,1 @@
+{"id":816,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In TF2 Lore, what are the names of the Heavy&#039;s younger sisters?","correct_answer":"Yana and Bronislava","incorrect_answers":["Gaba and Anna","Yanna and Gaba","Anna and Bronislava"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

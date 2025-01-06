@@ -1,0 +1,1 @@
+{"id":218,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"Who is the author of the series &quot;Malazan Book of the Fallen&quot;?","correct_answer":"Steven Erikson","incorrect_answers":["Ian Cameron Esslemont","George R. R. Martin","J. R. R. Tolkien"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

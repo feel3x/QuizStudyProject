@@ -1,0 +1,1 @@
+{"id":188,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"By what name was the author Eric Blair better known?","correct_answer":"George Orwell","incorrect_answers":["Aldous Huxley","Ernest Hemingway","Ray Bradbury"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

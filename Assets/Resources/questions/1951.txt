@@ -1,0 +1,1 @@
+{"id":1951,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"Which car tire manufacturer is famous for its &quot;Eagle&quot; brand of tires, and is the official tire supplier of NASCAR?","correct_answer":"Goodyear","incorrect_answers":["Pirelli","Bridgestone","Michelin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

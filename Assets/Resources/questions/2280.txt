@@ -1,0 +1,1 @@
+{"id":2280,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"What is lost in Hawaiian and is also the name of a little girl in a 2002 film which features a alien named &quot;Stitch&quot;?","correct_answer":"Lilo","incorrect_answers":["Lolo","Lucy","Lulu"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

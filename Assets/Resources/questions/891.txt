@@ -1,0 +1,1 @@
+{"id":891,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"Which board game was first released on February 6th, 1935?","correct_answer":"Monopoly","incorrect_answers":["Risk","Clue","Candy Land"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

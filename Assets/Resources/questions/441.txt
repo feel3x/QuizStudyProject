@@ -1,0 +1,1 @@
+{"id":441,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Who is the lead singer of Pearl Jam?","correct_answer":"Eddie Vedder","incorrect_answers":["Ozzy Osbourne","Stone Gossard","Kurt Cobain"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

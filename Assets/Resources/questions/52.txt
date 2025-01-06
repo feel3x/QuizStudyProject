@@ -1,0 +1,1 @@
+{"id":52,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What was the name given to Japanese military dictators who ruled the country through the 12th and 19th Century?","correct_answer":"Shogun","incorrect_answers":["Ninja","Samurai","Shinobi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

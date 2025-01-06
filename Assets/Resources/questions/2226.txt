@@ -1,0 +1,1 @@
+{"id":2226,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which of the following countries does &quot;JoJo&#039;s Bizarre Adventure: Stardust Crusaders&quot; not take place in?","correct_answer":"Philippines","incorrect_answers":["India","Pakistan","Egypt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

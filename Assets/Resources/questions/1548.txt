@@ -1,0 +1,1 @@
+{"id":1548,"type":"multiple","difficulty":"hard","category":"Geography","question":"When does Finland celebrate their independence day?","correct_answer":"December 6th","incorrect_answers":["January 2nd","November 12th","February 8th"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

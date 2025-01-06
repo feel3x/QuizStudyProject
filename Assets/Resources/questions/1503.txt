@@ -1,0 +1,1 @@
+{"id":1503,"type":"multiple","difficulty":"medium","category":"Geography","question":"Which of these country&#039;s capitals starts with the letter B?","correct_answer":"Lebanon","incorrect_answers":["Jordan","Kuwait","Qatar"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

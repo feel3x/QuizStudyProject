@@ -1,0 +1,1 @@
+{"id":483,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"What French artist/band is known for playing on the midi instrument &quot;Launchpad&quot;?","correct_answer":"Madeon","incorrect_answers":["Daft Punk ","Disclosure","David Guetta"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

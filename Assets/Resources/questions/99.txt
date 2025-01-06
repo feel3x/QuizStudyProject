@@ -1,0 +1,1 @@
+{"id":99,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What is the name given to Indian food cooked over charcoal in a clay oven?","correct_answer":"Tandoori","incorrect_answers":["Biryani","Pani puri","Tiki masala"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

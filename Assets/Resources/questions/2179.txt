@@ -1,0 +1,1 @@
+{"id":2179,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"What year did &quot;Bishoujo Senshi Sailor Moon&quot; air in Japan?","correct_answer":"1992","incorrect_answers":["1989","1990","1994"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

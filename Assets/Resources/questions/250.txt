@@ -1,0 +1,1 @@
+{"id":250,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"In the original script of &quot;The Matrix&quot;, the machines used humans as additional computing power instead of batteries.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

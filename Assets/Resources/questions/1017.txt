@@ -1,0 +1,1 @@
+{"id":1017,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"A comet&#039;s gaseous envelope (which creates the tail) is called what?","correct_answer":"The coma","incorrect_answers":["The wake","The backwash","The ablative"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

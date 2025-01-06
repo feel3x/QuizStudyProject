@@ -1,0 +1,1 @@
+{"id":613,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In the TV show &#039;M*A*S*H&#039;, what was the nickname of Corporal Walter O&#039;Reilly?","correct_answer":"Radar","incorrect_answers":["Hawkeye","Hot Lips","Trapper"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

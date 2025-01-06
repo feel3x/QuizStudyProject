@@ -1,0 +1,1 @@
+{"id":2204,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which one of these Manga titles was not created by Urasawa Naoki?","correct_answer":"My Father&#039;s Journal","incorrect_answers":["Billy Bat","20th Century Boys","Monster"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

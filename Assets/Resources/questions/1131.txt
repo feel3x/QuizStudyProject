@@ -1,0 +1,1 @@
+{"id":1131,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"The name of technology company HP stands for what?","correct_answer":"Hewlett-Packard","incorrect_answers":["Howard Packmann","Husker-Pollosk","Hellman-Pohl"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

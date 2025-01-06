@@ -1,0 +1,1 @@
+{"id":1609,"type":"multiple","difficulty":"easy","category":"History","question":"How long did World War II last?","correct_answer":"6 years","incorrect_answers":["4 years","5 years","7 years"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

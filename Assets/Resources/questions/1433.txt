@@ -1,0 +1,1 @@
+{"id":1433,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the capital of Spain?","correct_answer":"Madrid","incorrect_answers":["Barcelona","Sevilla","Toledo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

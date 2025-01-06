@@ -1,0 +1,1 @@
+{"id":233,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"Abel Magwitch is a character from which Charles Dickens novel?","correct_answer":"Great Expectations","incorrect_answers":["The Pickwick Papers","Nicholas Nickleby","Oliver Twist"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

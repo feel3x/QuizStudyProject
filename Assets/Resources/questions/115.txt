@@ -1,0 +1,1 @@
+{"id":115,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"Which film star has his statue in Leicester Square?","correct_answer":"Charlie Chaplin","incorrect_answers":["Paul Newman","Rowan Atkinson ","Alfred Hitchcock"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

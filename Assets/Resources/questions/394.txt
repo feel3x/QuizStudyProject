@@ -1,0 +1,1 @@
+{"id":394,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Ringo Starr of The Beatles mainly played what instrument?","correct_answer":"Drums","incorrect_answers":["Bass","Guitar","Piano"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

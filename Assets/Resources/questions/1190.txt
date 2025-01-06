@@ -1,0 +1,1 @@
+{"id":1190,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"Which RAID array type is associated with data mirroring?","correct_answer":"RAID 1","incorrect_answers":["RAID 0","RAID 10","RAID 5"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

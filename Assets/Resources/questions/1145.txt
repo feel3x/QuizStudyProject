@@ -1,0 +1,1 @@
+{"id":1145,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"What was the name given to Android 4.3?","correct_answer":"Jelly Bean","incorrect_answers":["Lollipop","Nutella","Froyo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

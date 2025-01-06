@@ -1,0 +1,1 @@
+{"id":1412,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which female player won the gold medal of table tennis singles in 2016 Olympics Games?","correct_answer":"DING Ning (China)","incorrect_answers":["LI Xiaoxia (China)","Ai FUKUHARA (Japan)","Song KIM (North Korea)"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

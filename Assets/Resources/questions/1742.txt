@@ -1,0 +1,1 @@
+{"id":1742,"type":"boolean","difficulty":"easy","category":"Politics","question":"Former president Theodore Roosevelt (1900-1908)  ran for another term under the Progressive Party in 1912.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

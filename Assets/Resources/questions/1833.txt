@@ -1,0 +1,1 @@
+{"id":1833,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Which actress&#039;s real name was Frances Ethel Gumm?","correct_answer":"Judy Garland","incorrect_answers":["Doris Day","Julie Andrews","Marilyn Monroe"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

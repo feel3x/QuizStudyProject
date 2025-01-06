@@ -1,0 +1,1 @@
+{"id":46,"type":"boolean","difficulty":"easy","category":"General Knowledge","question":"&quot;27 Club&quot; is a term used to refer to a list of famous actors, musicians, and artists who died at the age of 27.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

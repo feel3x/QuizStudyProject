@@ -1,0 +1,1 @@
+{"id":422,"type":"boolean","difficulty":"easy","category":"Entertainment: Music","question":"The song &quot;Stronger Than You&quot; is a single by Estelle, who played Garnet in Steven Universe.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

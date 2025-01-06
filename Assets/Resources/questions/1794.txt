@@ -1,0 +1,1 @@
+{"id":1794,"type":"multiple","difficulty":"easy","category":"Art","question":"Who painted The Starry Night?","correct_answer":"Vincent van Gogh","incorrect_answers":["Pablo Picasso","Leonardo da Vinci","Michelangelo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

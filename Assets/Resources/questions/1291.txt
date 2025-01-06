@@ -1,0 +1,1 @@
+{"id":1291,"type":"boolean","difficulty":"medium","category":"Mythology","question":"The Roman god &quot;Jupiter&quot; was first known as &quot;Zeus&quot; to the Greeks.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

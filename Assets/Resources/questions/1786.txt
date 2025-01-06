@@ -1,0 +1,1 @@
+{"id":1786,"type":"multiple","difficulty":"hard","category":"Politics","question":"Which letter do you need to have on a European driver license in order to ride any motorbikes?","correct_answer":"A","incorrect_answers":["X","D","B"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

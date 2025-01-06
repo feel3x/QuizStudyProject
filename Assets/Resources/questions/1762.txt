@@ -1,0 +1,1 @@
+{"id":1762,"type":"boolean","difficulty":"medium","category":"Politics","question":"Helen Clark was the 37th Prime Minister of Australia.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

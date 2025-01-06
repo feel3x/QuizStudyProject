@@ -1,0 +1,1 @@
+{"id":2115,"type":"multiple","difficulty":"hard","category":"Science: Gadgets","question":"Which round does a WW2 M1 Garand fire?","correct_answer":".30-06","incorrect_answers":[".308","7.62","7.62x51mm"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

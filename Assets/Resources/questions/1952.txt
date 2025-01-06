@@ -1,0 +1,1 @@
+{"id":1952,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"The Italian automaker Lamborghini uses what animal as its logo?","correct_answer":"Bull","incorrect_answers":["Bat","Horse","Snake"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

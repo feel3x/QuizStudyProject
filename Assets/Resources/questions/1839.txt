@@ -1,0 +1,1 @@
+{"id":1839,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Which famous New York Yankees outfielder did Marilyn Monroe marry?","correct_answer":"Joe DiMaggio","incorrect_answers":["Tino Martinez","Babe Ruth","Mason Williams"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

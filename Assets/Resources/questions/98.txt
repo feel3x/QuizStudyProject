@@ -1,0 +1,1 @@
+{"id":98,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What did the Spanish autonomous community of Catalonia ban in 2010, that took effect in 2012?","correct_answer":"Bullfighting","incorrect_answers":["Fiestas","Flamenco","Mariachi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

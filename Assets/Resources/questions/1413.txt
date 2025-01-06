@@ -1,0 +1,1 @@
+{"id":1413,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which Italian footballer told Neuer where he&#039;s putting his shot and dragging it wide, during the match Italy-Germany, UEFA EURO 2016?","correct_answer":"Pelle","incorrect_answers":["Insigne","Barzagli","Giaccherini"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

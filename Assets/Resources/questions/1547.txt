@@ -1,0 +1,1 @@
+{"id":1547,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which is not a country in Africa?","correct_answer":"Guyana","incorrect_answers":["Senegal","Liberia","Somalia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

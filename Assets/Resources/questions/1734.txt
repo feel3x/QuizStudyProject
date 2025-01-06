@@ -1,0 +1,1 @@
+{"id":1734,"type":"boolean","difficulty":"easy","category":"Politics","question":"The S in Harry S. Truman stands for &quot;Samuel&quot;.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

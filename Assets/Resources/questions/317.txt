@@ -1,0 +1,1 @@
+{"id":317,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"In the movie &ldquo;The Iron Giant,&rdquo; this character is the protagonist.","correct_answer":"Hogarth Hughes","incorrect_answers":["Kent Mansley","Dean McCoppin","Annie Hughes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

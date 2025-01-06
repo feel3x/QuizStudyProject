@@ -1,0 +1,1 @@
+{"id":910,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"What Magic: The Gathering card&#039;s flavor text is just &#039;Ribbit.&#039;?","correct_answer":"Turn to Frog","incorrect_answers":["Spore Frog","Bloated Toad","Frogmite"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

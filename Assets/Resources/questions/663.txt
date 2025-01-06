@@ -1,0 +1,1 @@
+{"id":663,"type":"boolean","difficulty":"medium","category":"Entertainment: Television","question":"In &quot;Star Trek&quot;, Klingons are commonly referred to as &quot;Black Elves&quot;.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

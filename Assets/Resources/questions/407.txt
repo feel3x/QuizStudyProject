@@ -1,0 +1,1 @@
+{"id":407,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Which brass instrument has the lowest pitch in an orchestra?","correct_answer":"Tuba","incorrect_answers":["Trumpet","Saxophone","Trombone"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

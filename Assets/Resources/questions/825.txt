@@ -1,0 +1,1 @@
+{"id":825,"type":"boolean","difficulty":"hard","category":"Entertainment: Video Games","question":"In Undertale, having a &quot;Fun Value&quot; set to 56-57 will play the &quot;Wrong Number Song Call&quot;.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

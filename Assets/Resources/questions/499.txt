@@ -1,0 +1,1 @@
+{"id":499,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?","correct_answer":"Snare Drum","incorrect_answers":["Cow Bell","Bass Drum","Maraca"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

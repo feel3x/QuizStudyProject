@@ -1,0 +1,1 @@
+{"id":1118,"type":"boolean","difficulty":"medium","category":"Science: Computers","question":"To bypass US Munitions Export Laws, the creator of the PGP published all the source code in book form. ","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

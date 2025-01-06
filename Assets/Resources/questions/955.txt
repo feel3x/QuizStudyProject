@@ -1,0 +1,1 @@
+{"id":955,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What is the speed of light in a vacuum?","correct_answer":"299,792,458 m/s","incorrect_answers":["50,461 m/s","308,215,043 m/s","751,665,014,151 m/s"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":657,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"Who sang the theme song for the TV show &#039;Rawhide&#039;?","correct_answer":"Frankie Laine","incorrect_answers":["Guy Mitchell"," Tennessee Ernie Ford","Slim Whitman"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

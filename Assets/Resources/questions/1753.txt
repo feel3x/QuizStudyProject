@@ -1,0 +1,1 @@
+{"id":1753,"type":"multiple","difficulty":"medium","category":"Politics","question":"Before 2011, &quot;True Capitalist Radio&quot; was known by a different name. What was that name?","correct_answer":"True Conservative Radio","incorrect_answers":["True Republican Radio","Texan Capitalist Radio","United Capitalists"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":521,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Who won the 1989 Drum Corps International championships?","correct_answer":"Santa Clara Vanguard","incorrect_answers":["Blue Devils","The Academy","The Bluecoats"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

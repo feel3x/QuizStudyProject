@@ -1,0 +1,1 @@
+{"id":1232,"type":"boolean","difficulty":"medium","category":"Science: Mathematics","question":"The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

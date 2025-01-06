@@ -1,0 +1,1 @@
+{"id":77,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"In a standard set of playing cards, which is the only king without a moustache?","correct_answer":"Hearts","incorrect_answers":["Spades","Diamonds","Clubs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

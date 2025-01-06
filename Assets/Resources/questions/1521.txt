@@ -1,0 +1,1 @@
+{"id":1521,"type":"multiple","difficulty":"medium","category":"Geography","question":"What European country is not a part of the EU?","correct_answer":"Norway","incorrect_answers":["Lithuania","Ireland","Czechia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

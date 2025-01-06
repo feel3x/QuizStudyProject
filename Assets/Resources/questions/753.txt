@@ -1,0 +1,1 @@
+{"id":753,"type":"boolean","difficulty":"medium","category":"Entertainment: Video Games","question":"In Monster Hunter Generations, guild style is a type of hunting style.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1018,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which of these is a stop codon in DNA?","correct_answer":"TAA","incorrect_answers":["ACT","ACA","GTA"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

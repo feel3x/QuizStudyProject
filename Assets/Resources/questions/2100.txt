@@ -1,0 +1,1 @@
+{"id":2100,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"The term &quot;battery&quot; to describe an electrical storage device was coined by?","correct_answer":"Benjamin Franklin","incorrect_answers":["Nikola Tesla","Luigi Galvani"," Alessandro Volta"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

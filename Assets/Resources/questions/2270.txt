@@ -1,0 +1,1 @@
+{"id":2270,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"In the Pixar film, &quot;Toy Story&quot; what was the name of the child who owned the toys?","correct_answer":"Andy","incorrect_answers":["Edward","Danny","Matt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

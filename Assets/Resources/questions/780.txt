@@ -1,0 +1,1 @@
+{"id":780,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What is the name of the common, gun-toting enemies of the &quot;Oddworld&quot; video game series?","correct_answer":"Sligs","incorrect_answers":["Scrabs","Slogs","Glukkons"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

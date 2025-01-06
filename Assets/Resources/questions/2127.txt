@@ -1,0 +1,1 @@
+{"id":2127,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which of the following originated as a manga?","correct_answer":"Akira","incorrect_answers":["Cowboy Bebop","High School DxD","Gurren Lagann"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

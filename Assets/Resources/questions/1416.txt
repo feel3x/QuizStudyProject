@@ -1,0 +1,1 @@
+{"id":1416,"type":"multiple","difficulty":"hard","category":"Sports","question":"The AHL affiliate team of the Boston Bruins is named what?","correct_answer":"Providence Bruins","incorrect_answers":["New Haven Bruins","Cambridge Bruins","Hartford Bruins"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

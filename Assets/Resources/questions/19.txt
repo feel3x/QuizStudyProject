@@ -1,0 +1,1 @@
+{"id":19,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?","correct_answer":"Spruce Goose","incorrect_answers":["Noah&#039;s Ark","Fat Man","Trojan Horse"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

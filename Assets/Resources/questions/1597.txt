@@ -1,0 +1,1 @@
+{"id":1597,"type":"boolean","difficulty":"easy","category":"History","question":"Thomas Crapper was a plumber who invented the flushing toilet.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

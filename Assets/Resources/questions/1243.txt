@@ -1,0 +1,1 @@
+{"id":1243,"type":"boolean","difficulty":"hard","category":"Science: Mathematics","question":"If you could fold a piece of paper in half 50 times, its&#039; thickness will be 3/4th the distance from the Earth to the Sun.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

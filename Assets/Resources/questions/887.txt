@@ -1,0 +1,1 @@
+{"id":887,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"Which card is on the cover of the Beta rulebook of &quot;Magic: The Gathering&quot;?","correct_answer":"Bog Wraith","incorrect_answers":["Island","Rock Hydra","Elvish Archers"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

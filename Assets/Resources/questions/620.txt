@@ -1,0 +1,1 @@
+{"id":620,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In DuckTales, what is the name of the city where all the main characters live?","correct_answer":"Duckburg","incorrect_answers":["Duckwing","Tailspin","Wingford"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

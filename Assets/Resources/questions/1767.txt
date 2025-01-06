@@ -1,0 +1,1 @@
+{"id":1767,"type":"multiple","difficulty":"medium","category":"Politics","question":"Who was elected leader of the UK Labour Party in September 2015?","correct_answer":"Jeremy Corbyn","incorrect_answers":["Ed Miliband","David Cameron","Theresa May"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

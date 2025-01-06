@@ -1,0 +1,1 @@
+{"id":168,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"What&#039;s Harry Potter&#039;s dad&#039;s name?","correct_answer":"James Potter","incorrect_answers":["Joey Potter","Frank Potter","Hairy Potter Sr."],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

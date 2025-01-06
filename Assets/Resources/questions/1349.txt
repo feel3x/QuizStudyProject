@@ -1,0 +1,1 @@
+{"id":1349,"type":"multiple","difficulty":"easy","category":"Sports","question":"This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show during hockey games.","correct_answer":"Don Cherry","incorrect_answers":["Don McKellar","Don Taylor ","Donald Sutherland"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

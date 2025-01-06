@@ -1,0 +1,1 @@
+{"id":1543,"type":"multiple","difficulty":"hard","category":"Geography","question":"What North American tourist attraction is served by the &quot;Maid of the Mist&quot; tour company?","correct_answer":"Niagara Falls","incorrect_answers":["Whistler, British Columbia","Disney World","Yosemite National Park"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

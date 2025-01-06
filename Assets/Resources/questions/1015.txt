@@ -1,0 +1,1 @@
+{"id":1015,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"The &#039;Islets of Langerhans&#039; is found in which human organ?","correct_answer":"Pancreas","incorrect_answers":["Kidney","Liver","Brain"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

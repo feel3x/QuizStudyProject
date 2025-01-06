@@ -1,0 +1,1 @@
+{"id":528,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"How many members are there in the idol group &quot;&micro;&#039;s&quot;?","correct_answer":"9","incorrect_answers":["48","6","3"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

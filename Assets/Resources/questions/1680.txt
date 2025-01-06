@@ -1,0 +1,1 @@
+{"id":1680,"type":"multiple","difficulty":"hard","category":"History","question":"When was the SS or Schutzstaffel established?","correct_answer":"April 4th, 1925","incorrect_answers":["September 1st, 1941","March 8th, 1935","February 21st, 1926"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2078,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"In the &quot;Archie&quot; comics, who was Jughead&#039;s first girlfriend?","correct_answer":"Joani","incorrect_answers":["Ethel","Debbi","Margret"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1566,"type":"multiple","difficulty":"hard","category":"Geography","question":"The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?","correct_answer":"Crown","incorrect_answers":["Bird","Sickle","Tree"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

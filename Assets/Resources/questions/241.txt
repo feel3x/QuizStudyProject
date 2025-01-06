@@ -1,0 +1,1 @@
+{"id":241,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"In Margaret Atwood&#039;s &quot;The Handmaid&#039;s Tale&quot;, what is Offred&#039;s real name is implied to be?","correct_answer":"June","incorrect_answers":["August","April","May"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

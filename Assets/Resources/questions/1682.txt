@@ -1,0 +1,1 @@
+{"id":1682,"type":"multiple","difficulty":"hard","category":"History","question":"The ancient city of Chich&eacute;n Itz&aacute; was built by which civilization?","correct_answer":"Mayans","incorrect_answers":["Aztecs","Incas","Toltecs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

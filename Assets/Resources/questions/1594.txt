@@ -1,0 +1,1 @@
+{"id":1594,"type":"multiple","difficulty":"easy","category":"History","question":"What year did World War I begin?","correct_answer":"1914","incorrect_answers":["1905","1919","1925"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

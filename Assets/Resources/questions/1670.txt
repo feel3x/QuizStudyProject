@@ -1,0 +1,1 @@
+{"id":1670,"type":"multiple","difficulty":"medium","category":"History","question":"The Thirty Years War ended with which treaty?","correct_answer":"Peace of Westphalia","incorrect_answers":["Treaty of Versailles","Treaty of Paris","Peace of Prague"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

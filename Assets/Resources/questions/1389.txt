@@ -1,0 +1,1 @@
+{"id":1389,"type":"boolean","difficulty":"medium","category":"Sports","question":"Skateboarding was included in the 2020 Summer Olympics in Tokyo.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

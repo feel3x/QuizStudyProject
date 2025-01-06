@@ -1,0 +1,1 @@
+{"id":623,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"What was the name of the teenage witch played by Melisa Joan Hart who lives with her witch aunts Hilda and Zelda?","correct_answer":"Sabrina","incorrect_answers":["Hermione","Dorothy","Dahlia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

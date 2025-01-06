@@ -1,0 +1,1 @@
+{"id":75,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"What is the romanized Russian word for &quot;winter&quot;?","correct_answer":"Zima","incorrect_answers":["Leto","Vesna","Osen&#039;"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

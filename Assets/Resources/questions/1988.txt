@@ -1,0 +1,1 @@
+{"id":1988,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which of the following is NOT a Russian car manufacturer?","correct_answer":"BYD","incorrect_answers":["Silant","Dragon","GAZ"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

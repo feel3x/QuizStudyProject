@@ -1,0 +1,1 @@
+{"id":1280,"type":"multiple","difficulty":"medium","category":"Mythology","question":"A minotaur is half human half what?","correct_answer":"Bull","incorrect_answers":["Cow","Horse","Eagle"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

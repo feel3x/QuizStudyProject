@@ -1,0 +1,1 @@
+{"id":969,"type":"boolean","difficulty":"medium","category":"Science &amp; Nature","question":"Sugar contains fat.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

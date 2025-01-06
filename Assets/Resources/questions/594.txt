@@ -1,0 +1,1 @@
+{"id":594,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?","correct_answer":"Boston Red Sox","incorrect_answers":["New York Mets","Baltimore Orioles","Milwaukee Brewers"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

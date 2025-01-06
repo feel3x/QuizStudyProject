@@ -1,0 +1,1 @@
+{"id":637,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"Which character does voice actress Tara Strong NOT voice?","correct_answer":"Bubbles (2016)","incorrect_answers":["Twilight Sparkle","Timmy Turner","Harley Quinn"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

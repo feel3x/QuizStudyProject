@@ -1,0 +1,1 @@
+{"id":2160,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"What year did &quot;Attack on Titan&quot; first air?","correct_answer":"2013","incorrect_answers":["2014","2012","2015"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

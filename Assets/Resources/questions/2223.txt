@@ -1,0 +1,1 @@
+{"id":2223,"type":"boolean","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Druid is a mage class in &quot;Log Horizon&quot;.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

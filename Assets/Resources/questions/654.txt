@@ -1,0 +1,1 @@
+{"id":654,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"What year did the television company BBC officially launch the channel BBC One?","correct_answer":"1936","incorrect_answers":["1948","1932","1955"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

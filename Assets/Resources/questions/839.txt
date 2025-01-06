@@ -1,0 +1,1 @@
+{"id":839,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In the alternate timeline in Mortal Kombat, which character was the one to slaughter the Shirai Ryu clan?","correct_answer":"Quan Chi","incorrect_answers":["Sub-Zero","Sektor","Shang Tsung"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

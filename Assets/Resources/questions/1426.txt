@@ -1,0 +1,1 @@
+{"id":1426,"type":"multiple","difficulty":"hard","category":"Sports","question":"The Mazda 787B won the 24 Hours of Le Mans in what year?","correct_answer":"1991","incorrect_answers":["1990","2000","1987"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

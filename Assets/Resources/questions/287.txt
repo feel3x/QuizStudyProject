@@ -1,0 +1,1 @@
+{"id":287,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Who starred as Bruce Wayne and Batman in Tim Burton&#039;s 1989 movie &quot;Batman&quot;?","correct_answer":"Michael Keaton","incorrect_answers":["George Clooney","Val Kilmer","Adam West"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

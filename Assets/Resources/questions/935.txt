@@ -1,0 +1,1 @@
+{"id":935,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"Who is the chemical element Curium named after?","correct_answer":"Marie &amp; Pierre Curie","incorrect_answers":["The Curiosity Rover","Curious George","Stephen Curry"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

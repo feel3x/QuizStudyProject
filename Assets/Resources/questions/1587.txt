@@ -1,0 +1,1 @@
+{"id":1587,"type":"multiple","difficulty":"easy","category":"History","question":"The idea of Socialism was articulated and advanced by whom?","correct_answer":"Karl Marx","incorrect_answers":["Vladimir Lenin","Joseph Stalin","Vladimir Putin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

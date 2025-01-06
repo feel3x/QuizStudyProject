@@ -1,0 +1,1 @@
+{"id":1494,"type":"multiple","difficulty":"medium","category":"Geography","question":"Gibraltar, located just south of the Iberian peninsula, is a territory of which West Europe country?","correct_answer":"United Kingdom","incorrect_answers":["Spain","Portugal","France"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

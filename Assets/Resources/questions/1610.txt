@@ -1,0 +1,1 @@
+{"id":1610,"type":"multiple","difficulty":"easy","category":"History","question":"In which year did the Invasion of Kuwait by Iraq occur?","correct_answer":"1990","incorrect_answers":["1992","1988","1986"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

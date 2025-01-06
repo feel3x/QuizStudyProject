@@ -1,0 +1,1 @@
+{"id":612,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In Star Trek: The Next Generation, what is the name of Data&#039;s cat?","correct_answer":"Spot","incorrect_answers":["Mittens","Tom","Kitty"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

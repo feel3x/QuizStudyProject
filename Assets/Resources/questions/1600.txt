@@ -1,0 +1,1 @@
+{"id":1600,"type":"multiple","difficulty":"easy","category":"History","question":"King Henry VIII was the second monarch of which European royal house?","correct_answer":"Tudor","incorrect_answers":["York","Stuart","Lancaster"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

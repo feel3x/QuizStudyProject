@@ -1,0 +1,1 @@
+{"id":820,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"In the &quot;PAYDAY&quot; series, what is the real name of the character known as &quot;Dallas&quot;?","correct_answer":"Nathan Steele","incorrect_answers":["Nate Siemens","Nick Stamos","Nolan Stuhlinger"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1606,"type":"multiple","difficulty":"easy","category":"History","question":"On what street did the 1666 Great Fire of London start?","correct_answer":"Pudding Lane","incorrect_answers":["Baker Street","Houses of Parliament","St Paul&#039;s Cathedral"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":424,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Which famous rapper is featured in Jack &Uuml; (Skrillex and Diplo)&#039;s 2015 single called &quot;Febreze&quot;?","correct_answer":"2 Chainz","incorrect_answers":["Kendrick Lamar","Future","Fatman Scoop"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

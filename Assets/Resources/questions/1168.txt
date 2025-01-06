@@ -1,0 +1,1 @@
+{"id":1168,"type":"multiple","difficulty":"hard","category":"Science: Computers","question":"How many Hz does the video standard PAL support?","correct_answer":"50","incorrect_answers":["59","60","25"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

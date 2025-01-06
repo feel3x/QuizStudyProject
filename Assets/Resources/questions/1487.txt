@@ -1,0 +1,1 @@
+{"id":1487,"type":"multiple","difficulty":"medium","category":"Geography","question":"The towns of Brugelette, Arlon and Ath are located in which country?","correct_answer":"Belgium","incorrect_answers":["Andorra","France","Luxembourg"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

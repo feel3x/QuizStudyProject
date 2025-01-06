@@ -1,0 +1,1 @@
+{"id":2076,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?","correct_answer":"Lobster Johnson","incorrect_answers":["Roger the Homunculus","The Spider","The Wendigo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1625,"type":"multiple","difficulty":"easy","category":"History","question":"What is the historical name of Sri Lanka?","correct_answer":"Ceylon","incorrect_answers":["Myanmar","Colombo","Badulla"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1425,"type":"multiple","difficulty":"hard","category":"Sports","question":"Which of these Russian cities did NOT contain a stadium that was used in the 2018 FIFA World Cup?","correct_answer":"Vladivostok","incorrect_answers":["Rostov-on-Don","Yekaterinburg","Kaliningrad"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

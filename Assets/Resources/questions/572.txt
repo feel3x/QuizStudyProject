@@ -1,0 +1,1 @@
+{"id":572,"type":"multiple","difficulty":"hard","category":"Entertainment: Musicals &amp; Theatres","question":"What is the name of Broadway&#039;s first &quot;long-run&quot; musical?","correct_answer":"The Elves","incorrect_answers":["Wicked","Hamilton","The Book of Mormon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

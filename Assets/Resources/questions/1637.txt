@@ -1,0 +1,1 @@
+{"id":1637,"type":"multiple","difficulty":"medium","category":"History","question":"Which of his six wives was Henry VIII married to the longest?","correct_answer":"Catherine of Aragon","incorrect_answers":["Anne Boleyn","Jane Seymour","Catherine Parr"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

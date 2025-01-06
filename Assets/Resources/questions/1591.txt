@@ -1,0 +1,1 @@
+{"id":1591,"type":"boolean","difficulty":"easy","category":"History","question":"Adolf Hitler was a german soldier in World War I.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

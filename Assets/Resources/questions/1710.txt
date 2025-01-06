@@ -1,0 +1,1 @@
+{"id":1710,"type":"multiple","difficulty":"hard","category":"History","question":"What did the first vending machines in the early 1880&#039;s dispense?","correct_answer":"Post cards","incorrect_answers":["Alcohol","Cigarettes","Sodas "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

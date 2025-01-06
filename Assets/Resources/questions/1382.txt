@@ -1,0 +1,1 @@
+{"id":1382,"type":"multiple","difficulty":"medium","category":"Sports","question":"With which team did Michael Schumacher make his Formula One debut at the 1991 Belgian Grand Prix?","correct_answer":"Jordan","incorrect_answers":["Benetton","Ferrari","Mercedes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

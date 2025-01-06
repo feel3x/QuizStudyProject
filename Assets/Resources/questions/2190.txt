@@ -1,0 +1,1 @@
+{"id":2190,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In JoJo&#039;s Bizarre Adventure, winch character is able to accelerate time?","correct_answer":"Enrico Pucci","incorrect_answers":["Jotaro Kujo","Jolyne Cujoh","Kujo Jotaro"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

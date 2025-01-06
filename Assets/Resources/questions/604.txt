@@ -1,0 +1,1 @@
+{"id":604,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In the original Star Trek TV series, what was Captain James T. Kirk&#039;s middle name?","correct_answer":"Tiberius","incorrect_answers":["Trevor","Travis","Tyrone"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

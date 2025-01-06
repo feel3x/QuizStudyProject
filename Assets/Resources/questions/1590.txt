@@ -1,0 +1,1 @@
+{"id":1590,"type":"multiple","difficulty":"easy","category":"History","question":"What was the first sport to have been played on the moon?","correct_answer":"Golf","incorrect_answers":["Football","Tennis","Soccer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

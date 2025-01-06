@@ -1,0 +1,1 @@
+{"id":1953,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"Which car tire manufacturer is famous for its &quot;P Zero&quot; line?","correct_answer":"Pirelli","incorrect_answers":["Goodyear","Bridgestone","Michelin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

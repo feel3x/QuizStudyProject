@@ -1,0 +1,1 @@
+{"id":1676,"type":"multiple","difficulty":"medium","category":"History","question":"In what year did the First World War end?","correct_answer":"1918","incorrect_answers":["1914","1916","1912"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

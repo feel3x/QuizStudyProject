@@ -1,0 +1,1 @@
+{"id":1262,"type":"multiple","difficulty":"easy","category":"Mythology","question":"How many heads does Cerberus have?","correct_answer":"3","incorrect_answers":["2","1","5"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

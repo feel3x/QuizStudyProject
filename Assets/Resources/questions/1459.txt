@@ -1,0 +1,1 @@
+{"id":1459,"type":"boolean","difficulty":"easy","category":"Geography","question":"Greenland is covered with grass and Iceland covered with ice.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

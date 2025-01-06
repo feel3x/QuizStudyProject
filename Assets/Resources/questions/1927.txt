@@ -1,0 +1,1 @@
+{"id":1927,"type":"boolean","difficulty":"medium","category":"Animals","question":"The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

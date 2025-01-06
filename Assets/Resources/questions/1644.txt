@@ -1,0 +1,1 @@
+{"id":1644,"type":"multiple","difficulty":"medium","category":"History","question":"Which Nazi General was known as the &quot;Desert Fox&quot;?","correct_answer":"Erwin Rommel","incorrect_answers":["Gerd von Rundstadt","Wilhelm Keitel","Heinz Guderian "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

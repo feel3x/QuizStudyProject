@@ -1,0 +1,1 @@
+{"id":1588,"type":"multiple","difficulty":"easy","category":"History","question":"In what year was the M1911 pistol designed?","correct_answer":"1911","incorrect_answers":["1907","1899","1917"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

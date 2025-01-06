@@ -1,0 +1,1 @@
+{"id":1271,"type":"multiple","difficulty":"medium","category":"Mythology","question":"According to Japanese folklore, what is the favorite food of the Kappa.","correct_answer":"Cucumbers","incorrect_answers":["Kabocha","Nasu","Soba"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

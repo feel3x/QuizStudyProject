@@ -1,0 +1,1 @@
+{"id":1205,"type":"boolean","difficulty":"easy","category":"Science: Mathematics","question":"An isosceles triangle has two sides of equal length as opposed to three.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

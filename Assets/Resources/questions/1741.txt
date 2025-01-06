@@ -1,0 +1,1 @@
+{"id":1741,"type":"boolean","difficulty":"easy","category":"Politics","question":"Despite being seperated into multiple countries, The Scandinavian countries are unified by all having the same monarch.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

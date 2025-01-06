@@ -1,0 +1,1 @@
+{"id":315,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"In the film &quot;Requiem for a Dream&quot;, what drug does Jared Leto&#039;s character get addicted to?","correct_answer":"Heroin","incorrect_answers":["Cocaine","Marijuana","Oxycodone"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

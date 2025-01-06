@@ -1,0 +1,1 @@
+{"id":1299,"type":"multiple","difficulty":"hard","category":"Mythology","question":"In Greek Mythology, who was the daughter of King Minos?","correct_answer":"Ariadne","incorrect_answers":["Athena","Ariel","Alana"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

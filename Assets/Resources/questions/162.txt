@@ -1,0 +1,1 @@
+{"id":162,"type":"multiple","difficulty":"easy","category":"Entertainment: Books","question":"What was the first ever entry written for the SCP Foundation collaborative writing project?","correct_answer":"SCP-173","incorrect_answers":["SCP-001","SCP-999","SCP-1459"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

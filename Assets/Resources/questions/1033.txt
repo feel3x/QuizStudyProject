@@ -1,0 +1,1 @@
+{"id":1033,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"How long is a light-year?","correct_answer":"9.461 Trillion Kilometres","incorrect_answers":["1 AU","105.40 Earth-years","501.2 Million Miles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

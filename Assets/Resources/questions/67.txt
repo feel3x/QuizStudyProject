@@ -1,0 +1,1 @@
+{"id":67,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"According to the United States&#039; CDC, one in how many Americans die annually due to smoking?","correct_answer":"Five","incorrect_answers":["Twenty","Ten","One hundred"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

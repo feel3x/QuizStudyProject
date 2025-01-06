@@ -1,0 +1,1 @@
+{"id":1253,"type":"multiple","difficulty":"easy","category":"Mythology","question":"What mytological creatures have women&#039;s faces and vultures&#039; bodies?","correct_answer":"Harpies","incorrect_answers":["Mermaids","Nymph","Lilith"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

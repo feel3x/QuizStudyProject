@@ -1,0 +1,1 @@
+{"id":591,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"When did the TV show Rick and Morty first air on Adult Swim?","correct_answer":"2013","incorrect_answers":["2014","2016","2015"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

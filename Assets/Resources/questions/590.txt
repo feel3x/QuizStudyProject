@@ -1,0 +1,1 @@
+{"id":590,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"What country is Cory in the House set in?","correct_answer":"The United States of America","incorrect_answers":["Canada","Venezuala","England"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

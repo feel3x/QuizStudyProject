@@ -1,0 +1,1 @@
+{"id":1401,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which of the following player scored a hat-trick during their Manchester United debut?","correct_answer":"Wayne Rooney","incorrect_answers":["Cristiano Ronaldo","Robin Van Persie","David Beckham"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

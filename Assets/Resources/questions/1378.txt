@@ -1,0 +1,1 @@
+{"id":1378,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which team was the 2015-2016 NBA Champions?","correct_answer":"Cleveland Cavaliers","incorrect_answers":["Golden State Warriors","Toronto Raptors","Oklahoma City Thunders"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":634,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"In what year did &quot;The Big Bang Theory&quot; debut on CBS?","correct_answer":"2007","incorrect_answers":["2008","2006","2009"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

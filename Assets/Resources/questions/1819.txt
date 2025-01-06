@@ -1,0 +1,1 @@
+{"id":1819,"type":"multiple","difficulty":"hard","category":"Art","question":"What year did Albrecht D&uuml;rer create the painting &quot;The Young Hare&quot;?","correct_answer":"1502","incorrect_answers":["1702","1402","1602"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

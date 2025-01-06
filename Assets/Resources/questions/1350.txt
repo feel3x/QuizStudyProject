@@ -1,0 +1,1 @@
+{"id":1350,"type":"boolean","difficulty":"easy","category":"Sports","question":"Roger Federer is a famous soccer player.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

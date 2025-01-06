@@ -1,0 +1,1 @@
+{"id":95,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"Furby was released in 1998.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1869,"type":"multiple","difficulty":"hard","category":"Celebrities","question":"How tall is Tom Cruise?","correct_answer":"5&prime; 7&Prime;","incorrect_answers":["5&prime; 9&Prime;","5&prime; 4&Prime;","5&prime; 5&Prime;"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

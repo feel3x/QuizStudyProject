@@ -1,0 +1,1 @@
+{"id":526,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Who is a pioneer of &quot;Minimal Music&quot; in 1960s?","correct_answer":"Steve Reich","incorrect_answers":["Wolfgang Amadeus Mozart","Brian Eno","Sigur R&oacute;s"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

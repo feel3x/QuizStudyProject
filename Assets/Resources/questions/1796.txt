@@ -1,0 +1,1 @@
+{"id":1796,"type":"multiple","difficulty":"easy","category":"Art","question":"Who painted the biblical fresco The Creation of Adam?","correct_answer":"Michelangelo","incorrect_answers":["Leonardo da Vinci","Caravaggio","Rembrandt"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

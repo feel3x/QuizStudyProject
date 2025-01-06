@@ -1,0 +1,1 @@
+{"id":1654,"type":"multiple","difficulty":"medium","category":"History","question":"The Tsar Bomba, the most powerful nuclear bomb ever tested, had a yield of 50 megatons but theoretically had a maximum yield of how much?","correct_answer":"100 Megatons","incorrect_answers":["200 Megatons","75 Megatons","150 Megatons"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

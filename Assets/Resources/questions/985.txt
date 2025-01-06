@@ -1,0 +1,1 @@
+{"id":985,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Which of these choices is not one of the phases of mitosis?","correct_answer":"Diplophase","incorrect_answers":["Metaphase","Anaphase","Telophase"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

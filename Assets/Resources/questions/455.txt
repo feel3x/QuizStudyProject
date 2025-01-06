@@ -1,0 +1,1 @@
+{"id":455,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"What was the name of Pink Floyd&#039;s first studio album?","correct_answer":"The Piper at the Gates of Dawn","incorrect_answers":["Ummagumma","More","Atom Heart Mother"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

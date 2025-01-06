@@ -1,0 +1,1 @@
+{"id":1620,"type":"boolean","difficulty":"easy","category":"History","question":"The Tiananmen Square protests of 1989 were held in Hong Kong.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

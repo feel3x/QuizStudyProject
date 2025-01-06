@@ -1,0 +1,1 @@
+{"id":396,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Who is the lead singer of Arctic Monkeys?","correct_answer":"Alex Turner","incorrect_answers":["Jamie Cook","Matt Helders","Nick O&#039;Malley"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

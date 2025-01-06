@@ -1,0 +1,1 @@
+{"id":889,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"What do you declare in Rīchi Mahjong when you&#039;ve drawn your winning tile?","correct_answer":"Tsumo","incorrect_answers":["Ron","Rīchi","Kan"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

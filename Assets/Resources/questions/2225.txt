@@ -1,0 +1,1 @@
+{"id":2225,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Who was the Author of the manga Uzumaki?","correct_answer":"Junji Ito","incorrect_answers":["\tNoboru Takahashi","Akira Toriyama","Masashi Kishimoto"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

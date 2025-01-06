@@ -1,0 +1,1 @@
+{"id":1827,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"Gwyneth Paltrow has a daughter named...?","correct_answer":"Apple","incorrect_answers":["Lily","French","Dakota"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

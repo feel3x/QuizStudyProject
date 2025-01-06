@@ -1,0 +1,1 @@
+{"id":1013,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"&quot;The Big Bang Theory&quot; was first theorized by a priest of what religious ideology?","correct_answer":"Catholic","incorrect_answers":["Christian","Jewish","Islamic"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

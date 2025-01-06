@@ -1,0 +1,1 @@
+{"id":2091,"type":"multiple","difficulty":"easy","category":"Science: Gadgets","question":"When did the CD begin to appear on the consumer market?","correct_answer":"1982","incorrect_answers":["1992","1972","1962"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

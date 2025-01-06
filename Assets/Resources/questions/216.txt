@@ -1,0 +1,1 @@
+{"id":216,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"In the novel &quot;Lord of the Rings&quot;, how many rings of power were given to the race of man?","correct_answer":"9","incorrect_answers":["5","11","13"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

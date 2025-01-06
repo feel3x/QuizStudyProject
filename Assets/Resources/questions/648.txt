@@ -1,0 +1,1 @@
+{"id":648,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"What actor portrays Hogan &quot;Wash&quot; Washburne in the TV Show Firefly?","correct_answer":"Alan Tudyk","incorrect_answers":["Adam Baldwin","Nathan Fillion","Sean Maher"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

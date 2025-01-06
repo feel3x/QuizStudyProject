@@ -1,0 +1,1 @@
+{"id":846,"type":"multiple","difficulty":"hard","category":"Entertainment: Video Games","question":"Which of the following commercial vehicles from Grand Theft Auto IV did NOT reappear in Grand Theft Auto V?","correct_answer":"Steed","incorrect_answers":["Mule","Benson","Pony"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

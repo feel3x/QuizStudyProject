@@ -1,0 +1,1 @@
+{"id":1496,"type":"multiple","difficulty":"medium","category":"Geography","question":"Which country inside the United Kingdom does NOT appear on its flag, the Union Jack?","correct_answer":"Wales","incorrect_answers":["Scotland","Ireland","Isle of Wight"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1738,"type":"multiple","difficulty":"easy","category":"Politics","question":"According to the United States Constitution, how old must a person be to be elected President of the United States?","correct_answer":"35","incorrect_answers":["30","40","45"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

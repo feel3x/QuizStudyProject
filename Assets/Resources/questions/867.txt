@@ -1,0 +1,1 @@
+{"id":867,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"How many spaces are there on a standard Monopoly board?","correct_answer":"40","incorrect_answers":["28","55","36"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1276,"type":"multiple","difficulty":"medium","category":"Mythology","question":"Which of the following Mesopotamian mythological figures was NOT a deity?","correct_answer":"Enkidu","incorrect_answers":["Enki","Enlil","Enkimdu"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

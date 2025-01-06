@@ -1,0 +1,1 @@
+{"id":533,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Artis Leon Ivey Jr. is better known as which rap artist?","correct_answer":"Coolio","incorrect_answers":["Dr Dre","Snoop Dogg","Ice T"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

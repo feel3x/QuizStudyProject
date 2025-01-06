@@ -1,0 +1,1 @@
+{"id":1395,"type":"multiple","difficulty":"medium","category":"Sports","question":"Who won the 2011 Stanley Cup?","correct_answer":"Boston Bruins","incorrect_answers":["Montreal Canadiens","New York Rangers","Toronto Maple Leafs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

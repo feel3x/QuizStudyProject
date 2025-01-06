@@ -1,0 +1,1 @@
+{"id":1230,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"In the hexadecimal system, what number comes after 9?","correct_answer":"The Letter A","incorrect_answers":["10","The Number 0","16"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

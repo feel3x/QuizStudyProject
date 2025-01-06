@@ -1,0 +1,1 @@
+{"id":1342,"type":"multiple","difficulty":"easy","category":"Sports","question":"Who won the 2015 Formula 1 World Championship?","correct_answer":"Lewis Hamilton","incorrect_answers":["Nico Rosberg","Sebastian Vettel","Jenson Button"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

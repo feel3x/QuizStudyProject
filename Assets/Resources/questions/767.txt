@@ -1,0 +1,1 @@
+{"id":767,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What is the name of the protagonist&#039;s first Persona in &quot;Persona 5&quot;?","correct_answer":"Arsene","incorrect_answers":["Mara","Izanagi","Sandaphlon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

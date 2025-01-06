@@ -1,0 +1,1 @@
+{"id":1514,"type":"multiple","difficulty":"medium","category":"Geography","question":"How many countries does Spain have a land border with?","correct_answer":"5","incorrect_answers":["2","3","4"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

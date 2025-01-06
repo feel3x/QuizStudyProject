@@ -1,0 +1,1 @@
+{"id":2210,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Who voices &quot;Shou Suzuki&quot; in the English dub of &quot;Mob Psycho 100&quot;?","correct_answer":"Casey Mongillo","incorrect_answers":["Ben Diskin","Chris Niosi","David Naughton"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

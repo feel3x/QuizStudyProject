@@ -1,0 +1,1 @@
+{"id":1604,"type":"multiple","difficulty":"easy","category":"History","question":"In 1720, England was in massive debt and became involved in the South Sea Bubble. Who was the main mastermind behind it?","correct_answer":"John Blunt","incorrect_answers":["Daniel Defoe","Robert Harley","John Churchill"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

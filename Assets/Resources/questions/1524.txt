@@ -1,0 +1,1 @@
+{"id":1524,"type":"multiple","difficulty":"medium","category":"Geography","question":"What is the official language of Bhutan?","correct_answer":"Dzongkha","incorrect_answers":["Ladakhi","Karen","Groma"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

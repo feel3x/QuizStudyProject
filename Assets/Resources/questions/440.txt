@@ -1,0 +1,1 @@
+{"id":440,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Which Twitch streamer is the vocalist for Red Vox?","correct_answer":"Vinesauce","incorrect_answers":["The8BitDrummer","LIRIK","Sodapoppin"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1040,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"What is the name for the auditory illusion of a note that seems to be rising infinitely?","correct_answer":"Shepard Tone","incorrect_answers":["Glissandro Illusion","Fransen Effect","McGurck Effect"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2041,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"In Calvin and Hobbes, what is the name of the principal at Calvin&#039;s school?","correct_answer":"Mr. Spittle","incorrect_answers":["Mr. Boreman","Mr. Spitling","Mr. Moe"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

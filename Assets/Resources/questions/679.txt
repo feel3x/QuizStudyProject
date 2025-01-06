@@ -1,0 +1,1 @@
+{"id":679,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"Which of these in the Star Trek series is NOT Klingon food?","correct_answer":"Hors d&#039;oeuvre","incorrect_answers":["Racht","Gagh","Bloodwine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

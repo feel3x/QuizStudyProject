@@ -1,0 +1,1 @@
+{"id":578,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Who played Agent Fox Mulder in the TV sci-fi drama &quot;The X-Files&quot;?","correct_answer":"David Duchovny","incorrect_answers":["Gillian Anderson","Robert Patrick","Mitch Pileggi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

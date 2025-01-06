@@ -1,0 +1,1 @@
+{"id":865,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"How many dice are used in the game of Yahtzee?","correct_answer":"Five","incorrect_answers":["Four","Six","Eight"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

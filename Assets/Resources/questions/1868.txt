@@ -1,0 +1,1 @@
+{"id":1868,"type":"multiple","difficulty":"hard","category":"Celebrities","question":"The eccentric natural philosopher Tycho Brahe kept what as a pet?","correct_answer":"Moose","incorrect_answers":["Dog","Bear","Goat"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

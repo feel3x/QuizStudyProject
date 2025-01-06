@@ -1,0 +1,1 @@
+{"id":1820,"type":"boolean","difficulty":"easy","category":"Celebrities","question":"Marilyn Monroe was born on July 1, 1926.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

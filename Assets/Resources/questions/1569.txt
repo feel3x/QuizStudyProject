@@ -1,0 +1,1 @@
+{"id":1569,"type":"multiple","difficulty":"hard","category":"Geography","question":"What is the capital of Wisconsin, USA?","correct_answer":"Madison","incorrect_answers":["Milwaukee","Wisconsin Dells","Green Bay"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

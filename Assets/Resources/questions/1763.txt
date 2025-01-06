@@ -1,0 +1,1 @@
+{"id":1763,"type":"multiple","difficulty":"medium","category":"Politics","question":"What is former United States President Bill Clinton&#039;s full name?","correct_answer":"William Jefferson Clinton","incorrect_answers":["William Roosevelt Clinton","William Truman Clinton","William Lincoln Clinton"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

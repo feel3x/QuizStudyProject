@@ -1,0 +1,1 @@
+{"id":368,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"Which actress portrayed Dr. Grace Augustine in the James Cameron movie &quot;Avatar&quot;?","correct_answer":"Sigourney Weaver","incorrect_answers":["Jessica Chastain","Melissa Beckett","Alyssa Monroe "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

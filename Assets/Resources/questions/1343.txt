@@ -1,0 +1,1 @@
+{"id":1343,"type":"multiple","difficulty":"easy","category":"Sports","question":"What is the name of Manchester United&#039;s home stadium?","correct_answer":"Old Trafford","incorrect_answers":["Anfield","City of Manchester Stadium","St James Park"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

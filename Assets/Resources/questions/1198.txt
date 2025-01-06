@@ -1,0 +1,1 @@
+{"id":1198,"type":"multiple","difficulty":"easy","category":"Science: Mathematics","question":"How many sides does a trapezium have?","correct_answer":"4","incorrect_answers":["3","5","6"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

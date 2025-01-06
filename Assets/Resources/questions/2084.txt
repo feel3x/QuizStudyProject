@@ -1,0 +1,1 @@
+{"id":2084,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"When was the Garfield comic first published?","correct_answer":"1978","incorrect_answers":["1982","1973","1988"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

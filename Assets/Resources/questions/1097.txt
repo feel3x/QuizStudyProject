@@ -1,0 +1,1 @@
+{"id":1097,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?","correct_answer":"Apple","incorrect_answers":["Microsoft","Atari","Commodore"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

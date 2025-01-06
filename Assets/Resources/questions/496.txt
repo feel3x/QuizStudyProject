@@ -1,0 +1,1 @@
+{"id":496,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Who designed the album cover for True Romance, an album by Estelle?","correct_answer":"Rebecca Sugar","incorrect_answers":["Matt Burnett","Ian Jones Quartey","Ben Leven"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

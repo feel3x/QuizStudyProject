@@ -1,0 +1,1 @@
+{"id":1100,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"The Python programming language gets its name from the British comedy group &quot;Monty Python.&quot;","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

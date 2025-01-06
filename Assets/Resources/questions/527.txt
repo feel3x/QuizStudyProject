@@ -1,0 +1,1 @@
+{"id":527,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?","correct_answer":"David Gilmour","incorrect_answers":["Jimmy Page","Mark Knopfler","Eric Clapton"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2074,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"In what Homestuck Update was [S] Game Over released?","correct_answer":"October 25th, 2014","incorrect_answers":["April 13th, 2009","April 8th, 2012","August 28th, 2003"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2307,"type":"boolean","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"In &quot;Avatar: The Last Airbender&quot; and &quot;The Legend of Korra&quot;, Lavabending is a specialized bending technique of Firebending.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

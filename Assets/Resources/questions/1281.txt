@@ -1,0 +1,1 @@
+{"id":1281,"type":"multiple","difficulty":"medium","category":"Mythology","question":"Hera is god of...","correct_answer":"Marriage","incorrect_answers":["Agriculture","Sea","War"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

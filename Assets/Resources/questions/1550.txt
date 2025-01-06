@@ -1,0 +1,1 @@
+{"id":1550,"type":"multiple","difficulty":"hard","category":"Geography","question":"The Andaman and Nicobar Islands in South East Asia are controlled by which country?","correct_answer":"India","incorrect_answers":["Vietnam","Thailand","Indonesia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

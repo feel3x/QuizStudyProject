@@ -1,0 +1,1 @@
+{"id":1082,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"Time on Computers is measured via the EPOX System.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

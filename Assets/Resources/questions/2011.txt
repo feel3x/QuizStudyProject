@@ -1,0 +1,1 @@
+{"id":2011,"type":"boolean","difficulty":"hard","category":"Vehicles","question":"The term &quot;GTO&quot; was originated by Ferrari?","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

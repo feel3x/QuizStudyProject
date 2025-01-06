@@ -1,0 +1,1 @@
+{"id":611,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Which of these Disney shows is classified as an anime?","correct_answer":"Stitch!","incorrect_answers":["Cory in the House","The Emperor&#039;s New School","Hannah Montana"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

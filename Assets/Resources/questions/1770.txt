@@ -1,0 +1,1 @@
+{"id":1770,"type":"boolean","difficulty":"medium","category":"Politics","question":"George W. Bush lost the popular vote in the 2004 United States presidential election.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

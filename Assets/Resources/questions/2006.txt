@@ -1,0 +1,1 @@
+{"id":2006,"type":"multiple","difficulty":"hard","category":"Vehicles","question":"What model was the sports car gifted to Yuri Gagarin by the French government in 1965?","correct_answer":"Matra Djet","incorrect_answers":["Porsche 911","Alpine A110","AC Cobra"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

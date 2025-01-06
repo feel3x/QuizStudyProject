@@ -1,0 +1,1 @@
+{"id":261,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Which of the following movies was not based on a novel by Stephen King? ","correct_answer":"The Thing","incorrect_answers":["Carrie","Misery","The Green Mile"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

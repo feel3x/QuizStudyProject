@@ -1,0 +1,1 @@
+{"id":1456,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the capital of the US State of New York?","correct_answer":"Albany","incorrect_answers":["Buffalo","New York","Rochester"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

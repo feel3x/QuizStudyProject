@@ -1,0 +1,1 @@
+{"id":707,"type":"boolean","difficulty":"easy","category":"Entertainment: Video Games","question":"The game &quot;Battlefield 1&quot; takes place during World War I.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

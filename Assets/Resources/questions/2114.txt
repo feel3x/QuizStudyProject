@@ -1,0 +1,1 @@
+{"id":2114,"type":"multiple","difficulty":"hard","category":"Science: Gadgets","question":"Which of the following cellular device companies is NOT headquartered in Asia?","correct_answer":"Nokia","incorrect_answers":["LG Electronics","Samsung","HTC"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

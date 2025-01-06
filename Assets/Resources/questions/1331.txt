@@ -1,0 +1,1 @@
+{"id":1331,"type":"multiple","difficulty":"easy","category":"Sports","question":"The Los Angeles Dodgers were originally from what U.S. city?","correct_answer":"Brooklyn","incorrect_answers":["Las Vegas","Boston","Seattle"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

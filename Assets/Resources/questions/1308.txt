@@ -1,0 +1,1 @@
+{"id":1308,"type":"multiple","difficulty":"hard","category":"Mythology","question":"Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.","correct_answer":"Aristaeus","incorrect_answers":["Autonoe","Carme","Cephisso"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

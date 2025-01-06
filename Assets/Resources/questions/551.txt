@@ -1,0 +1,1 @@
+{"id":551,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"The World Chess Championship in Chess, Act 1 is set in which Italian city?","correct_answer":"Merano","incorrect_answers":["Venice","Milan","Rome"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

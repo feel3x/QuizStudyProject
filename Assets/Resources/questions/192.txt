@@ -1,0 +1,1 @@
+{"id":192,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"Which of the following was the author of &quot;Username Evie&quot;?","correct_answer":"Joe Sugg","incorrect_answers":["Zoe Sugg","Joe Weller","Alfie Deyes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":596,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"How many seasons did the Sci-Fi television show &quot;Stargate Universe&quot; have?","correct_answer":"2","incorrect_answers":["10","5","3"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

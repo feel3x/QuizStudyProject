@@ -1,0 +1,1 @@
+{"id":561,"type":"multiple","difficulty":"medium","category":"Entertainment: Musicals &amp; Theatres","question":"Who is the musical director for the award winning musical &quot;Hamilton&quot;?","correct_answer":"Alex Lacamoire","incorrect_answers":["Lin-Manuel Miranda","Renee Elise-Goldberry","Leslie Odom Jr."],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

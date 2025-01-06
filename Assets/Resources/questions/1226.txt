@@ -1,0 +1,1 @@
+{"id":1226,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"Which mathematician refused the Fields Medal?","correct_answer":"Grigori Perelman","incorrect_answers":["Andrew Wiles","Terence Tao","Edward Witten"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

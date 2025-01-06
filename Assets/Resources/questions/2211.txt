@@ -1,0 +1,1 @@
+{"id":2211,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which studio animated Soul Eater?","correct_answer":"Bones","incorrect_answers":["Kyoto Animation","xebec","Production I.G"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":601,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"Who won Big Brother 2014 UK?","correct_answer":"Helen Wood","incorrect_answers":["Christopher Hall","Pauline Bennett","Pavandeep &quot;Pav&quot; Paul"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

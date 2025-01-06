@@ -1,0 +1,1 @@
+{"id":768,"type":"boolean","difficulty":"medium","category":"Entertainment: Video Games","question":"In the Resident Evil series, Leon S. Kennedy is a member of STARS.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

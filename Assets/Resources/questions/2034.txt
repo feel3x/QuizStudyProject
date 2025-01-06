@@ -1,0 +1,1 @@
+{"id":2034,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"What is the designation given to the Marvel Cinematic Universe?","correct_answer":"Earth-199999","incorrect_answers":["Earth-616","Earth-10005","Earth-2008"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

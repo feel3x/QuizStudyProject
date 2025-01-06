@@ -1,0 +1,1 @@
+{"id":320,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Which movie sequel had improved box office results compared to its original film?","correct_answer":"Toy Story 2","incorrect_answers":["Sin City: A Dame to Kill For","Speed 2: Cruise Control","Son of the Mask"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

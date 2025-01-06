@@ -1,0 +1,1 @@
+{"id":1443,"type":"boolean","difficulty":"easy","category":"Geography","question":"There is a city called Rome in every continent on Earth.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1669,"type":"multiple","difficulty":"medium","category":"History","question":"What is the oldest US state?","correct_answer":"Delaware","incorrect_answers":["Rhode Island","Maine","Virginia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

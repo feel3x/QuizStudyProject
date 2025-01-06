@@ -1,0 +1,1 @@
+{"id":23,"type":"boolean","difficulty":"easy","category":"General Knowledge","question":"The Great Wall of China is visible from the moon.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

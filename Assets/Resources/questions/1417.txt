@@ -1,0 +1,1 @@
+{"id":1417,"type":"multiple","difficulty":"hard","category":"Sports","question":"What tool lends it&#039;s name to a last-stone advantage in an end in Curling?","correct_answer":"Hammer","incorrect_answers":["Wrench","Drill","Screwdriver"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

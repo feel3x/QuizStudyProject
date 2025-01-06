@@ -1,0 +1,1 @@
+{"id":676,"type":"boolean","difficulty":"hard","category":"Entertainment: Television","question":"The Klingon home planet is Qo&#039;noS.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

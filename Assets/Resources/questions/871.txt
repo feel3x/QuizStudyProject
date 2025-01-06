@@ -1,0 +1,1 @@
+{"id":871,"type":"multiple","difficulty":"easy","category":"Entertainment: Board Games","question":"How many dots are on a single die?","correct_answer":"21","incorrect_answers":["24","15","18"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

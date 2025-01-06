@@ -1,0 +1,1 @@
+{"id":1992,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Which of the following vehicles featured a full glass roof at base model?","correct_answer":"Renault Avantime","incorrect_answers":["Chevy Volt","Mercedes-Benz A-Class","Honda Odyssey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

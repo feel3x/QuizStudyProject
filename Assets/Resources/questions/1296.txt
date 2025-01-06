@@ -1,0 +1,1 @@
+{"id":1296,"type":"multiple","difficulty":"medium","category":"Mythology","question":"In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?","correct_answer":"Spider","incorrect_answers":["Wild dog","Monkey","Crocodile"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

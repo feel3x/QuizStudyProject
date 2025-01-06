@@ -1,0 +1,1 @@
+{"id":1374,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?","correct_answer":"Puma","incorrect_answers":["Nike","Adidas","Reebok"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

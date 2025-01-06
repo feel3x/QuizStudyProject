@@ -1,0 +1,1 @@
+{"id":921,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"Human cells typically have how many copies of each gene?","correct_answer":"2","incorrect_answers":["1","4","3"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

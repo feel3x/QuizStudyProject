@@ -1,0 +1,1 @@
+{"id":1965,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"Automobiles produced by Tesla Motors operate on which form of energy?","correct_answer":"Electricity","incorrect_answers":["Gasoline","Diesel","Nuclear"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

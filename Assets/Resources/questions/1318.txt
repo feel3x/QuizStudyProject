@@ -1,0 +1,1 @@
+{"id":1318,"type":"multiple","difficulty":"easy","category":"Sports","question":"Who won the UEFA Champions League in 2017?","correct_answer":"Real Madrid C.F.","incorrect_answers":["Atletico Madrid","AS Monaco FC","Juventus F.C."],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

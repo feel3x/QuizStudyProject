@@ -1,0 +1,1 @@
+{"id":2024,"type":"multiple","difficulty":"easy","category":"Entertainment: Comics","question":"This Marvel superhero is often called &quot;The man without fear&quot;.","correct_answer":"Daredevil","incorrect_answers":["Thor","Wolverine","Hulk"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

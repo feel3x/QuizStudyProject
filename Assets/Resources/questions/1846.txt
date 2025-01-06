@@ -1,0 +1,1 @@
+{"id":1846,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Donald J. Trump&#039;s Middle Name is...","correct_answer":"John","incorrect_answers":["Jeff","Jerald","Jason"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

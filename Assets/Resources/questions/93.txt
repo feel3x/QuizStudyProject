@@ -1,0 +1,1 @@
+{"id":93,"type":"multiple","difficulty":"medium","category":"General Knowledge","question":"Which of these is the name of a Japanese system of alternative medicine, literally meaning &quot;finger pressure&quot;?","correct_answer":"Shiatsu","incorrect_answers":["Ukiyo","Majime","Ikigai"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":395,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Who had a 1983 hit with the song &#039;Africa&#039;?","correct_answer":"Toto","incorrect_answers":["Foreigner","Steely Dan","Journey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

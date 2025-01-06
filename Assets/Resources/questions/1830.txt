@@ -1,0 +1,1 @@
+{"id":1830,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"What was James Coburn&#039;s last film role before his death?","correct_answer":"American Gun","incorrect_answers":["Monsters Inc","Texas Rangers","Snow Dogs"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

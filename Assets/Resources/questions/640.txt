@@ -1,0 +1,1 @@
+{"id":640,"type":"multiple","difficulty":"medium","category":"Entertainment: Television","question":"Which of these television shows makes everyone look under their chair?","correct_answer":"Oprah","incorrect_answers":["Jimmy Fallon","Saturday Night Live","Larry Rubert"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

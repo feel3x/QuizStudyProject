@@ -1,0 +1,1 @@
+{"id":2217,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which animation studio produced &quot;Log Horizon&quot;?","correct_answer":"Satelite","incorrect_answers":["Sunrise","Xebec","Production I.G"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

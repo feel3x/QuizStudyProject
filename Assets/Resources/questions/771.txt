@@ -1,0 +1,1 @@
+{"id":771,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which of these weapons is NOT available to the Terrorist team in the game, &quot;Counter-Strike: Global Offensive&quot;?","correct_answer":"SCAR-20","incorrect_answers":["SG 550","CZ-75","XM1014"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

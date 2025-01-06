@@ -1,0 +1,1 @@
+{"id":1268,"type":"multiple","difficulty":"easy","category":"Mythology","question":"Who was the only god from Greece who did not get a name change in Rome?","correct_answer":"Apollo","incorrect_answers":["Demeter","Zeus","Athena"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":2053,"type":"multiple","difficulty":"medium","category":"Entertainment: Comics","question":"Who authored The Adventures of Tintin?","correct_answer":"Herg&eacute;","incorrect_answers":["E.P. Jacobs","Rin Tin Tin","Chic Young"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

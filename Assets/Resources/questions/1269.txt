@@ -1,0 +1,1 @@
+{"id":1269,"type":"multiple","difficulty":"easy","category":"Mythology","question":"This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.","correct_answer":"Eris","incorrect_answers":["Charon","Ceres","Dysnomia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

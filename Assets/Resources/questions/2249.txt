@@ -1,0 +1,1 @@
+{"id":2249,"type":"multiple","difficulty":"hard","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the anime, Full Metal Panic!, who is Kaname&#039;s best friend?","correct_answer":"Kyoko Tokiwa","incorrect_answers":["Melissa Mao","Ren Mikihara","Teletha &quot;Tessa&quot; Testarossa"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

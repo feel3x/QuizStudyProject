@@ -1,0 +1,1 @@
+{"id":2152,"type":"boolean","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"The anime &quot;Lucky Star&quot; follows the story of one girl who is unaware she is God.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

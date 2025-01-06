@@ -1,0 +1,1 @@
+{"id":1932,"type":"multiple","difficulty":"hard","category":"Animals","question":"What scientific family does the Aardwolf belong to?","correct_answer":"Hyaenidae","incorrect_answers":["Canidae","Felidae","Eupleridae"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

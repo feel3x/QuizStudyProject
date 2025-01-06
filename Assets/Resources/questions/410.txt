@@ -1,0 +1,1 @@
+{"id":410,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"The &quot;British Invasion&quot; was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?","correct_answer":"60&#039;s","incorrect_answers":["50&#039;s","40&#039;s","30&#039;s"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":453,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"Who had a US and UK number 1 hit in 1962 with the instrumental, &#039;Telstar&#039;?","correct_answer":"The Tornados","incorrect_answers":["The Ventures","The Spotnicks","The Tremeloes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":56,"type":"boolean","difficulty":"medium","category":"General Knowledge","question":"The vapor produced by e-cigarettes is actually water.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

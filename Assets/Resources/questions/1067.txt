@@ -1,0 +1,1 @@
+{"id":1067,"type":"boolean","difficulty":"easy","category":"Science: Computers","question":"Linux was first created as an alternative to Windows XP.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

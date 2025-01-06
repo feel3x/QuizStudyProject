@@ -1,0 +1,1 @@
+{"id":740,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"In what year was Garry&#039;s Mod released as a standalone title on Valve&#039;s Steam distribution service?","correct_answer":"2006","incorrect_answers":["2007","2004","2003"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

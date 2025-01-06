@@ -1,0 +1,1 @@
+{"id":269,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"In &quot;ALF&quot;, what was ALF&#039;s real name?","correct_answer":"Gordon Shumway","incorrect_answers":["Gordon Milipp","Gordon Foster","Gordon von Gam"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

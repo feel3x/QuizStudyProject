@@ -1,0 +1,1 @@
+{"id":508,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which of Michael Jackson&#039;s albums sold the most copies?","correct_answer":"Thriller","incorrect_answers":["Dangerous","Bad","Off the Wall"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

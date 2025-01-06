@@ -1,0 +1,1 @@
+{"id":1631,"type":"multiple","difficulty":"medium","category":"History","question":"Under which name was Rodrigo Borgia made Pope?","correct_answer":"Alexander VI","incorrect_answers":["Rodrigo I","John Paul II","Pius VII"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

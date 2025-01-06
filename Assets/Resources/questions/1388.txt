@@ -1,0 +1,1 @@
+{"id":1388,"type":"boolean","difficulty":"medium","category":"Sports","question":"In 2008, Usain Bolt set the world record for the 100 meters with one shoelace untied.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

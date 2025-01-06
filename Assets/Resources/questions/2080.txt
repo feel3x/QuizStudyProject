@@ -1,0 +1,1 @@
+{"id":2080,"type":"multiple","difficulty":"hard","category":"Entertainment: Comics","question":"In the Marvel Universe, the planet of Svartalfheim is home to what race?","correct_answer":"Dark Elves","incorrect_answers":["Frost Giants","Kronans","Skrulls"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

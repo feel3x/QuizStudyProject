@@ -1,0 +1,1 @@
+{"id":1475,"type":"multiple","difficulty":"easy","category":"Geography","question":"What country has a horizontal bicolor red and white flag?","correct_answer":"Monaco","incorrect_answers":["Bahrain","Malta","Liechenstein"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

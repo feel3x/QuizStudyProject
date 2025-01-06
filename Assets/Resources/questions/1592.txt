@@ -1,0 +1,1 @@
+{"id":1592,"type":"boolean","difficulty":"easy","category":"History","question":"Former United States Presidents John Adams and Thomas Jefferson died within hours of each other.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

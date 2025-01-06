@@ -1,0 +1,1 @@
+{"id":234,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"In the Harry Potter universe, who does Draco Malfoy end up marrying?","correct_answer":"Astoria Greengrass","incorrect_answers":["Pansy Parkinson","Millicent Bulstrode","Hermione Granger"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

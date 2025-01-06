@@ -1,0 +1,1 @@
+{"id":1789,"type":"multiple","difficulty":"easy","category":"Art","question":"What is the name of the Japanese art of folding paper into decorative shapes and figures?","correct_answer":"Origami","incorrect_answers":["Sumi-e","Ukiyo-e","Haiku"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

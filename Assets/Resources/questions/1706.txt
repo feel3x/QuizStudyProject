@@ -1,0 +1,1 @@
+{"id":1706,"type":"multiple","difficulty":"hard","category":"History","question":"What age was King Henry V when he died?","correct_answer":"35","incorrect_answers":["62","87","73"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

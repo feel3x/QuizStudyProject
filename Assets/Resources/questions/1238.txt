@@ -1,0 +1,1 @@
+{"id":1238,"type":"multiple","difficulty":"hard","category":"Science: Mathematics","question":"What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?","correct_answer":"1729","incorrect_answers":["91","561","4104"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

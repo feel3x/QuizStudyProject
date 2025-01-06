@@ -1,0 +1,1 @@
+{"id":1101,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"Which programming language shares its name with an island in Indonesia?","correct_answer":"Java","incorrect_answers":["Python","C","Jakarta"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

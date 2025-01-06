@@ -1,0 +1,1 @@
+{"id":1666,"type":"multiple","difficulty":"medium","category":"History","question":"Who was the first president born in the independent United States?","correct_answer":"Martin Van Buren","incorrect_answers":["John Adams","George Washington","James Monroe "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

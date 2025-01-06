@@ -1,0 +1,1 @@
+{"id":2197,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;One Piece&quot;, which one of the following is NOT an Ancient Weapon?","correct_answer":"Jupiter","incorrect_answers":["Uranus","Poseidon","Pluton"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

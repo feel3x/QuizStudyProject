@@ -1,0 +1,1 @@
+{"id":903,"type":"multiple","difficulty":"hard","category":"Entertainment: Board Games","question":"In standard Monopoly, what&#039;s the rent if you land on Park Place with no houses?","correct_answer":"$35","incorrect_answers":["$30","$50","$45"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

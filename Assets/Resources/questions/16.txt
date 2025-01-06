@@ -1,0 +1,1 @@
+{"id":16,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"Terry Gilliam was an animator that worked with which British comedy group?","correct_answer":"Monty Python","incorrect_answers":["The Goodies&lrm;","The League of Gentlemen&lrm;","The Penny Dreadfuls"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

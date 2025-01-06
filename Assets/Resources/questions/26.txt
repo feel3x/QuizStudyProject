@@ -1,0 +1,1 @@
+{"id":26,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What is the name of the company in Lethal Company?","correct_answer":"The Company","incorrect_answers":["Planet Scrap Co.","Lethal Robotics","Gordian Shipping Co."],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1228,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"What is the area of a circle with a diameter of 20 inches if &pi;= 3.1415?","correct_answer":"314.15 Inches","incorrect_answers":["380.1215 Inches","3141.5 Inches","1256.6 Inches"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

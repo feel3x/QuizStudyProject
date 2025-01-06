@@ -1,0 +1,1 @@
+{"id":1329,"type":"multiple","difficulty":"easy","category":"Sports","question":"Which of the following sports is not part of the triathlon?","correct_answer":"Horse-Riding","incorrect_answers":["Cycling","Swimming","Running"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1876,"type":"boolean","difficulty":"easy","category":"Animals","question":"The internet browser Firefox is named after the Red Panda.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

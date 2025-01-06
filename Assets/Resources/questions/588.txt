@@ -1,0 +1,1 @@
+{"id":588,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?","correct_answer":"Lung Cancer","incorrect_answers":["Prostate Cancer","Brain Cancer","Testicular Cancer"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1430,"type":"multiple","difficulty":"easy","category":"Geography","question":"What country is the second largest in the world by area?","correct_answer":"Canada","incorrect_answers":["Russia","China","United States of America"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

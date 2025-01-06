@@ -1,0 +1,1 @@
+{"id":1026,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Folic acid is the synthetic form of which vitamin?","correct_answer":"Vitamin B","incorrect_answers":["Vitamin A","Vitamin C","Vitamin D"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

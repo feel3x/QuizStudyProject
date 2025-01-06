@@ -1,0 +1,1 @@
+{"id":798,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"Which one of these nations was added to Civilization V with the &quot;Gods &amp; Kings&quot; expansion?","correct_answer":"The Netherlands","incorrect_answers":["The Zulu","The Ottomans","The Kongo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

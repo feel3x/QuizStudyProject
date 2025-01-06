@@ -1,0 +1,1 @@
+{"id":754,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What is the browser game Kantai Collection heavily inspired by?","correct_answer":"Second World War","incorrect_answers":["Manga","World of Warcraft","An Anime"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

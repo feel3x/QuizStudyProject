@@ -1,0 +1,1 @@
+{"id":1229,"type":"boolean","difficulty":"medium","category":"Science: Mathematics","question":"You can square root a negative number with an imaginary number &quot;i&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

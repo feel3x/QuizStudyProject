@@ -1,0 +1,1 @@
+{"id":1942,"type":"multiple","difficulty":"hard","category":"Animals","question":"Unlike on most salamanders, this part of a newt is flat?","correct_answer":"Tail","incorrect_answers":["Head","Teeth","Feet"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

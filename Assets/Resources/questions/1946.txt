@@ -1,0 +1,1 @@
+{"id":1946,"type":"multiple","difficulty":"hard","category":"Animals","question":"Which species of Brown Bear is not extinct?","correct_answer":"Syrian Brown Bear","incorrect_answers":["California Grizzly Bear","Atlas Bear","Mexican Grizzly Bear"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1245,"type":"multiple","difficulty":"hard","category":"Science: Mathematics","question":"What is the derivative of Acceleration with respect to time?","correct_answer":"Jerk","incorrect_answers":["Shift","Bump","Slide"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

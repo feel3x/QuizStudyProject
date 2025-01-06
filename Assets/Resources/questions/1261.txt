@@ -1,0 +1,1 @@
+{"id":1261,"type":"multiple","difficulty":"easy","category":"Mythology","question":"What mythology did the god &quot;Apollo&quot; come from?","correct_answer":"Greek and Roman","incorrect_answers":["Roman and Spanish","Greek and Chinese","Greek, Roman and Norse"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

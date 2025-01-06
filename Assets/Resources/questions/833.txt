@@ -1,0 +1,1 @@
+{"id":833,"type":"boolean","difficulty":"hard","category":"Entertainment: Video Games","question":"The names of Roxas&#039;s Keyblades in Kingdom Hearts are &quot;Oathkeeper&quot; and &quot;Oblivion&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

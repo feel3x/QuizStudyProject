@@ -1,0 +1,1 @@
+{"id":1541,"type":"multiple","difficulty":"hard","category":"Geography","question":"The Maluku islands (informally known as the Spice Islands) belong to which country?","correct_answer":"Indonesia","incorrect_answers":["Chile","New Zealand","Fiji"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1157,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?","correct_answer":"Clipper Chip","incorrect_answers":["Enigma Machine","Skipjack","Nautilus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1684,"type":"multiple","difficulty":"hard","category":"History","question":"Which of the following physicists did NOT work on the Manhattan project?","correct_answer":"Murray Gell-Mann","incorrect_answers":["Richard Feynman","J. Robert Oppenheimer","John Von-Neumann"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

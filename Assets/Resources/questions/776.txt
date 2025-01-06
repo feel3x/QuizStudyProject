@@ -1,0 +1,1 @@
+{"id":776,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"In &quot;Overwatch,&quot; what is the hero McCree&#039;s full name?","correct_answer":"Jesse McCree","incorrect_answers":["Jack &quot;McCree&quot; Morrison","Gabriel Reyes","Jamison &quot;Deadeye&quot; Fawkes"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

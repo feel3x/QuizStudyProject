@@ -1,0 +1,1 @@
+{"id":693,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"Which former Coronation Street actress was once a hostess on the British Game Show &quot;Double Your Money&quot;?","correct_answer":"Amanda Barrie","incorrect_answers":["Sue Nicholls","Violet Carson","Jean Alexander"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

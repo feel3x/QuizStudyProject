@@ -1,0 +1,1 @@
+{"id":615,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"What NBC sitcom once saw two of its characters try to pitch NBC on a sitcom about nothing?","correct_answer":"Seinfeld","incorrect_answers":["Frasier","Becker","Friends"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

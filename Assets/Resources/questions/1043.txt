@@ -1,0 +1,1 @@
+{"id":1043,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Which of the following elements is typically used in the doping of the semiconductor silicon?","correct_answer":"Boron","incorrect_answers":["Oxygen","Carbon","Iron"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

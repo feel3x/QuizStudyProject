@@ -1,0 +1,1 @@
+{"id":386,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)? ","correct_answer":"14","incorrect_answers":["16","18","20"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

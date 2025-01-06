@@ -1,0 +1,1 @@
+{"id":323,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"Which town is the setting for the Disney movie The Love Bug (1968)?","correct_answer":"San Francisco","incorrect_answers":["Los Angeles","Sacramento","San Jose"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

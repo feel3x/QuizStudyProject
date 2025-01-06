@@ -1,0 +1,1 @@
+{"id":1581,"type":"multiple","difficulty":"easy","category":"History","question":"Who was the Prime Minister of Japan when Japan declared war on the US?","correct_answer":"Hideki Tojo","incorrect_answers":["Michinomiya Hirohito","Isoroku Yamamoto","Fumimaro Konoe"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

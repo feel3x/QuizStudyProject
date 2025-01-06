@@ -1,0 +1,1 @@
+{"id":1492,"type":"boolean","difficulty":"medium","category":"Geography","question":"There exists an island named &quot;Java&quot;.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

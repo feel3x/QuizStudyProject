@@ -1,0 +1,1 @@
+{"id":1862,"type":"multiple","difficulty":"medium","category":"Celebrities","question":"Which television show has Dan Gheesling been on?","correct_answer":"Big Brother","incorrect_answers":["Jeopardy","Survivor","The Bachelor"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":194,"type":"multiple","difficulty":"medium","category":"Entertainment: Books","question":"The book &quot;Fahrenheit 451&quot; was written by whom?","correct_answer":"Ray Bradbury","incorrect_answers":["R. L. Stine","Wolfgang Amadeus Mozart","Stephen King"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

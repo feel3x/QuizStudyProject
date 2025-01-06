@@ -1,0 +1,1 @@
+{"id":1678,"type":"multiple","difficulty":"hard","category":"History","question":"The coat of arms of the King of Spain contains the arms from the monarchs of Castille, Leon, Aragon and which other former Iberian kingdom?","correct_answer":"Navarre","incorrect_answers":["Galicia","Granada","Catalonia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

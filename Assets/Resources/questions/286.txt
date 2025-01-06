@@ -1,0 +1,1 @@
+{"id":286,"type":"boolean","difficulty":"easy","category":"Entertainment: Film","question":"In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

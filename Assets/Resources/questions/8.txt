@@ -1,0 +1,1 @@
+{"id":8,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What is Tasmania?","correct_answer":"An Australian State","incorrect_answers":["A flavor of Ben and Jerry&#039;s ice-cream","A Psychological Disorder","The Name of a Warner Brothers Cartoon Character"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

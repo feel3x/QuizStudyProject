@@ -1,0 +1,1 @@
+{"id":360,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"In what year did Clint Eastwood star as Inspector Harry Callahan in the film &quot;Dirty Harry&quot;?","correct_answer":"1971","incorrect_answers":["1975","1983","1969"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

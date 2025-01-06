@@ -1,0 +1,1 @@
+{"id":1698,"type":"multiple","difficulty":"hard","category":"History","question":"What did the abbreviation &quot;RMS&quot; stand for in the RMS Titanic in 1912?","correct_answer":"Royal Mail Ship","incorrect_answers":["Royal Majesty Service","Regular Maritime Schedule ","Regulated Maelstrom Sensor"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

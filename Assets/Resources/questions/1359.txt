@@ -1,0 +1,1 @@
+{"id":1359,"type":"multiple","difficulty":"medium","category":"Sports","question":"In what sport does Fanny Chmelar compete for Germany?","correct_answer":"Skiing","incorrect_answers":["Swimming","Showjumping","Gymnastics"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

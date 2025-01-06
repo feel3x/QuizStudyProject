@@ -1,0 +1,1 @@
+{"id":950,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"How many planets are in our Solar System?","correct_answer":"Eight","incorrect_answers":["Nine","Seven","Ten"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

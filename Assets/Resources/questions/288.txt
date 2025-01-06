@@ -1,0 +1,1 @@
+{"id":288,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?","correct_answer":"Harry Potter","incorrect_answers":["Ted","Spy Kids","Pirates of the Caribbean "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

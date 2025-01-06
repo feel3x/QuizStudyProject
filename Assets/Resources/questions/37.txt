@@ -1,0 +1,1 @@
+{"id":37,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What is the name of NASA&rsquo;s most famous space telescope?","correct_answer":"Hubble Space Telescope","incorrect_answers":["Big Eye","Death Star","Millenium Falcon"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

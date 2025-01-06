@@ -1,0 +1,1 @@
+{"id":1994,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"What part of an automobile engine uses lobes to open and close intake and exhaust valves, and allows an air/fuel mixture into the engine?","correct_answer":"Camshaft","incorrect_answers":["Piston","Drive shaft","Crankshaft"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

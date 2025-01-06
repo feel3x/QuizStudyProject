@@ -1,0 +1,1 @@
+{"id":471,"type":"multiple","difficulty":"medium","category":"Entertainment: Music","question":"What album did Gorillaz release in 2017?","correct_answer":"Humanz","incorrect_answers":["Plastic Beach","The Fall","Demon Days"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

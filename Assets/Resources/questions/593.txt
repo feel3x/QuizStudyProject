@@ -1,0 +1,1 @@
+{"id":593,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"On the NBC show Community, whose catch-phrase was &quot;Pop! Pop!&quot;?","correct_answer":"Magnitude","incorrect_answers":["Star Burns","Leonard","Senoir Chang"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

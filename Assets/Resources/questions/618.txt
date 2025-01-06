@@ -1,0 +1,1 @@
+{"id":618,"type":"multiple","difficulty":"easy","category":"Entertainment: Television","question":"What is the name of the planet that the Doctor from television series &quot;Doctor Who&quot; comes from?","correct_answer":"Gallifrey","incorrect_answers":["Sontar","Skaro","Mondas"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

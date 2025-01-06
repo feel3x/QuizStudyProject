@@ -1,0 +1,1 @@
+{"id":1805,"type":"multiple","difficulty":"medium","category":"Art","question":"Which time signature is commonly known as &ldquo;Cut Time?&rdquo;","correct_answer":"2/2","incorrect_answers":["4/4","6/8","3/4"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

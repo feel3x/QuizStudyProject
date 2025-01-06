@@ -1,0 +1,1 @@
+{"id":1304,"type":"multiple","difficulty":"hard","category":"Mythology","question":"Talos, the mythical giant bronze man, was the protector of which island?","correct_answer":"Crete","incorrect_answers":["Sardinia","Sicily","Cyprus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

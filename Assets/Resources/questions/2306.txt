@@ -1,0 +1,1 @@
+{"id":2306,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"Which city did Anger berate for ruining pizza in &quot;Inside Out&quot;?","correct_answer":"San Francisco","incorrect_answers":["Minnesota","Washington","California"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

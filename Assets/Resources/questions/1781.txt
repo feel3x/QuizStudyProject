@@ -1,0 +1,1 @@
+{"id":1781,"type":"boolean","difficulty":"hard","category":"Politics","question":"George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

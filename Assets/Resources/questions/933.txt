@@ -1,0 +1,1 @@
+{"id":933,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?","correct_answer":"Sputnik 1","incorrect_answers":["Soyuz 7K-OK","Zenit-2","Voskhod 3KV"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

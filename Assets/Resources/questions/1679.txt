@@ -1,0 +1,1 @@
+{"id":1679,"type":"boolean","difficulty":"hard","category":"History","question":"The Battle of Trafalgar took place on October 23rd, 1805","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

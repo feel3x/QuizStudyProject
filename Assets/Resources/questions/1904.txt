@@ -1,0 +1,1 @@
+{"id":1904,"type":"multiple","difficulty":"medium","category":"Animals","question":"The now extinct species &quot;Thylacine&quot; was native to where?","correct_answer":"Tasmania, Australia","incorrect_answers":["Baluchistan, Pakistan","Wallachia, Romania","Oregon, United States"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

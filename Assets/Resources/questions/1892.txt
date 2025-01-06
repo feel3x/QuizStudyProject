@@ -1,0 +1,1 @@
+{"id":1892,"type":"multiple","difficulty":"easy","category":"Animals","question":"How many teeth does an adult rabbit have?","correct_answer":"28","incorrect_answers":["30","26","24"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":340,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"In the 1979 British film &quot;Quadrophenia&quot; what is the name of the main protagonist?","correct_answer":"Jimmy Cooper","incorrect_answers":["Pete Townshend","Franc Roddam","Archie Bunker"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

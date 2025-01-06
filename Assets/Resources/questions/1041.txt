@@ -1,0 +1,1 @@
+{"id":1041,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"An organic compound is considered an alcohol if it has what functional group?","correct_answer":"Hydroxyl","incorrect_answers":["Carbonyl","Alkyl","Aldehyde"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

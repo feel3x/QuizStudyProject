@@ -1,0 +1,1 @@
+{"id":1822,"type":"multiple","difficulty":"easy","category":"Celebrities","question":"Which celebrity announced his presidency in 2015?","correct_answer":"Kanye West","incorrect_answers":["Donald Trump","Leonardo DiCaprio","Miley Cyrus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

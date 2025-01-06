@@ -1,0 +1,1 @@
+{"id":413,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Which English guitarist has the nickname &quot;Slowhand&quot;?","correct_answer":"Eric Clapton","incorrect_answers":["Mark Knopfler","Jeff Beck","Jimmy Page"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

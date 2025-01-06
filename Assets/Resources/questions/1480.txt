@@ -1,0 +1,1 @@
+{"id":1480,"type":"multiple","difficulty":"medium","category":"Geography","question":"Which country has the abbreviation &quot;CH&quot;?","correct_answer":"Switzerland","incorrect_answers":["China","Canada","No Country"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":1506,"type":"boolean","difficulty":"medium","category":"Geography","question":"The Sonoran Desert is located in eastern Africa.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

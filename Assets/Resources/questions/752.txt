@@ -1,0 +1,1 @@
+{"id":752,"type":"boolean","difficulty":"easy","category":"Entertainment: Video Games","question":"The end credits sequence in Grand Theft Auto 5 is over half an hour long.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

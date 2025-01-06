@@ -1,0 +1,1 @@
+{"id":1683,"type":"multiple","difficulty":"hard","category":"History","question":"The Battle of Hastings was fought in which year?","correct_answer":"1066","incorrect_answers":["911","1204","1420"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

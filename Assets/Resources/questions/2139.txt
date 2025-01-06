@@ -1,0 +1,1 @@
+{"id":2139,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In Digimon, what is the Japanese name for the final evolutionary stage?","correct_answer":"Ultimate","incorrect_answers":["Mega","Adult","Champion"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

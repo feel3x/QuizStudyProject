@@ -1,0 +1,1 @@
+{"id":677,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"Which country does the YouTuber &quot;SinowBeats&quot; originate from?","correct_answer":"Scotland","incorrect_answers":["England","Sweden","Germany"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

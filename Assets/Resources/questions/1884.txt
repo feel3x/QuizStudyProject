@@ -1,0 +1,1 @@
+{"id":1884,"type":"multiple","difficulty":"easy","category":"Animals","question":"What is the fastest  land animal?","correct_answer":"Cheetah","incorrect_answers":["Lion","Thomson&rsquo;s Gazelle","Pronghorn Antelope"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

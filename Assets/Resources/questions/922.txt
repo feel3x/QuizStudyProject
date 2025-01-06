@@ -1,0 +1,1 @@
+{"id":922,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"Which of the following bones is not in the leg?","correct_answer":"Radius","incorrect_answers":["Patella","Tibia","Fibula "],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

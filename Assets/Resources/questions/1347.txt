@@ -1,0 +1,1 @@
+{"id":1347,"type":"boolean","difficulty":"easy","category":"Sports","question":"Peyton Manning retired after winning Super Bowl XLIX.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

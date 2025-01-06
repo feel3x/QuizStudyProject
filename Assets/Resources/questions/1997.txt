@@ -1,0 +1,1 @@
+{"id":1997,"type":"boolean","difficulty":"medium","category":"Vehicles","question":"Ferrari has never made a V10 engine for any of its cars.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

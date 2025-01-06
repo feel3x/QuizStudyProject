@@ -1,0 +1,1 @@
+{"id":276,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Which of these films is NOT set in Los Angeles?","correct_answer":"RoboCop","incorrect_answers":["Blade Runner","The Terminator","Predator 2"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

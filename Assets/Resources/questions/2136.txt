@@ -1,0 +1,1 @@
+{"id":2136,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"In &quot;To Love-Ru&quot;, Ren and Run are from what planet?","correct_answer":"Memorze","incorrect_answers":["Deviluke","Mistletoe","Okiwana"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

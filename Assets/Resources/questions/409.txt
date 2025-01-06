@@ -1,0 +1,1 @@
+{"id":409,"type":"multiple","difficulty":"easy","category":"Entertainment: Music","question":"Which of these is NOT the name of an album released by English singer-songwriter Adele?","correct_answer":"12","incorrect_answers":["19","21","25"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

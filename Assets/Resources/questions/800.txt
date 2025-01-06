@@ -1,0 +1,1 @@
+{"id":800,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"How much did the indie game &quot;Cave Story&quot; cost when it was first released in 2004?","correct_answer":"$0 USD","incorrect_answers":["$5 USD","$10 USD","$15 USD"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

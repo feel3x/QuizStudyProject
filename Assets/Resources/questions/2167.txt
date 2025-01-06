@@ -1,0 +1,1 @@
+{"id":2167,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"Which of these is not a world in the anime &quot;Buddyfight&quot;?","correct_answer":"Ancient Dragon World","incorrect_answers":["Dragon World","Star Dragon World","Darkness Dragon World"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

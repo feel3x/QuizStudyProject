@@ -1,0 +1,1 @@
+{"id":389,"type":"multiple","difficulty":"hard","category":"Entertainment: Film","question":"In the &quot;Jurassic Park&quot; universe, what was the first dinosaur cloned by InGen in 1986?","correct_answer":"Velociraptor","incorrect_answers":["Triceratops","Troodon","Brachiosaurus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

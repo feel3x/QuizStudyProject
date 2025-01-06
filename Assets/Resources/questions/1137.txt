@@ -1,0 +1,1 @@
+{"id":1137,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"On which computer hardware device is the BIOS chip located?","correct_answer":"Motherboard","incorrect_answers":["Hard Disk Drive","Central Processing Unit","Graphics Processing Unit"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

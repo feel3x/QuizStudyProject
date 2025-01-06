@@ -1,0 +1,1 @@
+{"id":974,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Which color cannot be produced in Roses, even through genetic alteration?","correct_answer":"Blue","incorrect_answers":["Black","Orange","Brown"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

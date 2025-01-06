@@ -1,0 +1,1 @@
+{"id":884,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"What special item did the creators of Cards Against Humanity ship for their Black Friday pack?","correct_answer":"Bull Feces","incorrect_answers":["A Card Expansion","A Racist Toy","Cat Urine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

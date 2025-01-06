@@ -1,0 +1,1 @@
+{"id":905,"type":"boolean","difficulty":"hard","category":"Entertainment: Board Games","question":"The board game Go has more possible legal positions than the number of atoms in the visible universe.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

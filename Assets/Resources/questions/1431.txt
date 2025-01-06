@@ -1,0 +1,1 @@
+{"id":1431,"type":"boolean","difficulty":"easy","category":"Geography","question":"There is an island in Japan called Ōkunoshima, A.K.A. &quot;Rabbit Island&quot;, so named because of it&#039;s huge population of rabbits.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":484,"type":"boolean","difficulty":"medium","category":"Entertainment: Music","question":"Metallica collaborated with Rowan Atkinson&#039;s Mr Bean on a 1992 comic relief single.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

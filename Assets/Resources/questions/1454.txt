@@ -1,0 +1,1 @@
+{"id":1454,"type":"multiple","difficulty":"easy","category":"Geography","question":"What is the capital of India?","correct_answer":"New Delhi","incorrect_answers":["Bejing","Montreal","Tithi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

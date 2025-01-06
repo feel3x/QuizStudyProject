@@ -1,0 +1,1 @@
+{"id":1142,"type":"boolean","difficulty":"medium","category":"Science: Computers","question":"It&#039;s not possible to format a write-protected DVD-R Hard Disk.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

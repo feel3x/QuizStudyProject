@@ -1,0 +1,1 @@
+{"id":1112,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"Moore&#039;s law originally stated that the number of transistors on a microprocessor chip would double every...","correct_answer":"Year","incorrect_answers":["Four Years","Two Years","Eight Years"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

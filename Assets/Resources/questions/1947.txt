@@ -1,0 +1,1 @@
+{"id":1947,"type":"multiple","difficulty":"hard","category":"Animals","question":"What is the scientific name of the Budgerigar?","correct_answer":"Melopsittacus undulatus","incorrect_answers":["Nymphicus hollandicus","Pyrrhura molinae","Ara macao"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

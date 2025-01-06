@@ -1,0 +1,1 @@
+{"id":1127,"type":"multiple","difficulty":"medium","category":"Science: Computers","question":"In programming, the ternary operator is mostly defined with what symbol(s)?","correct_answer":"?:","incorrect_answers":["??","if then","?"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

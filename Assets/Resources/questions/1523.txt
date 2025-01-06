@@ -1,0 +1,1 @@
+{"id":1523,"type":"multiple","difficulty":"medium","category":"Geography","question":"All of the following are towns/villages in the Pacific Island nation of Kiribati EXCEPT:","correct_answer":"Urutora","incorrect_answers":["Rungata","London","Washington"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

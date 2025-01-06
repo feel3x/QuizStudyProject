@@ -1,0 +1,1 @@
+{"id":728,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"In Rust, how many Timed Explosive Charges does it take to destroy a Ladder Hatch?","correct_answer":"1","incorrect_answers":["3","2","5"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

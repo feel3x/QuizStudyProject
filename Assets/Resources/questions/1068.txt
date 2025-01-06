@@ -1,0 +1,1 @@
+{"id":1068,"type":"multiple","difficulty":"easy","category":"Science: Computers","question":"Which computer language would you associate Django framework with?","correct_answer":"Python","incorrect_answers":["C#","C++","Java"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

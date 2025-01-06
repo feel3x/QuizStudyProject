@@ -1,0 +1,1 @@
+{"id":1756,"type":"multiple","difficulty":"medium","category":"Politics","question":"Before 2016, in which other year did Donald Trump run for President?","correct_answer":"2000","incorrect_answers":["2012","1988","2008"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

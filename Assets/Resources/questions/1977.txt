@@ -1,0 +1,1 @@
+{"id":1977,"type":"multiple","difficulty":"medium","category":"Vehicles","question":"Enzo Ferrari was originally an auto racer for what manufacturer before founding his own car company?","correct_answer":"Alfa Romeo","incorrect_answers":["Auto Union","Mercedes Benz","Bentley"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":928,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"Dry ice is the solid form of what substance?","correct_answer":"Carbon dioxide","incorrect_answers":["Nitrogen","Ammonia","Oxygen"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

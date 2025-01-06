@@ -1,0 +1,1 @@
+{"id":747,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which Greek letter represents the &quot;Half-Life&quot; logo?","correct_answer":"Lambda","incorrect_answers":["Omega","Alpha","Sigma"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

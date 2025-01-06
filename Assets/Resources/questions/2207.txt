@@ -1,0 +1,1 @@
+{"id":2207,"type":"multiple","difficulty":"medium","category":"Entertainment: Japanese Anime &amp; Manga","question":"In the 2011 TV anime series, &quot;THE iDOLM@STER&quot;, what was the name of Iori&#039;s stuffed toy bunny?","correct_answer":"Charles","incorrect_answers":["Bubsy","Kero","Usagi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

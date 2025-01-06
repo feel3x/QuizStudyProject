@@ -1,0 +1,1 @@
+{"id":726,"type":"boolean","difficulty":"easy","category":"Entertainment: Video Games","question":"The 2005 video game &quot;Call of Duty 2: Big Red One&quot; is not available on PC.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

@@ -1,0 +1,1 @@
+{"id":492,"type":"boolean","difficulty":"hard","category":"Entertainment: Music","question":"Pete Townshend&#039;s solo album, &quot;White City: A Novel&quot;, is set in the metropolitan area of Chicago.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

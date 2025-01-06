@@ -1,0 +1,1 @@
+{"id":1866,"type":"multiple","difficulty":"hard","category":"Celebrities","question":"Who was Donald Trump&#039;s first wife?","correct_answer":"Ivana Zeln&iacute;čkov&aacute;","incorrect_answers":["Melania Knauss","Marla Maples","Nancy Davis"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

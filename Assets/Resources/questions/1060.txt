@@ -1,0 +1,1 @@
+{"id":1060,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"What nucleotide pairs with guanine?","correct_answer":"Cytosine","incorrect_answers":["Thymine","Adenine","Uracil"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

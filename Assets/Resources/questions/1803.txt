@@ -1,0 +1,1 @@
+{"id":1803,"type":"multiple","difficulty":"medium","category":"Art","question":"Who designed the Chupa Chups logo?","correct_answer":"Salvador Dali","incorrect_answers":["Pablo Picasso","Andy Warhol","Vincent van Gogh"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

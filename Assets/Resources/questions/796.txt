@@ -1,0 +1,1 @@
+{"id":796,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What element does the Zinogre use in Monster Hunter?","correct_answer":"Thunder","incorrect_answers":["Ice","Fire","Water"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

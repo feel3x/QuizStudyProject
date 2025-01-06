@@ -1,0 +1,1 @@
+{"id":1274,"type":"boolean","difficulty":"medium","category":"Mythology","question":"The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

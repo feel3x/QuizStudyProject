@@ -1,0 +1,1 @@
+{"id":766,"type":"multiple","difficulty":"medium","category":"Entertainment: Video Games","question":"What is the name of the final boss in Turok: Dinosaur Hunter?","correct_answer":"The Campaigner","incorrect_answers":["The Primagen","Oblivion","Lord Tyrannus"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

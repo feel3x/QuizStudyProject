@@ -1,0 +1,1 @@
+{"id":1236,"type":"multiple","difficulty":"hard","category":"Science: Mathematics","question":"The decimal number 31 in hexadecimal would be what?","correct_answer":"1F","incorrect_answers":["3D","2E","1B"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

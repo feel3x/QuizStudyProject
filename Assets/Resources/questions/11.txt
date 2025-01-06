@@ -1,0 +1,1 @@
+{"id":11,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What is the closest planet to our solar system&#039;s sun?","correct_answer":"Mercury","incorrect_answers":["Mars","Jupiter","Earth"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

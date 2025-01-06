@@ -1,0 +1,1 @@
+{"id":1522,"type":"multiple","difficulty":"medium","category":"Geography","question":"The Pyrenees mountains are located on the border of which two countries?","correct_answer":"France and Spain","incorrect_answers":["Italy and Switzerland","Norway and Sweden","Russia and Ukraine"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

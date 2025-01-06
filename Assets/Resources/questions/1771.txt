@@ -1,0 +1,1 @@
+{"id":1771,"type":"boolean","difficulty":"medium","category":"Politics","question":"The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.","correct_answer":"True","incorrect_answers":["False"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

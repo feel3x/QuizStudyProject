@@ -1,0 +1,1 @@
+{"id":913,"type":"multiple","difficulty":"easy","category":"Science &amp; Nature","question":"71% of the Earth&#039;s surface is made up of","correct_answer":"Water","incorrect_answers":["Deserts","Continents","Forests"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

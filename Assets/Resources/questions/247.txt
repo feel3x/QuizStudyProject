@@ -1,0 +1,1 @@
+{"id":247,"type":"multiple","difficulty":"hard","category":"Entertainment: Books","question":"In the Beatrix Potter books, what type of animal is Tommy Brock?","correct_answer":"Badger","incorrect_answers":["Fox","Frog","Rabbit"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

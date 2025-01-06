@@ -1,0 +1,1 @@
+{"id":700,"type":"multiple","difficulty":"hard","category":"Entertainment: Television","question":"What&#039;s Dr. Doofenshmirtz first name?","correct_answer":"Heinz","incorrect_answers":["Hans","Hank","Heidi"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

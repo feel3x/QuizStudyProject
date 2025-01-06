@@ -1,0 +1,1 @@
+{"id":278,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"Which movie contains the quote, &quot;Say hello to my little friend!&quot;?","correct_answer":"Scarface","incorrect_answers":["Reservoir Dogs","Heat","Goodfellas"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

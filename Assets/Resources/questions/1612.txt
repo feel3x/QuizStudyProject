@@ -1,0 +1,1 @@
+{"id":1612,"type":"multiple","difficulty":"easy","category":"History","question":"What was William Frederick Cody better known as?","correct_answer":"Buffalo Bill","incorrect_answers":["Billy the Kid","Wild Bill Hickok","Pawnee Bill"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

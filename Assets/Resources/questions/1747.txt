@@ -1,0 +1,1 @@
+{"id":1747,"type":"multiple","difficulty":"medium","category":"Politics","question":"What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?","correct_answer":"The Kingfish","incorrect_answers":["The Champ","The Hoot Owl","The Oracle"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

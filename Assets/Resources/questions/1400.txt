@@ -1,0 +1,1 @@
+{"id":1400,"type":"multiple","difficulty":"medium","category":"Sports","question":"Which portuguese island is soccer player Cristiano Ronaldo from?","correct_answer":"Madeira","incorrect_answers":["Terceira","Santa Maria","Porto Santo"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

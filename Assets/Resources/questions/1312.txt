@@ -1,0 +1,1 @@
+{"id":1312,"type":"multiple","difficulty":"easy","category":"Sports","question":"In what sport is a &quot;shuttlecock&quot; used?","correct_answer":"Badminton","incorrect_answers":["Table Tennis","Rugby","Cricket"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

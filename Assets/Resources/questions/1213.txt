@@ -1,0 +1,1 @@
+{"id":1213,"type":"multiple","difficulty":"medium","category":"Science: Mathematics","question":"How many zeros are there in a googol?","correct_answer":"100","incorrect_answers":["10","1,000","1,000,000"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

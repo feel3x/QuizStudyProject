@@ -1,0 +1,1 @@
+{"id":1511,"type":"multiple","difficulty":"medium","category":"Geography","question":"The formerly East-Prussian city of K&ouml;nigsberg is known as which Russian City today?","correct_answer":"Kaliningrad","incorrect_answers":["Kazan","Kursk","Krasnodar"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

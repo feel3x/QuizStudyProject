@@ -1,0 +1,1 @@
+{"id":885,"type":"multiple","difficulty":"medium","category":"Entertainment: Board Games","question":"In what year was the card game Magic: the Gathering first introduced?","correct_answer":"1993","incorrect_answers":["1987","1998","2003"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

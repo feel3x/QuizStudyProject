@@ -1,0 +1,1 @@
+{"id":31,"type":"multiple","difficulty":"easy","category":"General Knowledge","question":"What machine element is located in the center of fidget spinners?","correct_answer":"Bearings","incorrect_answers":["Axles","Gears","Belts"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

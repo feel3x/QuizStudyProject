@@ -1,0 +1,1 @@
+{"id":1275,"type":"multiple","difficulty":"medium","category":"Mythology","question":"In Greek Mythology, who killed Achilles?","correct_answer":"Paris","incorrect_answers":["Hector","Helen","Pericles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

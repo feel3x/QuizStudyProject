@@ -1,0 +1,1 @@
+{"id":509,"type":"multiple","difficulty":"hard","category":"Entertainment: Music","question":"Which of these songs was released in 1996?","correct_answer":"The Smashing Pumpkins - &quot;1979&quot;","incorrect_answers":["Prince - &quot;1999&quot;","James Blunt - &quot;1973&quot;","David Bowie - &quot;1984&quot;"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

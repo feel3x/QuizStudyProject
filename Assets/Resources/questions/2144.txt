@@ -1,0 +1,1 @@
+{"id":2144,"type":"multiple","difficulty":"easy","category":"Entertainment: Japanese Anime &amp; Manga","question":"What was Ash Ketchum&#039;s second Pokemon?","correct_answer":"Caterpie","incorrect_answers":["Charmander","Pikachu","Pidgey"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

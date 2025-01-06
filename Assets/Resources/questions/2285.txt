@@ -1,0 +1,1 @@
+{"id":2285,"type":"multiple","difficulty":"easy","category":"Entertainment: Cartoon &amp; Animations","question":"Which &#039;Family Guy&#039; character got his own spin-off show in 2009?","correct_answer":"Cleveland Brown","incorrect_answers":["Glenn Quagmire","Joe Swanson","The Greased-up Deaf Guy"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

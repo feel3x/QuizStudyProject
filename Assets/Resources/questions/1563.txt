@@ -1,0 +1,1 @@
+{"id":1563,"type":"multiple","difficulty":"hard","category":"Geography","question":"Which of these island countries is located in the Caribbean?","correct_answer":"Barbados","incorrect_answers":["Fiji","Maldives","Seychelles"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

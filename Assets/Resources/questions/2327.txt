@@ -1,0 +1,1 @@
+{"id":2327,"type":"multiple","difficulty":"medium","category":"Entertainment: Cartoon &amp; Animations","question":"In the animated series RWBY, what is the name of the weapon used by Weiss Schnee?","correct_answer":"Myrtenaster","incorrect_answers":["Gambol Shroud","Crescent Rose","Ember Celica"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

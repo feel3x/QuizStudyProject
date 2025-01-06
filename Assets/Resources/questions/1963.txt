@@ -1,0 +1,1 @@
+{"id":1963,"type":"multiple","difficulty":"easy","category":"Vehicles","question":"Where are the cars of the brand &quot;Ferrari&quot; manufactured?","correct_answer":"Italy","incorrect_answers":["Romania","Germany","Russia"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

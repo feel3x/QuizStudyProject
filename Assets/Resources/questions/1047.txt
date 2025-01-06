@@ -1,0 +1,1 @@
+{"id":1047,"type":"boolean","difficulty":"hard","category":"Science &amp; Nature","question":"The chemical element Lithium is named after the country of Lithuania.","correct_answer":"False","incorrect_answers":["True"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

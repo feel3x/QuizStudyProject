@@ -1,0 +1,1 @@
+{"id":280,"type":"multiple","difficulty":"easy","category":"Entertainment: Film","question":"This movie contains the quote, &quot;Houston, we have a problem.&quot;","correct_answer":"Apollo 13","incorrect_answers":["The Right Stuff","Capricorn One","Marooned"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

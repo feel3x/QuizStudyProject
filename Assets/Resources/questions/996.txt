@@ -1,0 +1,1 @@
+{"id":996,"type":"multiple","difficulty":"medium","category":"Science &amp; Nature","question":"Which of the following spacecraft never touched the moon?","correct_answer":"Mariner 4","incorrect_answers":["Apollo 11","Luna 2","SMART-1"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

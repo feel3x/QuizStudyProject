@@ -1,0 +1,1 @@
+{"id":2004,"type":"multiple","difficulty":"hard","category":"Vehicles","question":"Which car is the first mass-produced hybrid vehicle?","correct_answer":"Toyota Prius","incorrect_answers":["Chevrolet Volt","Honda Fit","Peugeot 308 R HYbrid"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

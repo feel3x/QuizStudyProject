@@ -1,0 +1,1 @@
+{"id":714,"type":"multiple","difficulty":"easy","category":"Entertainment: Video Games","question":"Which water-type Pok&eacute;mon starter was introduced in the 4th generation of the series?","correct_answer":"Piplup","incorrect_answers":["Totodile","Oshawott","Mudkip"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

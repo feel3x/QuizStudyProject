@@ -1,0 +1,1 @@
+{"id":301,"type":"multiple","difficulty":"medium","category":"Entertainment: Film","question":"This trope refers to minor characters that are killed off to show how a monster works.","correct_answer":"Red Shirt","incorrect_answers":["Minions","Expendables","Cannon Fodder"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

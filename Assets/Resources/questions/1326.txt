@@ -1,0 +1,1 @@
+{"id":1326,"type":"multiple","difficulty":"easy","category":"Sports","question":"In golf, what name is given to a hole score of two under par?","correct_answer":"Eagle","incorrect_answers":["Birdie","Bogey","Albatross"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

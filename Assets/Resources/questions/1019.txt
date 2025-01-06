@@ -1,0 +1,1 @@
+{"id":1019,"type":"multiple","difficulty":"hard","category":"Science &amp; Nature","question":"Muscle fiber is constructed of bundles small long organelles called what?","correct_answer":"Myofibrils","incorrect_answers":["Epimysium","Myofiaments","Myocardium"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}

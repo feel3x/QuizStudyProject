@@ -1,0 +1,1 @@
+{"id":112,"type":"multiple","difficulty":"hard","category":"General Knowledge","question":"What is the weight of a Gold Bar in Fallout: New Vegas?","correct_answer":"35 Pounds","incorrect_answers":["30 Pounds","40 Pounds","32.50 Pounds"],"amountAsked":0,"correctlyAnswered":false,"timeToAnswer":""}
